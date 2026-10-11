@@ -1,0 +1,309 @@
+{
+  "articles": [
+    {
+      "id": "verstappen-pole-sprint-singapur",
+      "cat": "carrera",
+      "date": "2026-10-09",
+      "title": "Verstappen gana la pole del sprint en Singapur por 0.120 s",
+      "summary": "El piloto de Red Bull superó a Russell, que usó el Mercedes de especificación anterior, y Leclerc fue tercero.",
+      "body": [
+        "Max Verstappen consiguió la pole de la primera carrera sprint de la historia de Singapur. Según Crash.net, es la undécima de su carrera en este formato.",
+        "Su ventaja sobre George Russell fue de 0.120 s. El británico llegó a la clasificación con el Mercedes de especificación anterior, no con el paquete nuevo.",
+        "Charles Leclerc estuvo un rato en la pole provisional, pero terminó tercero, a 0.243 s. Detrás quedaron Piastri y Norris, con Hamilton sexto y Antonelli séptimo.",
+        "La parrilla del sprint: Verstappen, Russell, Leclerc, Piastri, Norris, Hamilton, Antonelli, Lawson, Hadjar y Gasly. El sprint es a 21 vueltas.",
+        "Lo que hay que observar: la salida del sábado. En Marina Bay adelantar es muy difícil, así que ganar la primera curva vale casi toda la carrera."
+      ],
+      "source": "Crash.net",
+      "url": "https://www.crash.net/f1/news/1106859/1/max-verstappen-takes-singapore-gp-sprint-pole-risk-penalty",
+      "img": "img/noticias/verstappen-fp2-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY-SA 4.0 · Wikimedia Commons",
+      "imgAlt": "Max Verstappen con el Red Bull"
+    },
+    {
+      "id": "verstappen-sin-sancion-hamilton",
+      "cat": "carrera",
+      "date": "2026-10-09",
+      "title": "Verstappen se salva de sanción por el pase a Hamilton con bandera amarilla",
+      "summary": "Los comisarios admitieron la infracción, pero no castigaron a Verstappen por la gran diferencia de velocidad con Hamilton.",
+      "body": [
+        "En la Q1 de la clasificación sprint, Sergio Pérez tocó el muro y se mostraron banderas amarillas entre las curvas 7 y 8. Verstappen alcanzó a Hamilton, que iba lento, y lo pasó dentro de esa zona.",
+        "Los comisarios concluyeron que sí hubo infracción al reglamento de banderas amarillas. Aun así decidieron no sancionar.",
+        "Su razonamiento: la telemetría mostró que Verstappen levantó el acelerador unos 40 metros antes de entrar a la zona, pasó unos 70 km/h más lento que en su otra vuelta rápida y Hamilton bajó de 60 km/h. Evitar el pase habría exigido una frenada muy fuerte, potencialmente peligrosa.",
+        "Por eso Verstappen conservó la pole del sprint. Según el mismo medio, él mismo dijo por radio que creía haber pasado antes de la amarilla, aunque prefirió ceder la posición por seguridad.",
+        "Lo que hay que observar: la polémica puede reabrir el debate sobre cómo se aplican las banderas amarillas en vueltas rápidas de clasificación."
+      ],
+      "source": "Crash.net",
+      "url": "https://www.crash.net/f1/news/1106889/1/max-verstappen-escapes-penalty-and-keeps-singapore-sprint-pole-after-lewis",
+      "img": "img/noticias/hamilton-quali-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY-SA 4.0 · Wikimedia Commons",
+      "imgAlt": "Lewis Hamilton con el Ferrari"
+    },
+    {
+      "id": "fia-error-humano-clasificacion-sprint",
+      "cat": "carrera",
+      "date": "2026-10-09",
+      "title": "Un error humano de la FIA altera la clasificación sprint",
+      "summary": "El modo de adelantamiento no estuvo disponible tras la bandera roja de la Q1 y Sainz criticó duramente a la FIA.",
+      "body": [
+        "Tras la bandera roja provocada por el choque de Pérez en la Q1, Dirección de Carrera cometió un error: el modo de adelantamiento, que da medio megajoule extra de energía, no estaba habilitado.",
+        "Al notarlo, lo activaron durante 27 segundos y luego lo desactivaron de nuevo. La FIA explicó que el efecto dependió de cuándo salió cada coche y en qué punto de la vuelta estaba. La Q2 y la Q3 no se vieron afectadas.",
+        "Carlos Sainz, que fue el más lento de la sesión, dijo que la mitad de los coches tenía más potencia que la otra mitad y reclamó equidad deportiva. También reconoció problemas propios de frenos y neumáticos.",
+        "Además hubo un fallo de cronometraje que retrasó varios minutos el arranque de la Q2. Martin Brundle lo calificó de vergonzoso para la F1, según Crash.net.",
+        "Lo que hay que observar: si la FIA da más explicaciones antes de la clasificación del sábado."
+      ],
+      "source": "Crash.net",
+      "url": "https://www.crash.net/f1/news/1106883/1/carlos-sainz-slams-fia-after-human-error-left-drivers-power-inequality-sprint",
+      "img": "img/noticias/sainz-austria.jpg",
+      "imgCredit": "Lukas Raich · CC BY-SA 4.0 · Wikimedia Commons",
+      "imgAlt": "Carlos Sainz con el Williams"
+    },
+    {
+      "id": "checo-choque-sprint-singapur",
+      "cat": "pilotos",
+      "date": "2026-10-09",
+      "title": "Checo choca en la clasificación sprint y largará 20.º",
+      "summary": "Pérez culpa a que el Cadillac perdió altura de forma brusca en la curva 4 y provocó una bandera roja.",
+      "body": [
+        "Sergio Pérez perdió el control en plena curva, golpeó el muro y dañó el alerón delantero. Los restos en pista provocaron la bandera roja de la Q1.",
+        "El mexicano explicó que empujó mucho y que, a media curva, el coche tocó el suelo de forma muy agresiva y no pudo controlarlo. Según RacingNews365, sostiene que el ritmo real de Cadillac no está lejos de donde debería.",
+        "Tras la reparación marcó 1:36.760 y largará 20.º en el sprint, por delante solo de Bottas y Sainz. En la única práctica libre había sido 21.º.",
+        "Lo que hay que observar: si Cadillac corrige la altura del coche para la clasificación del sábado, porque el problema lo dejó sin margen justo en la vuelta clave."
+      ],
+      "source": "RacingNews365",
+      "url": "https://racingnews365.com/sergio-perez-points-aggressive-finger-of-blame-for-sprint-qualifying-crash",
+      "img": "img/noticias/checo-19-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Sergio Pérez con el Cadillac"
+    },
+    {
+      "id": "mercedes-dos-especificaciones",
+      "cat": "equipos",
+      "date": "2026-10-09",
+      "title": "Mercedes compara dos coches en Singapur y el viejo gana",
+      "summary": "Russell, con el paquete anterior, fue más rápido que Antonelli, que estrena las mejoras y salió séptimo.",
+      "body": [
+        "Mercedes corre con dos especificaciones: Russell usa el paquete anterior y Antonelli el nuevo, que apareció en Malasia. Russell fue el más rápido de la única práctica libre.",
+        "En la clasificación sprint Russell fue segundo y Antonelli séptimo, quien dijo que le costó sacar rendimiento al coche. Según RacingNews365, Russell no ve pruebas de que la mejora falle, pero admite que el cronómetro aún no la respalda.",
+        "Russell tiene además una penalización de motor: la FIA confirmó seis elementos nuevos de la unidad de potencia, así que saldrá desde el fondo en el Gran Premio del domingo. Dijo que tomará otra sanción más adelante, porque le quedan cuatro motores para siete carreras.",
+        "Antonelli correrá el sprint con el coche mejorado y el equipo observará su rendimiento.",
+        "Lo que hay que observar: qué especificación elige Mercedes para el domingo; el artículo no lo aclara."
+      ],
+      "source": "RacingNews365 / Crash.net",
+      "url": "https://racingnews365.com/george-russell-points-to-stopwatch-concern-over-mercedes-f1-upgrade",
+      "img": "img/noticias/russell-austria.jpg",
+      "imgCredit": "Lukas Raich · CC BY-SA 4.0 · Wikimedia Commons",
+      "imgAlt": "George Russell con el Mercedes"
+    },
+    {
+      "id": "hamilton-plan-sq3-singapur",
+      "cat": "pilotos",
+      "date": "2026-10-09",
+      "title": "Hamilton reconoce su error de estrategia en la SQ3",
+      "summary": "El piloto de Ferrari hizo una sola vuelta lanzada en la SQ3 y quedó sexto, a más de 0.5 s de la pole.",
+      "body": [
+        "Lewis Hamilton eligió un plan distinto al del resto en la SQ3 y completó una sola vuelta rápida. Según Crash.net, admitió que fue su decisión y que fue la equivocada.",
+        "En esa última vuelta el coche se sintió inestable de atrás. Dijo que tenía ritmo en la Q1 y la Q2, pero que al pasar de medios a blandos tuvo mucho agarre adelante y casi nada atrás.",
+        "No sabe si las gomas traseras no estaban listas o se sobrecalentaron. Terminó sexto, a más de medio segundo de Verstappen.",
+        "Ferrari fue el único equipo grande sin mejoras para Singapur, según RacingNews365, y aun así Leclerc fue tercero.",
+        "Lo que hay que observar: Hamilton larga sexto en el sprint; una buena salida le daría opciones de recuperar terreno."
+      ],
+      "source": "Crash.net",
+      "url": "https://www.crash.net/f1/news/1106884/1/lewis-hamilton-owns-mistake-singapore-gp-sprint-qualifying-run-plan-backfires",
+      "img": "img/noticias/hamilton-quali-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY-SA 4.0 · Wikimedia Commons",
+      "imgAlt": "Lewis Hamilton con el Ferrari"
+    },
+    {
+      "id": "colapinto-alonso-parrilla-sprint",
+      "cat": "pilotos",
+      "date": "2026-10-09",
+      "title": "Colapinto largará 11.º en el sprint y Alonso 15.º",
+      "summary": "El argentino quedó a las puertas del top 10; Sainz será último con Williams.",
+      "body": [
+        "Franco Colapinto saldrá 11.º en el sprint, justo detrás de su compañero Pierre Gasly, que parte décimo. Según Crash.net, no entró al top 10 por muy poco.",
+        "Fernando Alonso llegó a la SQ2 y largará 15.º con Aston Martin. Su compañero Stroll parte 18.º.",
+        "Carlos Sainz saldrá 22.º y último, afectado por el error de la FIA con el modo de adelantamiento y por problemas de frenos y neumáticos que él mismo señaló.",
+        "Lo que hay que observar: Colapinto parte en zona de puntos cercana. Con un sprint de solo 21 vueltas, cualquier ganancia en la salida puede valer."
+      ],
+      "source": "Crash.net",
+      "url": "https://www.crash.net/f1/news/1106890/1/f1-2026-singapore-grand-prix-full-starting-grid-sprint-race-after-max-verstappen",
+      "img": "img/noticias/colapinto-13-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Franco Colapinto con el Alpine"
+    },
+    {
+      "id": "ferrari-sin-mejoras-singapur",
+      "cat": "equipos",
+      "date": "2026-10-09",
+      "title": "Ferrari, el único grande sin mejoras en Singapur",
+      "summary": "Solo tres de los 11 equipos declararon actualizaciones: McLaren, Mercedes y Red Bull.",
+      "body": [
+        "Según el documento de presentación de coches de la FIA, Ferrari no declaró cambios para Marina Bay. McLaren, Mercedes y Red Bull sí presentaron mejoras de refrigeración y aerodinámica.",
+        "Siete de los once equipos, incluida Ferrari, no trajeron nada nuevo, de acuerdo con RacingNews365.",
+        "En la práctica Leclerc fue segundo a 0.198 s de Russell, y en la clasificación sprint terminó tercero, a 0.243 s de Verstappen.",
+        "Lo que hay que observar: si el ritmo de Ferrari se mantiene con tanque lleno, pese a no haber desarrollado el coche."
+      ],
+      "source": "RacingNews365 / Crash.net",
+      "url": "https://racingnews365.com/ferrari-buck-f1-top-team-trend-as-rivals-take-advantage-in-singapore",
+      "img": "img/noticias/leclerc-austria.jpg",
+      "imgCredit": "Lukas Raich · CC BY-SA 4.0 · Wikimedia Commons",
+      "imgAlt": "Charles Leclerc con el Ferrari"
+    },
+    {
+      "id": "lawson-futuro-racing-bulls",
+      "cat": "pilotos",
+      "date": "2026-10-09",
+      "title": "Racing Bulls aún no decide su alineación para 2027",
+      "summary": "Tres pilotos pelean por dos asientos: Lawson, Lindblad y Tsolov.",
+      "body": [
+        "Alan Permane, jefe del equipo, dijo que la decisión llegará en las próximas semanas y que no quiere comprometerse con una fecha.",
+        "Compiten por dos asientos Liam Lawson, el novato Arvid Lindblad y Nikola Tsolov, júnior de Red Bull que pelea el título de Fórmula 2. Según RacingNews365, la especulación apunta a que Lawson sería el sacrificado si Tsolov sube.",
+        "Permane sostuvo que tres no caben en dos y que priorizan la velocidad y el desarrollo de talento joven para el equipo hermano.",
+        "Lawson salió octavo en la clasificación sprint y Lindblad 17.º.",
+        "Lo que hay que observar: el desenlace de la F2 puede acelerar la decisión."
+      ],
+      "source": "RacingNews365",
+      "url": "https://racingnews365.com/racing-bulls-provide-updated-timeline-as-liam-lawson-awaits-f1-future-decision",
+      "img": "img/noticias/lawson-china.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Liam Lawson con el Racing Bulls"
+    },
+    {
+      "id": "russell-penalizacion-singapur",
+      "cat": "pilotos",
+      "date": "2026-10-08",
+      "title": "Russell saldrá desde el fondo en Singapur tras su falla de motor",
+      "summary": "Mercedes debe montar una unidad de potencia nueva en el coche de Russell, que ya agotó su reserva de componentes de bajo kilometraje.",
+      "body": [
+        "George Russell se retiró en la vuelta 50 del GP de Bahréin disputado en Malasia, cuando iba tercero, por una falla en la unidad de potencia. Según Crash.net, ese daño obliga a Mercedes a introducir un motor nuevo en su asignación para este fin de semana.",
+        "Como Russell ya no tiene componentes de bajo kilometraje disponibles, lo más probable es que largue el domingo desde el último lugar de la parrilla.",
+        "Eso complica su lucha por el campeonato: llega a Singapur 84 puntos por detrás de su compañero Kimi Antonelli, y adelantar en Marina Bay es muy difícil.",
+        "Mercedes debería confirmar antes de la primera práctica qué elementos cambia. Según lo publicado, la escudería evalúa adelantar la unidad mejorada que tenía prevista para Estados Unidos.",
+        "Lo que hay que observar: si Mercedes monta esa versión actualizada en Singapur, Russell al menos no acumularía otra penalización más adelante."
+      ],
+      "source": "Crash.net",
+      "url": "https://www.crash.net/f1/news/1106565/1/george-russell-set-singapore-gp-grid-penalty-after-latest-f1-engine-failure",
+      "img": "img/noticias/antonelli-ventaja-84.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Kimi Antonelli celebrando"
+    },
+    {
+      "id": "singapur-primer-sprint",
+      "cat": "carrera",
+      "date": "2026-10-08",
+      "title": "Singapur estrena sprint: una carrera de día y otra de noche",
+      "summary": "Marina Bay recibe por primera vez el formato sprint, con una sola práctica y posible calor extremo.",
+      "body": [
+        "Singapur nunca había tenido sprint. La carrera corta del sábado empieza a las 17:00 locales, con luz de día, y el Gran Premio del domingo se corre de noche, bajo los reflectores.",
+        "El circuito tiene 4,927 km y 19 curvas; el GP son 62 vueltas. Según McLaren, los puntos clave para adelantar son la curva 7 y la horquilla de la curva 13.",
+        "Con una sola práctica libre, los equipos deben acertar altura del coche, neumáticos y puesta a punto casi de inmediato.",
+        "Crash.net anticipa chubascos con tormenta y mucho calor, lo que podría activar de nuevo la declaración de riesgo por calor.",
+        "Lo que hay que observar: el cambio de temperatura de pista entre sprint y carrera puede dar ganadores distintos."
+      ],
+      "source": "McLaren / Crash.net",
+      "url": "https://www.mclaren.com/racing/formula-1/2026/singapore-grand-prix/preview/"
+    },
+    {
+      "id": "verstappen-impulso-singapur",
+      "cat": "pilotos",
+      "date": "2026-10-08",
+      "title": "Verstappen llega a Singapur con impulso tras su primera victoria del año",
+      "summary": "Red Bull Ford Powertrains estrenó su casillero de victorias en Malasia y busca repetir.",
+      "body": [
+        "Max Verstappen ganó en Sepang su primera carrera de 2026. Según Formula1.com, también fue la primera victoria de Red Bull Ford Powertrains como fabricante de unidades de potencia.",
+        "Quedan siete carreras. Verstappen y Norris estaban empatados con 188 puntos antes de esta fecha, según la tabla publicada tras Sepang.",
+        "Formula1.com recuerda que Verstappen estuvo cerca de vencer a Russell en Bakú, lo que apunta a un coche competitivo en varios tipos de pista.",
+        "Lo que hay que observar: Singapur exige carga aerodinámica y tracción en curvas lentas; ahí se verá si el ritmo de Red Bull es real o dependía de la lluvia."
+      ],
+      "source": "Formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-singapore-grand-prix.1yu3dSkVOAvPULoMR9vn5Z",
+      "img": "img/noticias/verstappen-gana-sepang.jpg",
+      "imgCredit": "Jen Ross · CC BY 2.0 · Wikimedia Commons",
+      "imgAlt": "Max Verstappen con el Red Bull"
+    },
+    {
+      "id": "mercedes-mejoras-problemas",
+      "cat": "equipos",
+      "date": "2026-10-08",
+      "title": "Mercedes, con dudas: sus mejoras no dieron lo esperado",
+      "summary": "Según Formula1.com, el paquete de desarrollo no rindió lo previsto y Toto Wolff mostró su frustración.",
+      "body": [
+        "Mercedes esperaba ganar tiempo por vuelta con su último paquete de mejoras, pero Formula1.com informa que el resultado fue el contrario: perdió rendimiento.",
+        "Crash.net señala que Toto Wolff quedó muy molesto con lo ocurrido en Malasia. El equipo había querido retrasar cambios de componentes hasta más adelante en el año.",
+        "Aun así, Mercedes lidera constructores con 556 puntos frente a los 405 de Ferrari, según la tabla de Motorsport.com tras Sepang.",
+        "Lo que hay que observar: la primera práctica del viernes dirá si Mercedes encontró el rumbo con el motor y el paquete aerodinámico."
+      ],
+      "source": "Formula1.com / Crash.net",
+      "url": "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-singapore-grand-prix.1yu3dSkVOAvPULoMR9vn5Z"
+    },
+    {
+      "id": "checo-singapur",
+      "cat": "pilotos",
+      "date": "2026-10-08",
+      "title": "Checo busca revancha en Singapur, donde ganó en 2022",
+      "summary": "Pérez llega tras un 19.º lugar en Sepang y espera un Cadillac más competitivo, como en Bakú.",
+      "body": [
+        "Sergio Pérez terminó 19.º en Malasia. Según Récord, dijo que la salida del safety car borró la ventaja que había logrado al montar neumáticos intermedios.",
+        "Pérez espera un fin de semana más competitivo en Singapur, parecido a lo visto en Bakú, según el mismo medio.",
+        "El mexicano ganó aquí en 2022, y es una pista de muros cercanos y curvas lentas que suele premiar la precisión.",
+        "Lo que hay que observar: con una sola práctica, la puesta a punto de Cadillac en las primeras vueltas del viernes será decisiva."
+      ],
+      "source": "Récord",
+      "url": "https://www.record.com.mx/historia/el-safety-car-arruino-la-carrera-la-reaccion-de-checo-perez-tras-el-gran-premio-de-bahrein-2026100414261779778",
+      "img": "img/noticias/checo-19-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Sergio Pérez con el Cadillac"
+    },
+    {
+      "id": "alonso-aston-singapur",
+      "cat": "pilotos",
+      "date": "2026-10-08",
+      "title": "Alonso apunta a Singapur como pista favorable para Aston Martin",
+      "summary": "Tras su octavo lugar en Sepang, el asturiano cree que el equipo puede seguir sumando.",
+      "body": [
+        "Fernando Alonso puntuó en Malasia pese a largar con neumáticos slick en pista húmeda. Formula1.com lo califica como el mejor resultado del año para Aston Martin.",
+        "Según esa fuente, Alonso señaló Singapur como un circuito donde el equipo espera ser competitivo este fin de semana.",
+        "Carlos Sainz, por su parte, fue 17.º en Sepang tras una sanción por un choque con Bortoleto.",
+        "Lo que hay que observar: si Aston Martin sigue en puntos con pista seca, sabremos que la mejora no fue solo cosa de la lluvia."
+      ],
+      "source": "Formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-singapore-grand-prix.1yu3dSkVOAvPULoMR9vn5Z",
+      "img": "img/noticias/alonso-sainz-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Fernando Alonso con el Aston Martin"
+    },
+    {
+      "id": "mclaren-singapur",
+      "cat": "equipos",
+      "date": "2026-10-08",
+      "title": "McLaren busca recuperarse en una pista donde ya ganó dos veces",
+      "summary": "El equipo es tercero en constructores con 316 puntos y reconoce que Singapur puede no ser ideal para su coche.",
+      "body": [
+        "McLaren ganó en Singapur con Hamilton en 2009 y con Norris en 2024. Llega tras resultados flojos en Azerbaiyán y Bahréin.",
+        "Es tercero en constructores con 316 puntos, a 89 del segundo. Norris es quinto en el campeonato con 188 y Piastri séptimo con 128.",
+        "Su director técnico, Neil Houldey, dijo que aún hay mucho en juego, aunque admitió que el MCL40 puede no adaptarse tan bien a las curvas lentas de 90 grados.",
+        "Lo que hay que observar: cómo responde McLaren en la práctica del viernes con tan poco tiempo de ajuste."
+      ],
+      "source": "McLaren",
+      "url": "https://www.mclaren.com/racing/formula-1/2026/singapore-grand-prix/preview/"
+    },
+    {
+      "id": "colapinto-13-sepang",
+      "cat": "pilotos",
+      "date": "2026-10-04",
+      "title": "Colapinto remonta ocho puestos y termina 13.º en Sepang",
+      "summary": "Largó 21.º, superó a Gasly (16.º) con una estrategia de tres paradas, pero no sumó puntos.",
+      "body": [
+        "Franco Colapinto salió 21.º por sus sanciones y cruzó la meta 13.º, ocho posiciones arriba, según Infobae. Se queda con 27 puntos, porque los puntos se reparten hasta el 10.º lugar.",
+        "Alpine apostó por tres paradas: vuelta 9 (medios, con el safety car por Bottas), vuelta 32 (duros) y vuelta 43 (blandos, con el virtual safety car).",
+        "Gasly, que largó noveno, terminó 16.º, tres puestos detrás de su compañero.",
+        "Lo que hay que observar: el ritmo de Colapinto en carrera fue superior al de su compañero, un buen dato antes de Singapur."
+      ],
+      "source": "Infobae",
+      "url": "https://www.infobae.com/deportes/2026/10/04/radiografia-de-la-carrera-de-colapinto-en-el-gp-de-barein-de-f1-en-malasia-gano-ocho-lugares-a-un-gran-ritmo-y-supero-a-gasly/",
+      "img": "img/noticias/colapinto-13-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Franco Colapinto con el Alpine"
+    }
+  ]
+}

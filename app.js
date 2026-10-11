@@ -323,8 +323,16 @@
   const article = document.getElementById('article');
 
   if (list || article || document.getElementById('hTitle')) {
-    fetch('data/noticias.json', { cache: 'no-cache' }).then(r => r.json()).then(d => {
+    // las notas que salen de portada pasan a data/archivo.json; Noticias y cada nota las siguen encontrando
+    const needArchive = !!article || (list && !parseInt(list.dataset.limit || '0', 10));
+    const noArchive = { articles: [] };
+    Promise.all([
+      fetch('data/noticias.json', { cache: 'no-cache' }).then(r => r.json()),
+      needArchive ? fetch('data/archivo.json', { cache: 'no-cache' }).then(r => r.ok ? r.json() : noArchive).catch(() => noArchive) : noArchive
+    ]).then(([d, ar]) => {
       const byId = {}; d.articles.forEach(a => byId[a.id] = a);
+      const all = d.articles.concat((ar.articles || []).filter(a => !byId[a.id]));
+      all.forEach(a => { if (!byId[a.id]) byId[a.id] = a; });
 
       // portada: tema del día
       const h = d.hero;
@@ -359,11 +367,19 @@
       // lista (portada = últimas; noticias.html = todas con filtros)
       if (list) {
         const limit = parseInt(list.dataset.limit || '0', 10);
+        let shownN = 12, curCat = 'todo';
+        const more = limit ? null : el('button', 'more more-btn', 'Ver más notas');
+        if (more) { more.type = 'button'; more.hidden = true; list.after(more); more.onclick = () => { shownN += 12; render(curCat); }; }
         const render = cat => {
-          let sel = cat === 'todo' ? d.articles : d.articles.filter(a => a.cat === cat);
-          if (limit) sel = sel.slice(0, limit);
+          if (cat !== curCat) shownN = 12;
+          curCat = cat;
+          let sel = limit ? d.articles : all;
+          if (cat !== 'todo') sel = sel.filter(a => a.cat === cat);
+          const total = sel.length;
+          sel = sel.slice(0, limit || shownN);
           list.replaceChildren(...sel.map(card));
-          if (status) status.textContent = sel.length ? (limit ? '' : sel.length + ' notas') : 'No hay notas en esta categoría por ahora.';
+          if (more) more.hidden = sel.length >= total;
+          if (status) status.textContent = total ? (limit ? '' : total + ' notas') : 'No hay notas en esta categoría por ahora.';
         };
         render('todo');
         const filters = document.getElementById('filters');
