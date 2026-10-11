@@ -1,18 +1,88 @@
 {
-  "updated": "2026-10-10",
+  "updated": "2026-10-11",
   "hero": {
     "kicker": "Tema del día",
-    "title": "Verstappen gana el sprint y la pole",
-    "summary": "Max Verstappen ganó un sprint con ocho abandonos y después se quedó con la pole del GP de Singapur por 0.054 s sobre Leclerc.",
-    "article": "verstappen-sprint-y-pole-singapur",
+    "title": "Tres pilotos largan desde el pit lane",
+    "summary": "Alonso, Hadjar y Stroll salen desde el pit lane en Singapur, mientras Verstappen defiende la pole y Russell remonta tras su sanción.",
+    "article": "parrilla-definitiva-singapur",
     "topics": [
-      "sprint-record-abandonos",
-      "norris-piastri-choque-sprint",
-      "parrilla-gp-singapur",
+      "alonso-pit-lane-singapur",
+      "russell-ataque-total-singapur",
+      "checo-colapinto-parrilla-domingo",
       "horarios-carrera-singapur"
     ]
   },
   "articles": [
+    {
+      "id": "parrilla-definitiva-singapur",
+      "cat": "carrera",
+      "date": "2026-10-11",
+      "title": "Tres pilotos largan desde el pit lane en Singapur",
+      "summary": "Alonso, Hadjar y Stroll salen desde el pit lane tras cambios en sus coches; Russell parte con una sanción de motor.",
+      "body": [
+        "Según GPFans y RacingNews365, Fernando Alonso, Isack Hadjar y Lance Stroll largarán desde el pit lane en el GP de Singapur. Verstappen sigue en la pole, con Leclerc segundo y Hamilton tercero.",
+        "En el caso de Alonso, Aston Martin cambió el turbo y la suspensión de ambos coches con el régimen de parque cerrado ya vigente. Red Bull cambió componentes de la unidad de potencia en el coche de Hadjar, que ni siquiera había marcado tiempo en la clasificación; los comisarios le permitieron correr.",
+        "Stroll sale del pit lane por cambios en la configuración de la suspensión de su Aston Martin.",
+        "La sanción de Russell se reporta con cifras distintas: 40 plazas según GPFans y 60 según Crash.net. Con los tres pit lane fuera de la parrilla, su casilla queda entre la 19.ª y la 21.ª según la fuente, así que conviene confirmar con la parrilla oficial de la FIA.",
+        "Lo que hay que observar: la primera vuelta. Con pocos puntos de adelantamiento en Marina Bay, los coches que salen del pit lane dependen de un safety car para recuperar posiciones."
+      ],
+      "source": "GPFans / RacingNews365",
+      "url": "https://www.gpfans.com/en/f1-news/1091362/f1-2026-singapore-grand-prix-starting-grid-all-late-penalties-applied-fia/",
+      "img": "img/noticias/russell-austria.jpg",
+      "imgCredit": "Lukas Raich · CC BY-SA 4.0 · Wikimedia Commons",
+      "imgAlt": "George Russell con el Mercedes"
+    },
+    {
+      "id": "alonso-pit-lane-singapur",
+      "cat": "pilotos",
+      "date": "2026-10-11",
+      "title": "Alonso saldrá desde el pit lane tras el cambio de turbo",
+      "summary": "Aston Martin modificó el coche de Alonso en parque cerrado, y el español pierde su 16.º lugar en la parrilla.",
+      "body": [
+        "Fernando Alonso quedó eliminado en la Q1 y largaba 16.º. Aston Martin cambió después el turbo de su coche y la suspensión en ambos monoplazas, según Grande Prêmio.",
+        "Como esas modificaciones se hicieron bajo condiciones de parque cerrado, Alonso saldrá desde el pit lane. Lo mismo ocurre con Stroll.",
+        "Su salida del pit lane despeja un lugar delante de Carlos Sainz, que largaba 13.º en el Williams.",
+        "Lo que hay que observar: si el equipo elige una estrategia distinta para aprovechar un posible safety car, algo habitual desde el pit lane."
+      ],
+      "source": "Grande Prêmio",
+      "url": "https://grandepremio.com/en/f1/alonso-hadjar-and-stroll-forced-to-start-singapore-gp-from-pit-lane-after-late-car-changes/",
+      "img": "img/noticias/alonso-sainz-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Fernando Alonso con el Aston Martin"
+    },
+    {
+      "id": "russell-ataque-total-singapur",
+      "cat": "pilotos",
+      "date": "2026-10-11",
+      "title": "Russell promete un \"ataque total\" desde el fondo",
+      "summary": "El piloto de Mercedes remontará tras una sanción de motor que lo manda al fondo de la parrilla.",
+      "body": [
+        "George Russell dijo en declaraciones publicadas por F1.com que atacará al máximo desde el fondo en Singapur.",
+        "Había marcado el sexto tiempo en la clasificación, pero perdió la posición por exceder su cupo de componentes de la unidad de potencia.",
+        "El tamaño exacto de la sanción varía según el medio: 40 plazas según GPFans y 60 según Crash.net.",
+        "Lo que hay que observar: Russell sufrió un golpe en el sprint del sábado y tendrá que ser paciente en un circuito con pocos adelantamientos."
+      ],
+      "source": "Formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/russell-promises-all-out-attack-from-back-of-singapore-grid-amid-engine-penalty.1Owe717iaaEqDioJZqUyaJ"
+    },
+    {
+      "id": "checo-colapinto-parrilla-domingo",
+      "cat": "pilotos",
+      "date": "2026-10-11",
+      "title": "Checo largará 17.º y Colapinto 15.º en Singapur",
+      "summary": "Con los cambios de parrilla, Pérez sube dos lugares y Colapinto mantiene el 15.º.",
+      "body": [
+        "Según la parrilla ajustada de Crash.net, Franco Colapinto sale 15.º con el Alpine, Albon 16.º, Sergio Pérez 17.º con el Cadillac y Bottas 18.º.",
+        "Pérez y Bottas quedaron eliminados en la Q1. El mexicano mejora dos lugares frente a su 19.º original por los pilotos que salen desde el pit lane.",
+        "Colapinto compartirá la parrilla con Gasly, que sale séptimo. El argentino abandonó el sprint por una falla del sistema híbrido de su Alpine.",
+        "Lo que hay que observar: con ocho abandonos en el sprint, terminar la carrera puede significar puntos para los coches del fondo."
+      ],
+      "source": "Crash.net",
+      "url": "https://www.crash.net/f1/news/1107179/1/f1-singapore-grand-prix-full-starting-grid-after-penalties",
+      "img": "img/noticias/colapinto-13-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Franco Colapinto con el Alpine"
+    },
     {
       "id": "verstappen-sprint-y-pole-singapur",
       "cat": "carrera",
@@ -33,60 +103,6 @@
       "imgAlt": "Max Verstappen con el Red Bull"
     },
     {
-      "id": "sprint-record-abandonos",
-      "cat": "carrera",
-      "date": "2026-10-10",
-      "title": "Ocho abandonos: el sprint con más bajas de la historia",
-      "summary": "Russell, Pérez, Stroll, Colapinto, Bottas, Albon y Bortoleto no terminaron, y Piastri quedó fuera en la última vuelta.",
-      "body": [
-        "Según RacingNews365, el récord anterior de abandonos en un sprint era de cinco, en Catar 2023. Singapur lo superó por tres.",
-        "Russell chocó al final de la primera vuelta. Pérez y Stroll se tocaron y ambos quedaron fuera. Colapinto abandonó poco después por una falla del sistema híbrido (ERS) de su Alpine.",
-        "Al terminar el safety car, en la vuelta 6, Bottas golpeó la parte trasera del Williams de Albon, que a su vez tocó el Audi de Bortoleto. Los tres terminaron retirándose.",
-        "Piastri quedó fuera en la última vuelta tras chocar con su compañero Norris, aunque figura clasificado 14.º por la distancia recorrida.",
-        "Lo que hay que observar: varios equipos tendrán que reparar coches de cara a la carrera del domingo."
-      ],
-      "source": "RacingNews365",
-      "url": "https://racingnews365.com/f1-makes-sprint-history-in-dramatic-eight-car-retirement-madness",
-      "img": "img/noticias/checo-19-sepang.jpg",
-      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
-      "imgAlt": "Sergio Pérez con el Cadillac"
-    },
-    {
-      "id": "norris-piastri-choque-sprint",
-      "cat": "equipos",
-      "date": "2026-10-10",
-      "title": "Norris y Piastri chocan en la última vuelta y no hay sanción",
-      "summary": "Los comisarios repartieron la responsabilidad entre los dos pilotos de McLaren.",
-      "body": [
-        "En la última vuelta, Norris intentó pasar a Piastri por dentro en la curva 5 mientras peleaban por el cuarto lugar. Se tocaron en el vértice y Piastri terminó contra las barreras.",
-        "Norris cayó al octavo puesto y se quedó con el último punto. Explicó que esperaba más espacio y que frenó al subirse al piano interior.",
-        "Piastri dijo que no esperaba el intento y que, al verlo, trató de dejarle lugar.",
-        "Los comisarios concluyeron que ninguno fue el principal culpable y no tomaron más medidas, según Crash.net. McLaren calificó el choque como inaceptable.",
-        "Lo que hay que observar: los dos McLaren largan juntos el domingo, quinto y sexto."
-      ],
-      "source": "Crash.net",
-      "url": "https://www.crash.net/f1/news/1107132/1/why-lando-norris-avoided-penalty-crashing-oscar-piastri-f1-singapore-gp"
-    },
-    {
-      "id": "parrilla-gp-singapur",
-      "cat": "carrera",
-      "date": "2026-10-10",
-      "title": "Así larga el GP de Singapur: Russell y Hadjar, al fondo",
-      "summary": "Verstappen, Leclerc y Hamilton salen adelante; Russell parte 21.º por su sanción de motor.",
-      "body": [
-        "Las primeras filas: 1. Verstappen, 2. Leclerc, 3. Hamilton, 4. Antonelli, 5. Norris, 6. Piastri, 7. Gasly, 8. Lawson, 9. Lindblad y 10. Hülkenberg.",
-        "Russell marcó el sexto tiempo en la clasificación, pero sale 21.º por exceder su cupo de componentes de la unidad de potencia.",
-        "Hadjar no pudo completar una vuelta rápida por un problema de caja de cambios y larga último. Según RacingNews365, también podría recibir una sanción de motor.",
-        "Alonso fue eliminado en la Q1 por muy poco y sale 16.º. Según Crash.net, también insinuó que podría cambiar motor, algo que no está confirmado.",
-        "Lo que hay que observar: Russell y Hadjar tendrán que remontar en un circuito donde se adelanta poco."
-      ],
-      "source": "Crash.net",
-      "url": "https://www.crash.net/f1/news/1107179/1/f1-singapore-grand-prix-full-starting-grid-after-penalties",
-      "img": "img/noticias/russell-austria.jpg",
-      "imgCredit": "Lukas Raich · CC BY-SA 4.0 · Wikimedia Commons",
-      "imgAlt": "George Russell con el Mercedes"
-    },
-    {
       "id": "horarios-carrera-singapur",
       "cat": "carrera",
       "date": "2026-10-10",
@@ -101,61 +117,6 @@
       ],
       "source": "Crash.net",
       "url": "https://www.crash.net/f1/news/1106593/1/f1-2026-singapore-grand-prix-start-time-and-full-weekend-schedule"
-    },
-    {
-      "id": "checo-colapinto-sabado-singapur",
-      "cat": "pilotos",
-      "date": "2026-10-10",
-      "title": "Checo y Colapinto, sábado para olvidar en Singapur",
-      "summary": "Pérez chocó con Stroll en el sprint y Colapinto abandonó por una falla; en la clasificación, 20.º y 16.º.",
-      "body": [
-        "Sergio Pérez se tocó con Lance Stroll en el arranque del sprint y los dos quedaron fuera, según RacingNews365.",
-        "En la clasificación fue 20.º con 1:35.123, por delante de su compañero Bottas, de acuerdo con los tiempos oficiales. Largará 19.º.",
-        "Franco Colapinto abandonó el sprint por una falla del sistema híbrido de su Alpine. En la clasificación golpeó el muro en la penúltima curva durante su último intento y quedó 16.º, según Crash.net.",
-        "El argentino largará 15.º el domingo. Su compañero Gasly sale séptimo.",
-        "Lo que hay que observar: con tantos abandonos en el sprint, terminar la carrera ya puede valer puntos."
-      ],
-      "source": "RacingNews365 / Crash.net",
-      "url": "https://www.crash.net/f1/news/1107167/1/max-verstappen-edges-two-ferraris-singapore-gp-pole",
-      "img": "img/noticias/colapinto-13-sepang.jpg",
-      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
-      "imgAlt": "Franco Colapinto con el Alpine"
-    },
-    {
-      "id": "hamilton-ferrari-primera-fila",
-      "cat": "pilotos",
-      "date": "2026-10-10",
-      "title": "Ferrari, segunda y tercera: Hamilton lamenta la pole que se escapó",
-      "summary": "Hamilton fue el más rápido en Q1 y Q2, pero en Q3 quedó a 0.123 s de Verstappen.",
-      "body": [
-        "Lewis Hamilton marcó el mejor tiempo en la Q1 y en la Q2, pero no pudo repetir en sus dos intentos de la Q3, según Crash.net.",
-        "Leclerc se quedó a solo 0.054 s de la pole. Las dos Ferrari largan detrás de Verstappen.",
-        "En el sprint, Hamilton fue segundo y Leclerc tercero, con los neumáticos intermedios muy gastados al final.",
-        "Lo que hay que observar: la salida. Con dos Ferrari detrás, Verstappen necesita defender la primera curva."
-      ],
-      "source": "Crash.net",
-      "url": "https://www.crash.net/f1/news/1107192/1/lewis-hamilton-not-great-enough-f1-singapore-gp-pole-gets-away",
-      "img": "img/noticias/hamilton-quali-sepang.jpg",
-      "imgCredit": "Liauzh · CC BY-SA 4.0 · Wikimedia Commons",
-      "imgAlt": "Lewis Hamilton con el Ferrari"
-    },
-    {
-      "id": "alonso-sainz-sabado-singapur",
-      "cat": "pilotos",
-      "date": "2026-10-10",
-      "title": "Alonso y Sainz, lejos de los puntos en el sprint",
-      "summary": "Alonso fue 11.º y Sainz 12.º en el sprint; el domingo salen 16.º y 13.º.",
-      "body": [
-        "En un sprint con ocho abandonos, Fernando Alonso terminó 11.º y Carlos Sainz 12.º, según los resultados oficiales. Ninguno sumó puntos.",
-        "En la clasificación, Alonso quedó eliminado en la Q1 por muy poco y largará 16.º. Sainz llegó a la Q2 y saldrá 13.º.",
-        "Según Crash.net, Alonso insinuó que Aston Martin podría cambiarle el motor, lo que lo mandaría más atrás. No está confirmado.",
-        "Lo que hay que observar: si Alonso recibe sanción, Sainz será el español mejor ubicado en la parrilla."
-      ],
-      "source": "Crash.net",
-      "url": "https://www.crash.net/f1/news/1107179/1/f1-singapore-grand-prix-full-starting-grid-after-penalties",
-      "img": "img/noticias/sainz-austria.jpg",
-      "imgCredit": "Lukas Raich · CC BY-SA 4.0 · Wikimedia Commons",
-      "imgAlt": "Carlos Sainz con el Williams"
     }
   ]
 }
