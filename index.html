@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Milésima · La F1 se decide en una milésima</title>
+<meta name="description" content="Noticias, horarios y análisis de Fórmula 1 para México y Argentina.">
+<meta name="theme-color" content="#0F1115">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;700;800;900&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="nav">
+  <div class="wrap nav-in">
+    <a class="brand" href="index.html" aria-label="Milésima, inicio"><img src="assets/casco-sobre-oscuro.svg" alt="" width="34" height="34">MILÉSIMA <span class="dot">F1</span></a>
+    <nav class="links" aria-label="Principal">
+      <a href="index.html" aria-current="page">Inicio</a>
+      <a href="noticias.html">Noticias</a>
+      <a href="en-vivo.html">En vivo</a>
+      <a href="posiciones.html">Posiciones</a>
+      <a href="#equipos">Equipos</a>
+      <a href="#redes">Redes</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section class="next" aria-live="polite">
+    <div class="wrap next-in">
+      <span class="live k"><i></i>Próximo GP</span>
+      <div class="v" id="nextName">Cargando…</div>
+      <div class="k nc"><span id="nextCircuit">—</span> · <span id="nextDate">—</span></div>
+      <div class="cd" id="cd" hidden>
+        <div><span id="cdD">00</span><i class="k">d</i></div>
+        <div><span id="cdH">00</span><i class="k">h</i></div>
+        <div><span id="cdM">00</span><i class="k">m</i></div>
+        <div><span id="cdS">00</span><i class="k">s</i></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="front">
+    <div class="wrap front-in">
+      <article class="lede">
+        <p class="eyebrow rv"><span class="uh">Última hora</span><span id="hKicker">Tema del día</span> <b>/</b> <span id="hDate"></span></p>
+        <h1 class="rv" style="--i:1" id="hTitle">Milésima<span class="dot">.</span></h1>
+        <p class="slogan rv" style="--i:2" id="hSummary">La F1 se decide en una milésima.</p>
+        <div class="cta rv" style="--i:3">
+          <a class="btn red" id="hRead" href="noticias.html">Leer el análisis</a>
+        </div>
+      </article>
+      <aside class="topics rv" style="--i:2" id="hTopics" hidden>
+        <div class="k">Titulares</div>
+        <ul id="hTopicList"></ul>
+      </aside>
+    </div>
+  </section>
+
+  <section class="s sq" id="dia">
+    <div class="wrap">
+      <div class="s-head"><div><h2 class="rv">Noticias del día</h2><p class="lead rv" style="--i:1">Lo más importante de hoy. Pasa el cursor sobre una lámina, haz clic para abrirla o usa las flechas.</p></div></div>
+      <div id="sqCarousel" aria-label="Noticias del día"></div>
+    </div>
+  </section>
+
+  <section class="s" id="noticias">
+    <div class="wrap layout">
+      <div class="main">
+        <div class="s-head"><div><h2 class="rv">Últimas noticias</h2><p class="lead rv" style="--i:1">Resúmenes propios, con la fuente original al final de cada nota. <span id="upd"></span></p></div></div>
+        <div class="news" id="newsList" data-limit="4"><div class="skel"></div><div class="skel"></div><div class="skel"></div></div>
+        <a class="more" href="noticias.html">Ver todas las noticias →</a>
+      </div>
+      <aside class="side" id="posiciones">
+        <div class="box"><h3>Pilotos</h3><ol class="tbl" id="stDrv"><li class="skl"></li></ol></div>
+        <div class="box"><h3>Constructores</h3><ol class="tbl" id="stCon"><li class="skl"></li></ol></div>
+        <div class="box"><h3>Más leídas</h3><ol class="trend" id="trend"></ol></div>
+        <div class="box hz"><h3>Hora local</h3><p>Todos los horarios, en México y Argentina. Sin cuentas mentales a las 4 a. m.</p></div>
+      </aside>
+    </div>
+  </section>
+
+  <section class="s" id="que">
+    <div class="wrap">
+      <div class="s-head"><div><h2 class="rv">Qué es Milésima</h2><p class="lead rv" style="--i:1">Un medio de F1 hecho para quien ve las carreras desde México y Argentina, a la hora que sea.</p></div></div>
+      <div class="cols">
+        <div class="col rv"><div class="n">01</div><h3>Preciso</h3><p>Cada nota lleva el dato exacto: la diferencia, el tiempo, la posición. Nada de “por poco”.</p></div>
+        <div class="col rv" style="--i:1"><div class="n">02</div><h3>En tu hora</h3><p>Todos los horarios convertidos a México y Argentina, para que no pierdas ni una salida.</p></div>
+        <div class="col rv" style="--i:2"><div class="n">03</div><h3>Claro</h3><p>Explicamos el porqué detrás del resultado, sin jerga innecesaria y con tono neutro para toda Latinoamérica.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="s" id="formatos">
+    <div class="wrap">
+      <div class="s-head"><h2 class="rv">Lo que publicamos</h2></div>
+      <div class="formats">
+        <div class="fmt rv"><div class="tag">SALIDA</div><h3>Antes del GP</h3><p>Previa, circuito, qué esperar y los horarios del fin de semana.</p></div>
+        <div class="fmt rv" style="--i:1"><div class="tag">BANDERA A CUADROS</div><h3>Después</h3><p>Resultado y resumen de la carrera en tres puntos.</p></div>
+        <div class="fmt rv" style="--i:2"><div class="tag">LA MILÉSIMA</div><h3>El detalle</h3><p>El dato pequeño que cambió algo: una parada, una diferencia, un error.</p></div>
+        <div class="fmt rv" style="--i:3"><div class="tag">HORA LOCAL</div><h3>Calendario</h3><p>Cada sesión, en hora de México y Argentina.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="s" id="equipos">
+    <div class="wrap">
+      <div class="s-head"><div><h2 class="rv">Equipos</h2><p class="lead rv" style="--i:1">Los once equipos de la parrilla: dónde están, qué motor usan y su posición en el campeonato.</p></div></div>
+      <div class="teams" id="teams"></div>
+      <p class="st-note">Logos de Wikimedia Commons: dominio público o CC0; el de Aston Martin, CC BY 4.0 (autor desconocido). Las marcas pertenecen a cada equipo.</p>
+    </div>
+  </section>
+
+  <section class="s" id="redes">
+    <div class="wrap">
+      <p class="eyebrow rv">Síguenos</p>
+      <p class="big rv" style="--i:1">Cada milésima, en español<span class="dot">.</span></p>
+      <p class="lead rv" style="--i:2">Resúmenes cortos después de cada sesión y cobertura en vivo los domingos.</p>
+      <div class="social rv" style="--i:3">
+        <a class="pill" href="#" rel="noopener">TIKTOK</a>
+        <a class="pill" href="#" rel="noopener">INSTAGRAM</a>
+        <a class="pill" href="#" rel="noopener">X</a>
+        <a class="pill" href="#" rel="noopener">YOUTUBE</a>
+        <a class="pill" href="#" rel="noopener">WHATSAPP</a>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="foot">
+  <div class="wrap foot-in">
+    <span>MILÉSIMA <span class="dot">F1</span> · La F1 se decide en una milésima.</span>
+    <span>Milésima F1 es un medio independiente, sin relación con Formula 1, la FIA ni los equipos. Las marcas pertenecen a sus propietarios. Fotos: Wikimedia Commons (Liauzh y otros autores, CC BY / CC BY-SA).</span>
+  </div>
+</footer>
+
+
+<script src="app.js"></script>
+<script src="carousel.js"></script>
+</body>
+</html>

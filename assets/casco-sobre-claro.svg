@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Milésima F1">
+  <path d="M6 46C6 26 19 10 36 10C51 10 60 21 60 34V48C60 51 58 53 55 53H14C9 53 6 50 6 46Z" fill="#0F1115"/>
+  <path d="M25 27H60V41H33C26 41 21 33 25 27Z" fill="#FF5A1F"/>
+  <path d="M34 31H52" stroke="#F4F1EA" stroke-width="2.2" stroke-linecap="round" opacity="0.8"/>
+  <rect x="12" y="46" width="12" height="3.4" rx="1.7" fill="#F4F1EA"/>
+</svg>

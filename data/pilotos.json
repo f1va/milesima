@@ -1,0 +1,106 @@
+{
+ "antonelli": {
+  "img": "img/pilotos/antonelli.jpg",
+  "credit": "Kuyper · CC BY-SA 4.0 · Wikimedia Commons",
+  "file": "https://commons.wikimedia.org/wiki/File%3AKimi_Antonelli_at_the_2025_US_Grand_Prix_in_Austin%2C_TX_%28cropped%29.jpg"
+ },
+ "russell": {
+  "img": "img/pilotos/russell.jpg",
+  "credit": "Jen Ross · CC BY 2.0 · Wikimedia Commons",
+  "file": "https://commons.wikimedia.org/wiki/File%3AGeorge_Russell%2C_British_GP_2022_%2852381430692%29_%28cropped-02%29.jpg"
+ },
+ "hamilton": {
+  "img": "img/pilotos/hamilton.jpg",
+  "credit": "Liauzh · CC BY-SA 4.0 · Wikimedia Commons",
+  "file": "https://commons.wikimedia.org/wiki/File%3A2025_Japan_GP_-_Ferrari_-_Lewis_Hamilton_-_Fanzone_Stage_%28cropped%29.jpg"
+ },
+ "leclerc": {
+  "img": "img/pilotos/leclerc.jpg",
+  "credit": "Yu Chu Chin · CC BY-SA 4.0 · Wikimedia Commons",
+  "file": "https://commons.wikimedia.org/wiki/File%3ACharles_Leclerc_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_%28028A8638%29_%28cropped%29.jpg"
+ },
+ "norris": {
+  "img": "img/pilotos/norris.jpg",
+  "credit": "Yu Chu Chin · CC BY-SA 4.0 · Wikimedia Commons",
+  "file": "https://commons.wikimedia.org/wiki/File%3ALando_Norris_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_%28028A7960%29.jpg",
+  "pos": "45% 20%"
+ },
+ "max_verstappen": {
+  "img": "img/pilotos/max_verstappen.jpg",
+  "credit": "Yu Chu Chin · CC BY-SA 4.0 · Wikimedia Commons",
+  "file": "https://commons.wikimedia.org/wiki/File%3AMax_Verstappen_at_the_Red_Bull_Fan_Zone_%E2%80%93_Crown_Riverwalk%2C_Melbourne_%28028A7659%29_-_cropped.jpg"
+ },
+ "piastri": {
+  "img": "img/pilotos/piastri.jpg",
+  "credit": "Yu Chu Chin · CC BY-SA 4.0 · Wikimedia Commons",
+  "file": "https://commons.wikimedia.org/wiki/File%3AOscar_Piastri_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_%28028A8607%29_cropped.jpg",
+  "pos": "50% 45%"
+ },
+ "hadjar": {
+  "img": "img/pilotos/hadjar.jpg",
+  "credit": "Yu Chu Chin · CC BY-SA 4.0 · Wikimedia Commons",
+  "file": "https://commons.wikimedia.org/wiki/File%3AIsack_Hadjar_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_%28028A8753%29_%28cropped%29.jpg"
+ },
+ "lawson": {
+  "img": "img/pilotos/lawson.jpg",
+  "credit": "Yu Chu Chin · CC BY-SA 4.0 · Wikimedia Commons",
+  "file": "https://commons.wikimedia.org/wiki/File%3ALiam_Lawson_at_the_Red_Bull_Fan_Zone_%E2%80%93_Crown_Riverwalk%2C_Melbourne_%28028A7733%29.jpg"
+ },
+ "arvid_lindblad": {
+  "img": "img/pilotos/arvid_lindblad.jpg",
+  "credit": "Yu Chu Chin · CC BY-SA 4.0 · Wikimedia Commons",
+  "file": "https://commons.wikimedia.org/wiki/File%3AArvid_Lindblad_at_the_Red_Bull_Fan_Zone_%E2%80%93_Crown_Riverwalk%2C_Melbourne_%28028A7869%29.jpg"
+ },
+ "colapinto": {
+  "img": "img/pilotos/colapinto.jpg",
+  "credit": "Yu Chu Chin · CC BY-SA 4.0 · Wikimedia Commons",
+  "file": "https://commons.wikimedia.org/wiki/File%3AFranco_Colapinto_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_%28028A8698%29_cropped.jpg"
+ },
+ "bearman": {
+  "img": "img/pilotos/bearman.jpg",
+  "credit": "Liauzh · CC BY-SA 4.0 · Wikimedia Commons",
+  "file": "https://commons.wikimedia.org/wiki/File%3A2025_Japan_GP_-_Haas_-_Oliver_Bearman_-_Thursday_%28cropped%29.jpg"
+ },
+ "bortoleto": {
+  "img": "img/pilotos/bortoleto.jpg",
+  "credit": "Yu Chu Chin · CC BY-SA 4.0 · Wikimedia Commons",
+  "file": "https://commons.wikimedia.org/wiki/File%3AGabriel_Bortoleto_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_%28028A8581%29_cropped.jpg"
+ },
+ "hulkenberg": {
+  "img": "img/pilotos/hulkenberg.jpg",
+  "credit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+  "file": "https://commons.wikimedia.org/wiki/File%3A2026_Chinese_GP_-_Nico_Hulkenberg_%28cropped%29.jpg"
+ },
+ "alonso": {
+  "img": "img/pilotos/alonso.jpg",
+  "credit": "Liauzh · CC BY-SA 4.0 · Wikimedia Commons",
+  "file": "https://commons.wikimedia.org/wiki/File%3A2025_Japan_GP_-_Aston_Martin_-_Fernando_Alonso_-_Fanzone_Stage_%28cropped%29.jpg"
+ },
+ "sainz": {
+  "img": "img/pilotos/sainz.jpg",
+  "credit": "Yu Chu Chin · CC BY-SA 4.0 · Wikimedia Commons",
+  "file": "https://commons.wikimedia.org/wiki/File%3ACarlos_Sainz_Jr._at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_%28028A7953%29.jpg",
+  "pos": "30% 30%"
+ },
+ "albon": {
+  "img": "img/pilotos/albon.jpg",
+  "credit": "Yu Chu Chin · CC BY-SA 4.0 · Wikimedia Commons",
+  "file": "https://commons.wikimedia.org/wiki/File%3AAlex_Albon_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_%28028A8626%29_%28cropped%29.jpg"
+ },
+ "tsunoda": {
+  "img": "img/pilotos/tsunoda.jpg",
+  "credit": "Yu Chu Chin · CC BY-SA 4.0 · Wikimedia Commons",
+  "file": "https://commons.wikimedia.org/wiki/File%3AYuki_Tsunoda_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_%28028A8096%29.jpg"
+ },
+ "stroll": {
+  "img": "img/pilotos/stroll.jpg",
+  "credit": "Liauzh · CC BY-SA 4.0 · Wikimedia Commons",
+  "file": "https://commons.wikimedia.org/wiki/File%3A2025_Japan_GP_-_Aston_Martin_-_Lance_Stroll_-_Fanzone_Stage_%28cropped%29.jpg"
+ },
+ "bottas": {
+  "img": "img/pilotos/bottas.jpg",
+  "credit": "Yu Chu Chin · CC BY-SA 4.0 · Wikimedia Commons",
+  "file": "https://commons.wikimedia.org/wiki/File%3AValtteri_Bottas_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_%28028A8011%29.jpg",
+  "pos": "45% 25%"
+ }
+}

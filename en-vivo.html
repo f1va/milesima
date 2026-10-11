@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>En vivo F1 · Milésima</title>
+<meta name="description" content="Tiempos en vivo de prácticas, clasificación y carrera de Fórmula 1, con repetición de las sesiones pasadas.">
+<meta name="theme-color" content="#0F1115">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;700;800;900&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="nav">
+  <div class="wrap nav-in">
+    <a class="brand" href="index.html" aria-label="Milésima, inicio"><img src="assets/casco-sobre-oscuro.svg" alt="" width="34" height="34">MILÉSIMA <span class="dot">F1</span></a>
+    <nav class="links" aria-label="Principal">
+      <a href="index.html">Inicio</a>
+      <a href="noticias.html">Noticias</a>
+      <a href="en-vivo.html" aria-current="page">En vivo</a>
+      <a href="posiciones.html">Posiciones</a>
+      <a href="index.html#equipos">Equipos</a>
+      <a href="index.html#redes">Redes</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section class="page-h">
+    <div class="wrap">
+      <p class="eyebrow">Tiempos</p>
+      <h1 class="ph1">En vivo</h1>
+      <p class="lead">Prácticas, clasificación y carrera vuelta a vuelta. Si no hay sesión en pista, repite la última.</p>
+    </div>
+  </section>
+
+  <section class="s">
+    <div class="wrap" id="live">
+      <div class="lv-next" id="lvNext" hidden></div>
+      <div class="lv-pick">
+        <label class="lv-gp"><span>Gran Premio</span><select id="lvGp" aria-label="Gran Premio"></select></label>
+        <div class="filters" id="lvSes" role="group" aria-label="Sesión"></div>
+      </div>
+
+      <div class="lv-bar">
+        <span class="lv-badge" id="lvBadge">…</span>
+        <span class="lv-track n" id="lvTrack">…</span>
+        <strong id="lvLap"></strong>
+        <span class="lv-wx" id="lvWx"></span>
+        <button class="btn-s ghost lv-fs" id="lvFull" type="button" hidden>Pantalla completa</button>
+      </div>
+
+      <div class="lv-replay" id="lvReplay" hidden>
+        <button class="btn-s" id="lvPlay" type="button" aria-pressed="false">Reproducir</button>
+        <input type="range" id="lvSlider" min="0" max="1" value="0" step="1000" aria-label="Momento de la sesión">
+        <span class="lv-clock" id="lvClock">0:00:00</span>
+        <div class="lv-speed" id="lvSpeed" role="group" aria-label="Velocidad">
+          <button type="button" data-x="10" aria-pressed="false">×10</button>
+          <button type="button" data-x="30" aria-pressed="true">×30</button>
+          <button type="button" data-x="120" aria-pressed="false">×120</button>
+        </div>
+        <button class="btn-s ghost" id="lvEnd" type="button">Final</button>
+      </div>
+      <p class="st-hint" id="lvNote"></p>
+
+      <div class="lv-grid">
+        <div class="lv-main">
+          <div class="lv-board" id="lvBoard"><div class="lv-skel"></div></div>
+          <div class="box lv-chronobox"><h3>Cronología</h3><div id="lvChrono"></div></div>
+        </div>
+        <aside class="lv-side">
+          <div class="box lv-mapbox"><h3>Circuito</h3><div class="lv-map" id="lvMap"></div><p class="lv-mapnote">Posición estimada con los tiempos por sector de cada vuelta y el trazado GPS de la vuelta más rápida. El número es la posición en carrera.</p></div>
+          <div class="box lv-rc"><h3>Dirección de carrera</h3><ol id="lvRc"></ol></div>
+        </aside>
+      </div>
+      <p class="st-note">Datos: OpenF1 (api.openf1.org), servicio no oficial. Horas en tu zona horaria. Neumáticos: S blando, M medio, H duro, I intermedio, W lluvia.</p>
+    </div>
+  </section>
+</main>
+
+<footer class="foot">
+  <div class="wrap foot-in">
+    <span>MILÉSIMA <span class="dot">F1</span> · La F1 se decide en una milésima.</span>
+    <span>Milésima F1 es un medio independiente, sin relación con Formula 1, la FIA ni los equipos. Las marcas pertenecen a sus propietarios. Fotos: Wikimedia Commons (Liauzh y otros autores, CC BY / CC BY-SA).</span>
+  </div>
+</footer>
+
+<script src="app.js"></script>
+<script src="live.js"></script>
+</body>
+</html>

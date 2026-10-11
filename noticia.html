@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Noticia · Milésima</title>
+<meta name="description" content="Noticias de Fórmula 1 en español para México y Argentina.">
+<meta name="theme-color" content="#0F1115">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;700;800;900&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="nav">
+  <div class="wrap nav-in">
+    <a class="brand" href="index.html" aria-label="Milésima, inicio"><img src="assets/casco-sobre-oscuro.svg" alt="" width="34" height="34">MILÉSIMA <span class="dot">F1</span></a>
+    <nav class="links" aria-label="Principal">
+      <a href="index.html">Inicio</a>
+      <a href="noticias.html" aria-current="page">Noticias</a>
+      <a href="en-vivo.html">En vivo</a>
+      <a href="posiciones.html">Posiciones</a>
+      <a href="index.html#equipos">Equipos</a>
+      <a href="index.html#redes">Redes</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <article class="art wrap" id="article">
+    <a class="back" href="noticias.html">← Todas las noticias</a>
+    <div class="meta k" id="aMeta"></div>
+    <h1 id="aTitle">Cargando…</h1>
+    <p class="rsum" id="aSum"></p>
+    <figure class="afig" id="aFig">
+      <figcaption id="aCredit"></figcaption>
+    </figure>
+    <div class="rbody" id="aBody"></div>
+    <a class="rsrc" id="aSrc" target="_blank" rel="noopener noreferrer"></a>
+    <p class="rnote">Resumen elaborado por Milésima a partir de la fuente citada.</p>
+  </article>
+
+  <section class="s art-more">
+    <div class="wrap">
+      <h2>Sigue leyendo</h2>
+      <div class="news" id="aMore"></div>
+    </div>
+  </section>
+</main>
+
+<footer class="foot">
+  <div class="wrap foot-in">
+    <span>MILÉSIMA <span class="dot">F1</span> · La F1 se decide en una milésima.</span>
+    <span>Milésima F1 es un medio independiente, sin relación con Formula 1, la FIA ni los equipos. Las marcas pertenecen a sus propietarios. Fotos: Wikimedia Commons (Liauzh y otros autores, CC BY / CC BY-SA).</span>
+  </div>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

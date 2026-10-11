@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Posiciones F1 · Milésima</title>
+<meta name="description" content="Tabla del campeonato de Fórmula 1: pilotos y constructores, actualizada después de cada carrera.">
+<meta name="theme-color" content="#0F1115">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;700;800;900&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="nav">
+  <div class="wrap nav-in">
+    <a class="brand" href="index.html" aria-label="Milésima, inicio"><img src="assets/casco-sobre-oscuro.svg" alt="" width="34" height="34">MILÉSIMA <span class="dot">F1</span></a>
+    <nav class="links" aria-label="Principal">
+      <a href="index.html">Inicio</a>
+      <a href="noticias.html">Noticias</a>
+      <a href="en-vivo.html">En vivo</a>
+      <a href="posiciones.html" aria-current="page">Posiciones</a>
+      <a href="index.html#equipos">Equipos</a>
+      <a href="index.html#redes">Redes</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section class="page-h">
+    <div class="wrap">
+      <p class="eyebrow">Campeonato</p>
+      <h1 class="ph1">Posiciones</h1>
+      <p class="lead" id="stLead">Tabla oficial del Mundial, actualizada después de cada carrera.</p>
+    </div>
+  </section>
+
+  <section class="s">
+    <div class="wrap">
+      <div class="filters" role="tablist" aria-label="Campeonato" id="stTabs">
+        <button class="chip" role="tab" data-t="drv" aria-selected="true" aria-pressed="true">Pilotos</button>
+        <button class="chip" role="tab" data-t="con" aria-selected="false" aria-pressed="false">Constructores</button>
+      </div>
+      <p class="st-hint">Toca una fila para ver victorias y diferencias.</p>
+      <ol class="stand" id="stand" aria-live="polite"><li class="skl"></li></ol>
+      <p class="st-note">Fuente de datos: Jolpica F1 API. Fotos de pilotos: Wikimedia Commons, con el autor y la licencia de cada foto en su ficha.</p>
+    </div>
+  </section>
+</main>
+
+<footer class="foot">
+  <div class="wrap foot-in">
+    <span>MILÉSIMA <span class="dot">F1</span> · La F1 se decide en una milésima.</span>
+    <span>Milésima F1 es un medio independiente, sin relación con Formula 1, la FIA ni los equipos. Las marcas pertenecen a sus propietarios. Fotos: Wikimedia Commons (Liauzh y otros autores, CC BY / CC BY-SA).</span>
+  </div>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
