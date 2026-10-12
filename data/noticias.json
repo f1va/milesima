@@ -1,122 +1,141 @@
 {
-  "updated": "2026-10-11",
+  "updated": "2026-10-12",
   "hero": {
     "kicker": "Tema del día",
-    "title": "Tres pilotos largan desde el pit lane",
-    "summary": "Alonso, Hadjar y Stroll salen desde el pit lane en Singapur, mientras Verstappen defiende la pole y Russell remonta tras su sanción.",
-    "article": "parrilla-definitiva-singapur",
+    "title": "Verstappen domina Singapur en su GP 250",
+    "summary": "Verstappen ganó de punta a punta; Colapinto abandonó, Checo fue 17.º y Antonelli puede ser campeón en Austin.",
+    "article": "verstappen-gana-singapur-250",
     "topics": [
-      "alonso-pit-lane-singapur",
-      "russell-ataque-total-singapur",
-      "checo-colapinto-parrilla-domingo",
-      "horarios-carrera-singapur"
+      "colapinto-abandona-singapur-transmision",
+      "checo-17-singapur-cadillac",
+      "antonelli-puede-ser-campeon-austin",
+      "horarios-gp-estados-unidos-austin"
     ]
   },
   "articles": [
     {
-      "id": "parrilla-definitiva-singapur",
+      "id": "verstappen-gana-singapur-250",
       "cat": "carrera",
-      "date": "2026-10-11",
-      "title": "Tres pilotos largan desde el pit lane en Singapur",
-      "summary": "Alonso, Hadjar y Stroll salen desde el pit lane tras cambios en sus coches; Russell parte con una sanción de motor.",
+      "date": "2026-10-12",
+      "title": "Verstappen domina Singapur en su GP número 250",
+      "summary": "Max Verstappen ganó de punta a punta en Marina Bay: su primer triunfo en este circuito y el 73.º de su carrera.",
       "body": [
-        "Según GPFans y RacingNews365, Fernando Alonso, Isack Hadjar y Lance Stroll largarán desde el pit lane en el GP de Singapur. Verstappen sigue en la pole, con Leclerc segundo y Hamilton tercero.",
-        "En el caso de Alonso, Aston Martin cambió el turbo y la suspensión de ambos coches con el régimen de parque cerrado ya vigente. Red Bull cambió componentes de la unidad de potencia en el coche de Hadjar, que ni siquiera había marcado tiempo en la clasificación; los comisarios le permitieron correr.",
-        "Stroll sale del pit lane por cambios en la configuración de la suspensión de su Aston Martin.",
-        "La sanción de Russell se reporta con cifras distintas: 40 plazas según GPFans y 60 según Crash.net. Con los tres pit lane fuera de la parrilla, su casilla queda entre la 19.ª y la 21.ª según la fuente, así que conviene confirmar con la parrilla oficial de la FIA.",
-        "Lo que hay que observar: la primera vuelta. Con pocos puntos de adelantamiento en Marina Bay, los coches que salen del pit lane dependen de un safety car para recuperar posiciones."
+        "Verstappen salió desde la pole y cruzó la meta con Leclerc a 7.335 segundos y Antonelli a 24.573. El tiempo oficial de la carrera fue 1:42:00.785 en 62 vueltas.",
+        "Detrás del podio quedaron Norris (4.º), Piastri (5.º), Hamilton (6.º), Lawson (7.º), Hülkenberg (8.º), Russell (9.º) y Hadjar (10.º).",
+        "Fue su segunda victoria consecutiva del año y llegó justo en su Gran Premio número 250, según lo publicado por los medios.",
+        "Lo que hay que observar: con 221 puntos, Verstappen ya está en la pelea por el subcampeonato."
       ],
-      "source": "GPFans / RacingNews365",
-      "url": "https://www.gpfans.com/en/f1-news/1091362/f1-2026-singapore-grand-prix-starting-grid-all-late-penalties-applied-fia/",
-      "img": "img/noticias/russell-austria.jpg",
-      "imgCredit": "Lukas Raich · CC BY-SA 4.0 · Wikimedia Commons",
-      "imgAlt": "George Russell con el Mercedes"
+      "source": "Motorsport.com",
+      "url": "https://lat.motorsport.com/f1/news/verstappen-gana-singapur-resultados-colapinto-checo-perez/10864315/",
+      "img": "img/noticias/verstappen-gana-sepang.jpg",
+      "imgCredit": "Jen Ross · CC BY 2.0 · Wikimedia Commons",
+      "imgAlt": "Max Verstappen con el Red Bull"
     },
     {
-      "id": "alonso-pit-lane-singapur",
+      "id": "colapinto-abandona-singapur-transmision",
       "cat": "pilotos",
-      "date": "2026-10-11",
-      "title": "Alonso saldrá desde el pit lane tras el cambio de turbo",
-      "summary": "Aston Martin modificó el coche de Alonso en parque cerrado, y el español pierde su 16.º lugar en la parrilla.",
+      "date": "2026-10-12",
+      "title": "Colapinto abandona en Singapur por otra falla del Alpine",
+      "summary": "Franco Colapinto rodaba 14.º cuando su coche se detuvo hacia la vuelta 31 o 32, por un problema de transmisión.",
       "body": [
-        "Fernando Alonso quedó eliminado en la Q1 y largaba 16.º. Aston Martin cambió después el turbo de su coche y la suspensión en ambos monoplazas, según Grande Prêmio.",
-        "Como esas modificaciones se hicieron bajo condiciones de parque cerrado, Alonso saldrá desde el pit lane. Lo mismo ocurre con Stroll.",
-        "Su salida del pit lane despeja un lugar delante de Carlos Sainz, que largaba 13.º en el Williams.",
-        "Lo que hay que observar: si el equipo elige una estrategia distinta para aprovechar un posible safety car, algo habitual desde el pit lane."
+        "Colapinto venía remontando y marchaba en el puesto 14 cuando tuvo que parar su Alpine, según las crónicas de la carrera.",
+        "Es otro abandono por falla mecánica en el equipo y cierra un fin de semana en el que el argentino no logró mostrar su ritmo.",
+        "El detalle exacto de la avería aún no tiene una versión oficial detallada del equipo.",
+        "Lo que hay que observar: si Alpine confirma qué falló y si el coche llega a Austin con la pieza revisada."
       ],
-      "source": "Grande Prêmio",
-      "url": "https://grandepremio.com/en/f1/alonso-hadjar-and-stroll-forced-to-start-singapore-gp-from-pit-lane-after-late-car-changes/",
-      "img": "img/noticias/alonso-sainz-sepang.jpg",
-      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
-      "imgAlt": "Fernando Alonso con el Aston Martin"
-    },
-    {
-      "id": "russell-ataque-total-singapur",
-      "cat": "pilotos",
-      "date": "2026-10-11",
-      "title": "Russell promete un \"ataque total\" desde el fondo",
-      "summary": "El piloto de Mercedes remontará tras una sanción de motor que lo manda al fondo de la parrilla.",
-      "body": [
-        "George Russell dijo en declaraciones publicadas por F1.com que atacará al máximo desde el fondo en Singapur.",
-        "Había marcado el sexto tiempo en la clasificación, pero perdió la posición por exceder su cupo de componentes de la unidad de potencia.",
-        "El tamaño exacto de la sanción varía según el medio: 40 plazas según GPFans y 60 según Crash.net.",
-        "Lo que hay que observar: Russell sufrió un golpe en el sprint del sábado y tendrá que ser paciente en un circuito con pocos adelantamientos."
-      ],
-      "source": "Formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/russell-promises-all-out-attack-from-back-of-singapore-grid-amid-engine-penalty.1Owe717iaaEqDioJZqUyaJ"
-    },
-    {
-      "id": "checo-colapinto-parrilla-domingo",
-      "cat": "pilotos",
-      "date": "2026-10-11",
-      "title": "Checo largará 17.º y Colapinto 15.º en Singapur",
-      "summary": "Con los cambios de parrilla, Pérez sube dos lugares y Colapinto mantiene el 15.º.",
-      "body": [
-        "Según la parrilla ajustada de Crash.net, Franco Colapinto sale 15.º con el Alpine, Albon 16.º, Sergio Pérez 17.º con el Cadillac y Bottas 18.º.",
-        "Pérez y Bottas quedaron eliminados en la Q1. El mexicano mejora dos lugares frente a su 19.º original por los pilotos que salen desde el pit lane.",
-        "Colapinto compartirá la parrilla con Gasly, que sale séptimo. El argentino abandonó el sprint por una falla del sistema híbrido de su Alpine.",
-        "Lo que hay que observar: con ocho abandonos en el sprint, terminar la carrera puede significar puntos para los coches del fondo."
-      ],
-      "source": "Crash.net",
-      "url": "https://www.crash.net/f1/news/1107179/1/f1-singapore-grand-prix-full-starting-grid-after-penalties",
+      "source": "Motorsport.com",
+      "url": "https://lat.motorsport.com/f1/news/verstappen-gana-singapur-resultados-colapinto-checo-perez/10864315/",
       "img": "img/noticias/colapinto-13-sepang.jpg",
       "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
       "imgAlt": "Franco Colapinto con el Alpine"
     },
     {
-      "id": "verstappen-sprint-y-pole-singapur",
-      "cat": "carrera",
-      "date": "2026-10-10",
-      "title": "Verstappen gana el sprint de Singapur y suma la pole para el domingo",
-      "summary": "El piloto de Red Bull ganó el sprint por 2.591 s sobre Hamilton y luego firmó la pole número 50 de su carrera.",
+      "id": "checo-17-singapur-cadillac",
+      "cat": "pilotos",
+      "date": "2026-10-12",
+      "title": "Checo Pérez termina 17.º en Singapur y Cadillac sigue sin puntos",
+      "summary": "El mexicano había calificado a Singapur como una de las últimas oportunidades del año para sumar con Cadillac.",
       "body": [
-        "La salida del sprint se retrasó 30 minutos por una tormenta sobre Marina Bay. Russell tomó la punta al arrancar, pero se fue contra el muro con la pista húmeda al final de la primera vuelta.",
-        "Verstappen heredó el liderato y ganó las 20 vueltas con 2.591 s de ventaja sobre Hamilton. Leclerc fue tercero, Antonelli cuarto y Lawson quinto.",
-        "Horas después, en la clasificación, marcó 1:31.373 y superó a Leclerc por 0.054 s y a Hamilton por 0.123 s. Según Crash.net, es su pole número 50 en la F1.",
-        "Antonelli fue cuarto en el sprint y, según el mismo medio, amplió a 89 puntos su ventaja en el campeonato.",
-        "Lo que hay que observar: Verstappen arranca desde la pole en una pista donde adelantar es muy difícil, con las dos Ferrari justo detrás."
+        "Checo Pérez cruzó la meta en el puesto 17, según el titular de la crónica de Motorsport.com. Había partido desde el fondo tras el accidente que sufrió en la clasificación del sprint.",
+        "Antes del fin de semana, el piloto advirtió que Singapur podía ser la última buena oportunidad para puntuar. No se concretó.",
+        "Cadillac continúa como el único equipo sin puntos en 2026, según lo publicado antes de la carrera.",
+        "Lo que hay que observar: el ánimo del equipo rumbo a la gira americana y la cercanía del GP de México."
       ],
-      "source": "Crash.net",
-      "url": "https://www.crash.net/f1/news/1107067/1/max-verstappen-beats-lewis-hamilton-win-chaotic-singapore-sprint",
-      "img": "img/noticias/verstappen-fp2-sepang.jpg",
-      "imgCredit": "Liauzh · CC BY-SA 4.0 · Wikimedia Commons",
-      "imgAlt": "Max Verstappen con el Red Bull"
+      "source": "Motorsport.com",
+      "url": "https://lat.motorsport.com/f1/news/verstappen-gana-singapur-resultados-colapinto-checo-perez/10864315/",
+      "img": "img/noticias/checo-19-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Sergio Pérez con el Cadillac"
     },
     {
-      "id": "horarios-carrera-singapur",
-      "cat": "carrera",
-      "date": "2026-10-10",
-      "title": "GP de Singapur: a qué hora es la carrera del domingo",
-      "summary": "62 vueltas desde las 06:00 del centro de México y las 09:00 de Argentina.",
+      "id": "alonso-sainz-sin-opciones-singapur",
+      "cat": "pilotos",
+      "date": "2026-10-12",
+      "title": "Alonso y Sainz, sin opciones de puntos en Singapur",
+      "summary": "Alonso terminó 16.º, una vuelta abajo, y Sainz 14.º, ambos lejos de la zona de puntos.",
       "body": [
-        "Domingo 11 de octubre: la carrera arranca a las 06:00 en el centro de México, 07:00 en Colombia, Ecuador y Perú, y 09:00 en Argentina.",
-        "Equivale a las 20:00 locales de Singapur (UTC+8) y a las 12:00 UTC. La conversión se hizo desde la hora UTC.",
-        "Son 62 vueltas al circuito de Marina Bay, de noche y bajo los reflectores.",
-        "En la sección En vivo de Milésima podrás ver la repetición vuelta a vuelta, con tabla, mapa del circuito y cronología, unos 30 minutos después de la bandera a cuadros.",
-        "Lo que hay que observar: el sábado llovió con fuerza; si vuelve a llover, la estrategia de neumáticos puede cambiarlo todo."
+        "Según la tabla oficial, Fernando Alonso cerró en la posición 16 con Aston Martin, a una vuelta del ganador.",
+        "Carlos Sainz fue 14.º con Williams, también sin pelear por el top 10.",
+        "Lance Stroll, compañero de Alonso, fue uno de los que no vio la bandera a cuadros.",
+        "Lo que hay que observar: si ambos equipos llevan mejoras a Austin."
       ],
-      "source": "Crash.net",
-      "url": "https://www.crash.net/f1/news/1106593/1/f1-2026-singapore-grand-prix-start-time-and-full-weekend-schedule"
+      "source": "Autonocion",
+      "url": "https://www.autonocion.com/motornocion/verstappen-gana-entre-lluvia-y-ocho-abandonos-alonso-y-sainz-impotentes/",
+      "img": "img/noticias/alonso-sainz-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Fernando Alonso con el Aston Martin"
+    },
+    {
+      "id": "antonelli-puede-ser-campeon-austin",
+      "cat": "pilotos",
+      "date": "2026-10-12",
+      "title": "Antonelli puede coronarse campeón en Austin",
+      "summary": "Con 340 puntos y 102 de ventaja sobre Russell, el italiano podría asegurar el título en Estados Unidos.",
+      "body": [
+        "Tras Singapur, Kimi Antonelli lidera con 340 puntos. Russell es segundo con 238, Hamilton tercero con 229, Verstappen cuarto con 221 y Leclerc quinto con 215.",
+        "Antonelli fue tercero en la carrera y amplió su colchón. Según varios medios, podría ser campeón matemático en el GP de Estados Unidos.",
+        "Russell, su compañero en Mercedes, fue noveno tras remontar desde el fondo por una sanción de motor.",
+        "Lo que hay que observar: cuántos puntos necesita Antonelli en Austin para cerrar el título."
+      ],
+      "source": "GPFans",
+      "url": "https://www.gpfans.com/en/f1-news/1091337/f1-standings-2026-latest-points-leaders-singapore-grand-prix/",
+      "img": "img/noticias/antonelli-ventaja-84.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Kimi Antonelli celebrando"
+    },
+    {
+      "id": "leclerc-segundo-hamilton-sexto-singapur",
+      "cat": "equipos",
+      "date": "2026-10-12",
+      "title": "Leclerc es segundo y Hamilton sexto: Ferrari, con resultados dispares",
+      "summary": "Ferrari subió al podio con Leclerc, pero Hamilton cayó al sexto lugar tras una decisión de estrategia.",
+      "body": [
+        "Charles Leclerc terminó segundo, a 7.335 segundos de Verstappen, y sumó 18 puntos.",
+        "Lewis Hamilton fue sexto, a 53.188 segundos, y según lo publicado perdió posiciones por la estrategia del equipo.",
+        "Ambos pilotos siguen en el grupo de cabeza del campeonato: Hamilton tercero con 229 puntos y Leclerc quinto con 215.",
+        "Lo que hay que observar: cómo reparte Ferrari la estrategia entre sus dos coches en Austin."
+      ],
+      "source": "RacingNews365",
+      "url": "https://racingnews365.com/2026-f1-singapore-grand-prix-results",
+      "img": "img/noticias/leclerc-austria.jpg",
+      "imgCredit": "Lukas Raich · CC BY-SA 4.0 · Wikimedia Commons",
+      "imgAlt": "Charles Leclerc con el Ferrari"
+    },
+    {
+      "id": "horarios-gp-estados-unidos-austin",
+      "cat": "carrera",
+      "date": "2026-10-12",
+      "title": "GP de Estados Unidos: horarios en México, Colombia y Argentina",
+      "summary": "Austin recibe a la F1 del 23 al 25 de octubre, sin sprint. La carrera es el domingo a las 14:00 en el centro de México.",
+      "body": [
+        "Horarios locales de Austin (UTC−5) según F1.com; conversión desde UTC.",
+        "Viernes 23: práctica 1 a las 12:30 locales (11:30 centro de México, 12:30 Colombia/Ecuador/Perú, 14:30 Argentina) y práctica 2 a las 16:00 (15:00, 16:00 y 18:00).",
+        "Sábado 24: práctica 3 a las 12:30 (11:30, 12:30 y 14:30) y clasificación a las 16:00 (15:00, 16:00 y 18:00).",
+        "Domingo 25: carrera a las 15:00 locales, es decir 14:00 en el centro de México, 15:00 en Colombia, Ecuador y Perú, y 17:00 en Argentina. Son 56 vueltas o 120 minutos como máximo.",
+        "Lo que hay que observar: F1 aclara que el calendario puede cambiar."
+      ],
+      "source": "Formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/formula-1-msc-cruises-united-states-grand-prix-2026.2u6li2pzNhPzL3TSYaagrm"
     }
   ]
 }
