@@ -1,89 +1,82 @@
 {
-  "updated": "2026-10-12",
+  "updated": "2026-10-13",
   "hero": {
     "kicker": "Tema del día",
-    "title": "Verstappen domina Singapur en su GP 250",
-    "summary": "Verstappen ganó de punta a punta; Colapinto abandonó, Checo fue 17.º y Antonelli puede ser campeón en Austin.",
-    "article": "verstappen-gana-singapur-250",
+    "title": "Vasseur admite el error de Hamilton",
+    "summary": "Ferrari perdió un doble podio en Singapur tras la decisión de Hamilton bajo el VSC; Antonelli puede ser campeón en Austin.",
+    "article": "vasseur-hamilton-error-vsc-singapur",
     "topics": [
-      "colapinto-abandona-singapur-transmision",
-      "checo-17-singapur-cadillac",
+      "mercedes-mejoras-w17-antonelli-russell",
       "antonelli-puede-ser-campeon-austin",
+      "rwanda-gp-2030-informe",
       "horarios-gp-estados-unidos-austin"
     ]
   },
   "articles": [
     {
-      "id": "verstappen-gana-singapur-250",
-      "cat": "carrera",
-      "date": "2026-10-12",
-      "title": "Verstappen domina Singapur en su GP número 250",
-      "summary": "Max Verstappen ganó de punta a punta en Marina Bay: su primer triunfo en este circuito y el 73.º de su carrera.",
+      "id": "vasseur-hamilton-error-vsc-singapur",
+      "cat": "equipos",
+      "date": "2026-10-13",
+      "title": "Vasseur: el error de Hamilton costó un doble podio a Ferrari",
+      "summary": "El jefe de Ferrari dijo que Hamilton no entró a boxes bajo el VSC y que ambos coches habrían sido 2.º y 3.º.",
       "body": [
-        "Verstappen salió desde la pole y cruzó la meta con Leclerc a 7.335 segundos y Antonelli a 24.573. El tiempo oficial de la carrera fue 1:42:00.785 en 62 vueltas.",
-        "Detrás del podio quedaron Norris (4.º), Piastri (5.º), Hamilton (6.º), Lawson (7.º), Hülkenberg (8.º), Russell (9.º) y Hadjar (10.º).",
-        "Fue su segunda victoria consecutiva del año y llegó justo en su Gran Premio número 250, según lo publicado por los medios.",
-        "Lo que hay que observar: con 221 puntos, Verstappen ya está en la pelea por el subcampeonato."
+        "Fred Vasseur calificó de error la decisión de Lewis Hamilton en Singapur. El Virtual Safety Car salió en la vuelta 39 por la detención de Lance Stroll, con un posible problema de embrague.",
+        "Según Vasseur, el equipo llamó a los dos pilotos a boxes. Leclerc entró, mantuvo el segundo lugar y terminó en esa posición. Hamilton siguió en pista y cayó al sexto.",
+        "Las versiones difieren: Vasseur contó que el piloto habló de haber fallado la entrada a boxes, mientras que por radio Hamilton dijo que fue su decisión y que costó puntos valiosos, según lo publicado.",
+        "Lo que hay que observar: cómo gestionará Ferrari las llamadas por radio en Austin, con Hamilton tercero del campeonato."
       ],
-      "source": "Motorsport.com",
-      "url": "https://lat.motorsport.com/f1/news/verstappen-gana-singapur-resultados-colapinto-checo-perez/10864315/",
+      "source": "Formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/it-was-a-mistake-vasseur-reacts-to-hamiltons-strategy-call-that-lost-a-podium-in-singapore.7FetC3ZueATDEKBKuuy4V"
+    },
+    {
+      "id": "mercedes-mejoras-w17-antonelli-russell",
+      "cat": "tecnica",
+      "date": "2026-10-13",
+      "title": "Mercedes dividió especificaciones del W17 en Singapur",
+      "summary": "Antonelli usó la mejora y Russell volvió a la versión anterior; los resultados no fueron concluyentes.",
+      "body": [
+        "Mercedes llevó a Singapur dos configuraciones del W17: Antonelli con la mejora estrenada en Malasia y Russell con el paquete previo.",
+        "En la clasificación sprint, Russell fue segundo y Antonelli séptimo; el italiano llamó al coche muy difícil de manejar.",
+        "En la clasificación del GP, Antonelli salió cuarto. Toto Wolff dijo que las mejoras parecían funcionar en el coche de Kimi, pero pidió más pruebas.",
+        "Según lo publicado, el equipo esperaba cerca de tres décimas por vuelta de la mejora, ganancia que no se vio con claridad en Sepang.",
+        "Lo que hay que observar: qué especificación usará Mercedes en Austin."
+      ],
+      "source": "Formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/antonelli-struggling-with-very-difficult-new-spec-mercedes-after-p7-in-singapore-sprint-qualifying.PuBAg4FVi18iuQaMRyBgS"
+    },
+    {
+      "id": "rwanda-gp-2030-informe",
+      "cat": "carrera",
+      "date": "2026-10-13",
+      "title": "Informes apuntan a un GP de Ruanda en 2030",
+      "summary": "La F1 volvería a África, pero el acuerdo aún no está confirmado oficialmente.",
+      "body": [
+        "Medios reportaron a inicios de octubre que Ruanda recibiría un Gran Premio de F1 no antes de 2030.",
+        "El circuito se construiría a unos 40 kilómetros de Kigali, cerca del aeropuerto de Bugesera, con diseño de WurzDesign.",
+        "África no recibe la F1 desde Kyalami, Sudáfrica, en 1993.",
+        "Ni la F1, ni la FIA ni el gobierno ruandés lo habían confirmado; una fuente citada por AFP habló de un anuncio oficial en Kigali la próxima semana. La duración del contrato no aparece en lo consultado.",
+        "Lo que hay que observar: el anuncio oficial y el impacto en el calendario."
+      ],
+      "source": "BusinessDay",
+      "url": "https://www.businessday.co.za/motoring/2026-10-07-formula-one-to-return-to-africa-in-2030-according-to-report/"
+    },
+    {
+      "id": "verstappen-radio-singapur-pit-boards",
+      "cat": "carrera",
+      "date": "2026-10-13",
+      "title": "Verstappen ganó Singapur pese a problemas de radio",
+      "summary": "Red Bull usó pizarras en boxes; Max logró su 73.ª victoria y la pole 50.",
+      "body": [
+        "Max Verstappen lideró toda la carrera en Singapur a pesar de fallas de radio que obligaron a Red Bull a usar pizarras.",
+        "Fue su 73.ª victoria en su GP número 250, y antes había conseguido su pole 50 y el sprint con lluvia.",
+        "Es su segundo triunfo del año tras Malasia; Leclerc fue segundo a unos 7.3 segundos.",
+        "Lo que hay que observar: si Red Bull resuelve la radio antes de Austin."
+      ],
+      "source": "Formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/verstappen-seals-commanding-singapore-grand-prix-victory-from-leclerc-and-antonelli.49wDzysiVqi5cloGjle40A",
       "img": "img/noticias/verstappen-gana-sepang.jpg",
       "imgCredit": "Jen Ross · CC BY 2.0 · Wikimedia Commons",
       "imgAlt": "Max Verstappen con el Red Bull"
-    },
-    {
-      "id": "colapinto-abandona-singapur-transmision",
-      "cat": "pilotos",
-      "date": "2026-10-12",
-      "title": "Colapinto abandona en Singapur por otra falla del Alpine",
-      "summary": "Franco Colapinto rodaba 14.º cuando su coche se detuvo hacia la vuelta 31 o 32, por un problema de transmisión.",
-      "body": [
-        "Colapinto venía remontando y marchaba en el puesto 14 cuando tuvo que parar su Alpine, según las crónicas de la carrera.",
-        "Es otro abandono por falla mecánica en el equipo y cierra un fin de semana en el que el argentino no logró mostrar su ritmo.",
-        "El detalle exacto de la avería aún no tiene una versión oficial detallada del equipo.",
-        "Lo que hay que observar: si Alpine confirma qué falló y si el coche llega a Austin con la pieza revisada."
-      ],
-      "source": "Motorsport.com",
-      "url": "https://lat.motorsport.com/f1/news/verstappen-gana-singapur-resultados-colapinto-checo-perez/10864315/",
-      "img": "img/noticias/colapinto-13-sepang.jpg",
-      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
-      "imgAlt": "Franco Colapinto con el Alpine"
-    },
-    {
-      "id": "checo-17-singapur-cadillac",
-      "cat": "pilotos",
-      "date": "2026-10-12",
-      "title": "Checo Pérez termina 17.º en Singapur y Cadillac sigue sin puntos",
-      "summary": "El mexicano había calificado a Singapur como una de las últimas oportunidades del año para sumar con Cadillac.",
-      "body": [
-        "Checo Pérez cruzó la meta en el puesto 17, según el titular de la crónica de Motorsport.com. Había partido desde el fondo tras el accidente que sufrió en la clasificación del sprint.",
-        "Antes del fin de semana, el piloto advirtió que Singapur podía ser la última buena oportunidad para puntuar. No se concretó.",
-        "Cadillac continúa como el único equipo sin puntos en 2026, según lo publicado antes de la carrera.",
-        "Lo que hay que observar: el ánimo del equipo rumbo a la gira americana y la cercanía del GP de México."
-      ],
-      "source": "Motorsport.com",
-      "url": "https://lat.motorsport.com/f1/news/verstappen-gana-singapur-resultados-colapinto-checo-perez/10864315/",
-      "img": "img/noticias/checo-19-sepang.jpg",
-      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
-      "imgAlt": "Sergio Pérez con el Cadillac"
-    },
-    {
-      "id": "alonso-sainz-sin-opciones-singapur",
-      "cat": "pilotos",
-      "date": "2026-10-12",
-      "title": "Alonso y Sainz, sin opciones de puntos en Singapur",
-      "summary": "Alonso terminó 16.º, una vuelta abajo, y Sainz 14.º, ambos lejos de la zona de puntos.",
-      "body": [
-        "Según la tabla oficial, Fernando Alonso cerró en la posición 16 con Aston Martin, a una vuelta del ganador.",
-        "Carlos Sainz fue 14.º con Williams, también sin pelear por el top 10.",
-        "Lance Stroll, compañero de Alonso, fue uno de los que no vio la bandera a cuadros.",
-        "Lo que hay que observar: si ambos equipos llevan mejoras a Austin."
-      ],
-      "source": "Autonocion",
-      "url": "https://www.autonocion.com/motornocion/verstappen-gana-entre-lluvia-y-ocho-abandonos-alonso-y-sainz-impotentes/",
-      "img": "img/noticias/alonso-sainz-sepang.jpg",
-      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
-      "imgAlt": "Fernando Alonso con el Aston Martin"
     },
     {
       "id": "antonelli-puede-ser-campeon-austin",
@@ -102,24 +95,6 @@
       "img": "img/noticias/antonelli-ventaja-84.jpg",
       "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
       "imgAlt": "Kimi Antonelli celebrando"
-    },
-    {
-      "id": "leclerc-segundo-hamilton-sexto-singapur",
-      "cat": "equipos",
-      "date": "2026-10-12",
-      "title": "Leclerc es segundo y Hamilton sexto: Ferrari, con resultados dispares",
-      "summary": "Ferrari subió al podio con Leclerc, pero Hamilton cayó al sexto lugar tras una decisión de estrategia.",
-      "body": [
-        "Charles Leclerc terminó segundo, a 7.335 segundos de Verstappen, y sumó 18 puntos.",
-        "Lewis Hamilton fue sexto, a 53.188 segundos, y según lo publicado perdió posiciones por la estrategia del equipo.",
-        "Ambos pilotos siguen en el grupo de cabeza del campeonato: Hamilton tercero con 229 puntos y Leclerc quinto con 215.",
-        "Lo que hay que observar: cómo reparte Ferrari la estrategia entre sus dos coches en Austin."
-      ],
-      "source": "RacingNews365",
-      "url": "https://racingnews365.com/2026-f1-singapore-grand-prix-results",
-      "img": "img/noticias/leclerc-austria.jpg",
-      "imgCredit": "Lukas Raich · CC BY-SA 4.0 · Wikimedia Commons",
-      "imgAlt": "Charles Leclerc con el Ferrari"
     },
     {
       "id": "horarios-gp-estados-unidos-austin",

@@ -1,6 +1,96 @@
 {
   "articles": [
     {
+      "id": "verstappen-gana-singapur-250",
+      "cat": "carrera",
+      "date": "2026-10-12",
+      "title": "Verstappen domina Singapur en su GP número 250",
+      "summary": "Max Verstappen ganó de punta a punta en Marina Bay: su primer triunfo en este circuito y el 73.º de su carrera.",
+      "body": [
+        "Verstappen salió desde la pole y cruzó la meta con Leclerc a 7.335 segundos y Antonelli a 24.573. El tiempo oficial de la carrera fue 1:42:00.785 en 62 vueltas.",
+        "Detrás del podio quedaron Norris (4.º), Piastri (5.º), Hamilton (6.º), Lawson (7.º), Hülkenberg (8.º), Russell (9.º) y Hadjar (10.º).",
+        "Fue su segunda victoria consecutiva del año y llegó justo en su Gran Premio número 250, según lo publicado por los medios.",
+        "Lo que hay que observar: con 221 puntos, Verstappen ya está en la pelea por el subcampeonato."
+      ],
+      "source": "Motorsport.com",
+      "url": "https://lat.motorsport.com/f1/news/verstappen-gana-singapur-resultados-colapinto-checo-perez/10864315/",
+      "img": "img/noticias/verstappen-gana-sepang.jpg",
+      "imgCredit": "Jen Ross · CC BY 2.0 · Wikimedia Commons",
+      "imgAlt": "Max Verstappen con el Red Bull"
+    },
+    {
+      "id": "colapinto-abandona-singapur-transmision",
+      "cat": "pilotos",
+      "date": "2026-10-12",
+      "title": "Colapinto abandona en Singapur por otra falla del Alpine",
+      "summary": "Franco Colapinto rodaba 14.º cuando su coche se detuvo hacia la vuelta 31 o 32, por un problema de transmisión.",
+      "body": [
+        "Colapinto venía remontando y marchaba en el puesto 14 cuando tuvo que parar su Alpine, según las crónicas de la carrera.",
+        "Es otro abandono por falla mecánica en el equipo y cierra un fin de semana en el que el argentino no logró mostrar su ritmo.",
+        "El detalle exacto de la avería aún no tiene una versión oficial detallada del equipo.",
+        "Lo que hay que observar: si Alpine confirma qué falló y si el coche llega a Austin con la pieza revisada."
+      ],
+      "source": "Motorsport.com",
+      "url": "https://lat.motorsport.com/f1/news/verstappen-gana-singapur-resultados-colapinto-checo-perez/10864315/",
+      "img": "img/noticias/colapinto-13-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Franco Colapinto con el Alpine"
+    },
+    {
+      "id": "checo-17-singapur-cadillac",
+      "cat": "pilotos",
+      "date": "2026-10-12",
+      "title": "Checo Pérez termina 17.º en Singapur y Cadillac sigue sin puntos",
+      "summary": "El mexicano había calificado a Singapur como una de las últimas oportunidades del año para sumar con Cadillac.",
+      "body": [
+        "Checo Pérez cruzó la meta en el puesto 17, según el titular de la crónica de Motorsport.com. Había partido desde el fondo tras el accidente que sufrió en la clasificación del sprint.",
+        "Antes del fin de semana, el piloto advirtió que Singapur podía ser la última buena oportunidad para puntuar. No se concretó.",
+        "Cadillac continúa como el único equipo sin puntos en 2026, según lo publicado antes de la carrera.",
+        "Lo que hay que observar: el ánimo del equipo rumbo a la gira americana y la cercanía del GP de México."
+      ],
+      "source": "Motorsport.com",
+      "url": "https://lat.motorsport.com/f1/news/verstappen-gana-singapur-resultados-colapinto-checo-perez/10864315/",
+      "img": "img/noticias/checo-19-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Sergio Pérez con el Cadillac"
+    },
+    {
+      "id": "alonso-sainz-sin-opciones-singapur",
+      "cat": "pilotos",
+      "date": "2026-10-12",
+      "title": "Alonso y Sainz, sin opciones de puntos en Singapur",
+      "summary": "Alonso terminó 16.º, una vuelta abajo, y Sainz 14.º, ambos lejos de la zona de puntos.",
+      "body": [
+        "Según la tabla oficial, Fernando Alonso cerró en la posición 16 con Aston Martin, a una vuelta del ganador.",
+        "Carlos Sainz fue 14.º con Williams, también sin pelear por el top 10.",
+        "Lance Stroll, compañero de Alonso, fue uno de los que no vio la bandera a cuadros.",
+        "Lo que hay que observar: si ambos equipos llevan mejoras a Austin."
+      ],
+      "source": "Autonocion",
+      "url": "https://www.autonocion.com/motornocion/verstappen-gana-entre-lluvia-y-ocho-abandonos-alonso-y-sainz-impotentes/",
+      "img": "img/noticias/alonso-sainz-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Fernando Alonso con el Aston Martin"
+    },
+    {
+      "id": "leclerc-segundo-hamilton-sexto-singapur",
+      "cat": "equipos",
+      "date": "2026-10-12",
+      "title": "Leclerc es segundo y Hamilton sexto: Ferrari, con resultados dispares",
+      "summary": "Ferrari subió al podio con Leclerc, pero Hamilton cayó al sexto lugar tras una decisión de estrategia.",
+      "body": [
+        "Charles Leclerc terminó segundo, a 7.335 segundos de Verstappen, y sumó 18 puntos.",
+        "Lewis Hamilton fue sexto, a 53.188 segundos, y según lo publicado perdió posiciones por la estrategia del equipo.",
+        "Ambos pilotos siguen en el grupo de cabeza del campeonato: Hamilton tercero con 229 puntos y Leclerc quinto con 215.",
+        "Lo que hay que observar: cómo reparte Ferrari la estrategia entre sus dos coches en Austin."
+      ],
+      "source": "RacingNews365",
+      "url": "https://racingnews365.com/2026-f1-singapore-grand-prix-results",
+      "img": "img/noticias/leclerc-austria.jpg",
+      "imgCredit": "Lukas Raich · CC BY-SA 4.0 · Wikimedia Commons",
+      "imgAlt": "Charles Leclerc con el Ferrari"
+    },
+    {
       "id": "parrilla-definitiva-singapur",
       "cat": "carrera",
       "date": "2026-10-11",
