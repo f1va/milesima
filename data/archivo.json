@@ -1,6 +1,71 @@
 {
   "articles": [
     {
+      "id": "vasseur-hamilton-error-vsc-singapur",
+      "cat": "equipos",
+      "date": "2026-10-13",
+      "title": "Vasseur: el error de Hamilton costó un doble podio a Ferrari",
+      "summary": "El jefe de Ferrari dijo que Hamilton no entró a boxes bajo el VSC y que ambos coches habrían sido 2.º y 3.º.",
+      "body": [
+        "Fred Vasseur calificó de error la decisión de Lewis Hamilton en Singapur. El Virtual Safety Car salió en la vuelta 39 por la detención de Lance Stroll, con un posible problema de embrague.",
+        "Según Vasseur, el equipo llamó a los dos pilotos a boxes. Leclerc entró, mantuvo el segundo lugar y terminó en esa posición. Hamilton siguió en pista y cayó al sexto.",
+        "Las versiones difieren: Vasseur contó que el piloto habló de haber fallado la entrada a boxes, mientras que por radio Hamilton dijo que fue su decisión y que costó puntos valiosos, según lo publicado.",
+        "Lo que hay que observar: cómo gestionará Ferrari las llamadas por radio en Austin, con Hamilton tercero del campeonato."
+      ],
+      "source": "Formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/it-was-a-mistake-vasseur-reacts-to-hamiltons-strategy-call-that-lost-a-podium-in-singapore.7FetC3ZueATDEKBKuuy4V"
+    },
+    {
+      "id": "mercedes-mejoras-w17-antonelli-russell",
+      "cat": "tecnica",
+      "date": "2026-10-13",
+      "title": "Mercedes dividió especificaciones del W17 en Singapur",
+      "summary": "Antonelli usó la mejora y Russell volvió a la versión anterior; los resultados no fueron concluyentes.",
+      "body": [
+        "Mercedes llevó a Singapur dos configuraciones del W17: Antonelli con la mejora estrenada en Malasia y Russell con el paquete previo.",
+        "En la clasificación sprint, Russell fue segundo y Antonelli séptimo; el italiano llamó al coche muy difícil de manejar.",
+        "En la clasificación del GP, Antonelli salió cuarto. Toto Wolff dijo que las mejoras parecían funcionar en el coche de Kimi, pero pidió más pruebas.",
+        "Según lo publicado, el equipo esperaba cerca de tres décimas por vuelta de la mejora, ganancia que no se vio con claridad en Sepang.",
+        "Lo que hay que observar: qué especificación usará Mercedes en Austin."
+      ],
+      "source": "Formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/antonelli-struggling-with-very-difficult-new-spec-mercedes-after-p7-in-singapore-sprint-qualifying.PuBAg4FVi18iuQaMRyBgS"
+    },
+    {
+      "id": "rwanda-gp-2030-informe",
+      "cat": "carrera",
+      "date": "2026-10-13",
+      "title": "Informes apuntan a un GP de Ruanda en 2030",
+      "summary": "La F1 volvería a África, pero el acuerdo aún no está confirmado oficialmente.",
+      "body": [
+        "Medios reportaron a inicios de octubre que Ruanda recibiría un Gran Premio de F1 no antes de 2030.",
+        "El circuito se construiría a unos 40 kilómetros de Kigali, cerca del aeropuerto de Bugesera, con diseño de WurzDesign.",
+        "África no recibe la F1 desde Kyalami, Sudáfrica, en 1993.",
+        "Ni la F1, ni la FIA ni el gobierno ruandés lo habían confirmado; una fuente citada por AFP habló de un anuncio oficial en Kigali la próxima semana. La duración del contrato no aparece en lo consultado.",
+        "Lo que hay que observar: el anuncio oficial y el impacto en el calendario."
+      ],
+      "source": "BusinessDay",
+      "url": "https://www.businessday.co.za/motoring/2026-10-07-formula-one-to-return-to-africa-in-2030-according-to-report/"
+    },
+    {
+      "id": "verstappen-radio-singapur-pit-boards",
+      "cat": "carrera",
+      "date": "2026-10-13",
+      "title": "Verstappen ganó Singapur pese a problemas de radio",
+      "summary": "Red Bull usó pizarras en boxes; Max logró su 73.ª victoria y la pole 50.",
+      "body": [
+        "Max Verstappen lideró toda la carrera en Singapur a pesar de fallas de radio que obligaron a Red Bull a usar pizarras.",
+        "Fue su 73.ª victoria en su GP número 250, y antes había conseguido su pole 50 y el sprint con lluvia.",
+        "Es su segundo triunfo del año tras Malasia; Leclerc fue segundo a unos 7.3 segundos.",
+        "Lo que hay que observar: si Red Bull resuelve la radio antes de Austin."
+      ],
+      "source": "Formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/verstappen-seals-commanding-singapore-grand-prix-victory-from-leclerc-and-antonelli.49wDzysiVqi5cloGjle40A",
+      "img": "img/noticias/verstappen-gana-sepang.jpg",
+      "imgCredit": "Jen Ross · CC BY 2.0 · Wikimedia Commons",
+      "imgAlt": "Max Verstappen con el Red Bull"
+    },
+    {
       "id": "verstappen-gana-singapur-250",
       "cat": "carrera",
       "date": "2026-10-12",
