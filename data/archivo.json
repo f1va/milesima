@@ -1,6 +1,91 @@
 {
   "articles": [
     {
+      "id": "ruanda-gp-africa-acuerdo-confirmado",
+      "cat": "carrera",
+      "date": "2026-10-14",
+      "title": "La F1 vuelve a África: Ruanda tendrá Gran Premio",
+      "summary": "Según lo publicado, la F1 y Ruanda firmaron un acuerdo de 10 años para correr en el continente a inicios de la década de 2030.",
+      "body": [
+        "La F1 y el gobierno de Ruanda anunciaron este martes un acuerdo para volver a África con un Gran Premio a comienzos de la década de 2030, según lo publicado por Washington Times.",
+        "El contrato sería de 10 años. La carrera se disputaría en un circuito nuevo que aún debe construirse al sureste de la capital, Kigali.",
+        "La F1 no corre en África desde el GP de Sudáfrica de 1993. Hace unos días, distintos medios ya habían adelantado el acuerdo como informe no oficial.",
+        "Lo que hay que observar: la fecha exacta de la primera carrera, el diseño del trazado y la homologación de la FIA, que todavía no se han publicado."
+      ],
+      "source": "Washington Times",
+      "url": "https://washingtontimes.com/news/2026/oct/13/formula-1-announcing-return-africa-grand-prix-rwanda-early-2030s"
+    },
+    {
+      "id": "checo-perez-17-singapur-cadillac",
+      "cat": "pilotos",
+      "date": "2026-10-14",
+      "title": "Checo Pérez fue 17.º en Singapur: \"nos falta un segundo\"",
+      "summary": "El mexicano terminó fuera de los puntos con Cadillac, a dos vueltas del ganador, y pide más ritmo al coche.",
+      "body": [
+        "Sergio Pérez cruzó la meta en la 17.ª posición del GP de Singapur con Cadillac, a dos vueltas de Max Verstappen, según Motorsport.com.",
+        "Su compañero Valtteri Bottas terminó por detrás de él.",
+        "Después de la carrera, Checo dijo que al coche le falta cerca de un segundo por vuelta para pelear y que, por ahora, lo importante es avanzar en lo operativo.",
+        "Lo que hay que observar: si Cadillac lleva mejoras a Austin y si Pérez logra acercarse al pelotón medio en la clasificación."
+      ],
+      "source": "Motorsport.com",
+      "url": "https://lat.motorsport.com/f1/news/checo-perez-declaraciones-cadillac-carrera-gp-singapur-2026/10864396/",
+      "img": "img/noticias/checo-19-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Sergio Pérez con el Cadillac"
+    },
+    {
+      "id": "colapinto-abandona-singapur-falla-alpine",
+      "cat": "pilotos",
+      "date": "2026-10-14",
+      "title": "Colapinto abandona en Singapur por otra falla del Alpine",
+      "summary": "El argentino se retiró hacia la vuelta 32 por un aparente problema de transmisión, su segunda falla del fin de semana.",
+      "body": [
+        "Franco Colapinto abandonó el GP de Singapur por un aparente problema de transmisión en su Alpine, según Motorsport.com. Las fuentes difieren en la vuelta exacta: entre la 31 y la 32.",
+        "Fue su segunda falla mecánica en el fin de semana. Su compañero Pierre Gasly terminó 11.º, sin puntos.",
+        "ESPN Deportes informó que Colapinto llega a Estados Unidos mientras Alpine sigue evaluando su situación; no hay una decisión publicada.",
+        "Lo que hay que observar: si Alpine corrige la fiabilidad antes de Austin y qué dice el equipo sobre su alineación."
+      ],
+      "source": "Motorsport.com",
+      "url": "https://lat.motorsport.com/f1/news/verstappen-gana-singapur-resultados-colapinto-checo-perez/10864315/",
+      "img": "img/noticias/colapinto-13-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Franco Colapinto con el Alpine"
+    },
+    {
+      "id": "fia-v8-2030-ben-sulayem",
+      "cat": "tecnica",
+      "date": "2026-10-14",
+      "title": "La FIA insiste en el regreso de los V8 en 2030",
+      "summary": "El presidente de la FIA quiere motores más ligeros y baratos con electrificación mínima; el cambio aún necesita respaldo de los fabricantes.",
+      "body": [
+        "Mohammed Ben Sulayem sostiene que la F1 volverá a los motores V8 en 2030, según PlanetF1.",
+        "Describe un motor más simple y ligero, con electrificación muy reducida y combustibles sostenibles.",
+        "Adelantar el cambio a 2030 requiere una mayoría de cuatro de los seis fabricantes, entre ellos General Motors (Cadillac). Si no se logra, la FIA habla de imponerlo en 2031.",
+        "No encontré una aprobación formal; trátalo como objetivo, no como decisión.",
+        "Lo que hay que observar: la votación de los fabricantes."
+      ],
+      "source": "PlanetF1",
+      "url": "https://www.planetf1.com/news/f1-v8-engines-return-2030-ben-sulayem-minimal-electric"
+    },
+    {
+      "id": "lawson-racing-bulls-2027-incognita",
+      "cat": "equipos",
+      "date": "2026-10-14",
+      "title": "Lawson y Racing Bulls: la plaza de 2027 sigue abierta",
+      "summary": "Racing Bulls es el único equipo sin confirmar pilotos para 2027; los reportes apuntan a que Lawson se queda, sin anuncio oficial.",
+      "body": [
+        "Racing Bulls no ha confirmado ninguno de sus pilotos para 2027, según PlanetF1.",
+        "Con Isack Hadjar elegido por Red Bull, a Lawson solo le queda seguir en Racing Bulls. Un medio señala que se quedaría y que Nikola Tsolov sería piloto de reserva; otros prevén que Tsolov lo reemplace.",
+        "El jefe de equipo, Alan Permane, dijo que la decisión llegaría en las próximas semanas.",
+        "Lo que hay que observar: el anuncio oficial y el futuro de Arvid Lindblad."
+      ],
+      "source": "PlanetF1",
+      "url": "https://www.planetf1.com/news/liam-lawson-racing-bulls-seat-nikola-tsolov-f1-2027",
+      "img": "img/noticias/lawson-china.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Liam Lawson con el Racing Bulls"
+    },
+    {
       "id": "vasseur-hamilton-error-vsc-singapur",
       "cat": "equipos",
       "date": "2026-10-13",

@@ -1,102 +1,80 @@
 {
-  "updated": "2026-10-14",
+  "updated": "2026-10-16",
   "hero": {
     "kicker": "Tema del día",
-    "title": "La F1 vuelve a África con Ruanda",
-    "summary": "Según lo publicado, F1 y Ruanda acordaron un Gran Premio a inicios de los 2030; en Singapur, Checo fue 17.º y Colapinto abandonó.",
-    "article": "ruanda-gp-africa-acuerdo-confirmado",
+    "title": "Red Bull blinda a Mekies hasta 2031",
+    "summary": "El director y CEO firmó cinco años más; Haas confirma la salida de Ocon y Williams retiene a Sainz y Albon.",
+    "article": "mekies-red-bull-2031",
     "topics": [
-      "checo-perez-17-singapur-cadillac",
-      "colapinto-abandona-singapur-falla-alpine",
+      "haas-ocon-camara-2027",
+      "sainz-albon-williams-2027",
       "antonelli-puede-ser-campeon-austin",
-      "fia-v8-2030-ben-sulayem"
+      "horarios-gp-estados-unidos-austin"
     ]
   },
   "articles": [
     {
-      "id": "ruanda-gp-africa-acuerdo-confirmado",
-      "cat": "carrera",
-      "date": "2026-10-14",
-      "title": "La F1 vuelve a África: Ruanda tendrá Gran Premio",
-      "summary": "Según lo publicado, la F1 y Ruanda firmaron un acuerdo de 10 años para correr en el continente a inicios de la década de 2030.",
-      "body": [
-        "La F1 y el gobierno de Ruanda anunciaron este martes un acuerdo para volver a África con un Gran Premio a comienzos de la década de 2030, según lo publicado por Washington Times.",
-        "El contrato sería de 10 años. La carrera se disputaría en un circuito nuevo que aún debe construirse al sureste de la capital, Kigali.",
-        "La F1 no corre en África desde el GP de Sudáfrica de 1993. Hace unos días, distintos medios ya habían adelantado el acuerdo como informe no oficial.",
-        "Lo que hay que observar: la fecha exacta de la primera carrera, el diseño del trazado y la homologación de la FIA, que todavía no se han publicado."
-      ],
-      "source": "Washington Times",
-      "url": "https://washingtontimes.com/news/2026/oct/13/formula-1-announcing-return-africa-grand-prix-rwanda-early-2030s"
-    },
-    {
-      "id": "checo-perez-17-singapur-cadillac",
-      "cat": "pilotos",
-      "date": "2026-10-14",
-      "title": "Checo Pérez fue 17.º en Singapur: \"nos falta un segundo\"",
-      "summary": "El mexicano terminó fuera de los puntos con Cadillac, a dos vueltas del ganador, y pide más ritmo al coche.",
-      "body": [
-        "Sergio Pérez cruzó la meta en la 17.ª posición del GP de Singapur con Cadillac, a dos vueltas de Max Verstappen, según Motorsport.com.",
-        "Su compañero Valtteri Bottas terminó por detrás de él.",
-        "Después de la carrera, Checo dijo que al coche le falta cerca de un segundo por vuelta para pelear y que, por ahora, lo importante es avanzar en lo operativo.",
-        "Lo que hay que observar: si Cadillac lleva mejoras a Austin y si Pérez logra acercarse al pelotón medio en la clasificación."
-      ],
-      "source": "Motorsport.com",
-      "url": "https://lat.motorsport.com/f1/news/checo-perez-declaraciones-cadillac-carrera-gp-singapur-2026/10864396/",
-      "img": "img/noticias/checo-19-sepang.jpg",
-      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
-      "imgAlt": "Sergio Pérez con el Cadillac"
-    },
-    {
-      "id": "colapinto-abandona-singapur-falla-alpine",
-      "cat": "pilotos",
-      "date": "2026-10-14",
-      "title": "Colapinto abandona en Singapur por otra falla del Alpine",
-      "summary": "El argentino se retiró hacia la vuelta 32 por un aparente problema de transmisión, su segunda falla del fin de semana.",
-      "body": [
-        "Franco Colapinto abandonó el GP de Singapur por un aparente problema de transmisión en su Alpine, según Motorsport.com. Las fuentes difieren en la vuelta exacta: entre la 31 y la 32.",
-        "Fue su segunda falla mecánica en el fin de semana. Su compañero Pierre Gasly terminó 11.º, sin puntos.",
-        "ESPN Deportes informó que Colapinto llega a Estados Unidos mientras Alpine sigue evaluando su situación; no hay una decisión publicada.",
-        "Lo que hay que observar: si Alpine corrige la fiabilidad antes de Austin y qué dice el equipo sobre su alineación."
-      ],
-      "source": "Motorsport.com",
-      "url": "https://lat.motorsport.com/f1/news/verstappen-gana-singapur-resultados-colapinto-checo-perez/10864315/",
-      "img": "img/noticias/colapinto-13-sepang.jpg",
-      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
-      "imgAlt": "Franco Colapinto con el Alpine"
-    },
-    {
-      "id": "fia-v8-2030-ben-sulayem",
-      "cat": "tecnica",
-      "date": "2026-10-14",
-      "title": "La FIA insiste en el regreso de los V8 en 2030",
-      "summary": "El presidente de la FIA quiere motores más ligeros y baratos con electrificación mínima; el cambio aún necesita respaldo de los fabricantes.",
-      "body": [
-        "Mohammed Ben Sulayem sostiene que la F1 volverá a los motores V8 en 2030, según PlanetF1.",
-        "Describe un motor más simple y ligero, con electrificación muy reducida y combustibles sostenibles.",
-        "Adelantar el cambio a 2030 requiere una mayoría de cuatro de los seis fabricantes, entre ellos General Motors (Cadillac). Si no se logra, la FIA habla de imponerlo en 2031.",
-        "No encontré una aprobación formal; trátalo como objetivo, no como decisión.",
-        "Lo que hay que observar: la votación de los fabricantes."
-      ],
-      "source": "PlanetF1",
-      "url": "https://www.planetf1.com/news/f1-v8-engines-return-2030-ben-sulayem-minimal-electric"
-    },
-    {
-      "id": "lawson-racing-bulls-2027-incognita",
+      "id": "mekies-red-bull-2031",
       "cat": "equipos",
-      "date": "2026-10-14",
-      "title": "Lawson y Racing Bulls: la plaza de 2027 sigue abierta",
-      "summary": "Racing Bulls es el único equipo sin confirmar pilotos para 2027; los reportes apuntan a que Lawson se queda, sin anuncio oficial.",
+      "date": "2026-10-16",
+      "title": "Red Bull amarra a Mekies hasta 2031",
+      "summary": "El jefe de equipo y CEO firmó una extensión de cinco años, anunciada el 14 de octubre.",
       "body": [
-        "Racing Bulls no ha confirmado ninguno de sus pilotos para 2027, según PlanetF1.",
-        "Con Isack Hadjar elegido por Red Bull, a Lawson solo le queda seguir en Racing Bulls. Un medio señala que se quedaría y que Nikola Tsolov sería piloto de reserva; otros prevén que Tsolov lo reemplace.",
-        "El jefe de equipo, Alan Permane, dijo que la decisión llegaría en las próximas semanas.",
-        "Lo que hay que observar: el anuncio oficial y el futuro de Arvid Lindblad."
+        "Red Bull extendió el contrato de Laurent Mekies como director del equipo y CEO hasta el final de 2031, según lo publicado por varios medios.",
+        "El anuncio llegó tras las victorias del equipo en Malasia y Singapur. Mekies tomó el mando en julio de 2025, cuando Christian Horner fue retirado del cargo.",
+        "El acuerdo se suma a la continuidad de Max Verstappen, con contrato al menos hasta 2030, y de Isack Hadjar, retenido para 2027.",
+        "Lo que hay que observar: si Red Bull sostiene el ritmo de sus últimas victorias en Austin."
+      ],
+      "source": "Formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/mekies-commits-to-long-term-contract-extension-as-red-bull-team-principal.1NfCP1Zas2IAzVa3sNa3yf"
+    },
+    {
+      "id": "haas-ocon-camara-2027",
+      "cat": "pilotos",
+      "date": "2026-10-16",
+      "title": "Haas: Ocon se va y suena Rafael Câmara",
+      "summary": "Haas confirmó la salida de Ocon tras 2026; varios medios dan por hecho a Câmara, aunque falta el anuncio oficial.",
+      "body": [
+        "Haas anunció que Esteban Ocon dejará el equipo al terminar 2026. Ollie Bearman seguirá en 2027.",
+        "Según RacingNews365 y otros medios, el sustituto sería el brasileño Rafael Câmara, joven de la academia de Ferrari. Al cierre de esta nota no había confirmación oficial de Haas.",
+        "Antes, el jefe del equipo, Ayao Komatsu, había dicho que no había decisión tomada. Haas también probó a otros candidatos.",
+        "Lo que hay que observar: el comunicado oficial del equipo y el destino de Ocon."
       ],
       "source": "PlanetF1",
-      "url": "https://www.planetf1.com/news/liam-lawson-racing-bulls-seat-nikola-tsolov-f1-2027",
-      "img": "img/noticias/lawson-china.jpg",
-      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
-      "imgAlt": "Liam Lawson con el Racing Bulls"
+      "url": "https://www.planetf1.com/news/esteban-ocon-leave-haas-2026-replacement-unconfirmed"
+    },
+    {
+      "id": "sainz-albon-williams-2027",
+      "cat": "equipos",
+      "date": "2026-10-16",
+      "title": "Williams retiene a Sainz y Albon",
+      "summary": "Sainz firmó con Williams y Albon continuará en 2027, aunque los medios difieren en los detalles de los contratos.",
+      "body": [
+        "Williams confirmó a Alex Albon para 2027 y, un día después, Carlos Sainz extendió su vínculo con el equipo.",
+        "Según un reporte, el contrato de Sainz es de varios años; otros hablaban de un año. La duración exacta no está clara.",
+        "El español había dicho que su futuro dependía de qué tan rápido se recuperara el equipo, que ha tenido una temporada difícil.",
+        "Con esto se cierran opciones hacia Aston Martin o Alpine. Lo que hay que observar: qué decide Alonso, el gran nombre aún sin definir según lo publicado."
+      ],
+      "source": "The Race",
+      "url": "https://www.the-race.com/formula-1/f1-williams-convinces-sainz-albon-to-stay-our-verdict/",
+      "img": "img/noticias/sainz-austria.jpg",
+      "imgCredit": "Lukas Raich · CC BY-SA 4.0 · Wikimedia Commons",
+      "imgAlt": "Carlos Sainz con el Williams"
+    },
+    {
+      "id": "williams-fw50-2027",
+      "cat": "tecnica",
+      "date": "2026-10-16",
+      "title": "Williams se saltaría al FW50 en 2027",
+      "summary": "Por su 50.º aniversario, el equipo omitiría el nombre FW49, según The Race.",
+      "body": [
+        "The Race informó que Williams pasaría directamente del FW48 al FW50 para su coche de 2027, sin usar el nombre FW49.",
+        "El motivo sería el 50.º aniversario del equipo, que debutó en el GP de España de 1977.",
+        "Ya hizo algo similar en 2017, cuando saltó del FW38 al FW40 por sus 40 años.",
+        "Williams no lo ha confirmado oficialmente; trátalo como un reporte. Lo que hay que observar: la presentación del coche de 2027."
+      ],
+      "source": "The Race",
+      "url": "https://www.the-race.com/formula-1/williams-2027-f1-car-name-change/"
     },
     {
       "id": "antonelli-puede-ser-campeon-austin",
