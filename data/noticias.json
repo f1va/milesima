@@ -1,32 +1,83 @@
 {
-  "updated": "2026-10-16",
+  "updated": "2026-10-17",
   "hero": {
     "kicker": "Tema del día",
-    "title": "Red Bull blinda a Mekies hasta 2031",
-    "summary": "El director y CEO firmó cinco años más; Haas confirma la salida de Ocon y Williams retiene a Sainz y Albon.",
-    "article": "mekies-red-bull-2031",
+    "title": "Antonelli: título más probable en México",
+    "summary": "Russell aplazaría su sanción de motor hasta Las Vegas, así que el italiano difícilmente será campeón en Austin.",
+    "article": "antonelli-titulo-mexico-brasil",
     "topics": [
+      "alonso-aston-martin-2027",
+      "cadillac-alpine-llegan-austin",
       "haas-ocon-camara-2027",
-      "sainz-albon-williams-2027",
-      "antonelli-puede-ser-campeon-austin",
       "horarios-gp-estados-unidos-austin"
     ]
   },
   "articles": [
     {
-      "id": "mekies-red-bull-2031",
-      "cat": "equipos",
-      "date": "2026-10-16",
-      "title": "Red Bull amarra a Mekies hasta 2031",
-      "summary": "El jefe de equipo y CEO firmó una extensión de cinco años, anunciada el 14 de octubre.",
+      "id": "antonelli-titulo-mexico-brasil",
+      "cat": "pilotos",
+      "date": "2026-10-17",
+      "title": "Antonelli: el título, más probable en México o Brasil",
+      "summary": "Russell planea aplazar su próxima sanción de motor hasta Las Vegas, lo que complica que el italiano sea campeón en Austin.",
       "body": [
-        "Red Bull extendió el contrato de Laurent Mekies como director del equipo y CEO hasta el final de 2031, según lo publicado por varios medios.",
-        "El anuncio llegó tras las victorias del equipo en Malasia y Singapur. Mekies tomó el mando en julio de 2025, cuando Christian Horner fue retirado del cargo.",
-        "El acuerdo se suma a la continuidad de Max Verstappen, con contrato al menos hasta 2030, y de Isack Hadjar, retenido para 2027.",
-        "Lo que hay que observar: si Red Bull sostiene el ritmo de sus últimas victorias en Austin."
+        "Kimi Antonelli llega a Austin con 340 puntos, 102 más que George Russell, y con seis carreras por disputarse.",
+        "Según GPBlog, para coronarse en Estados Unidos necesitaría ganar y que Russell terminara noveno o peor y Hamilton quinto o peor. Es un escenario poco probable.",
+        "Russell dijo tras Singapur que su próxima sanción por cambio de motor llegaría más tarde, quizá en Las Vegas. Así que no tiene que tomarla en Austin, donde sí habría ayudado a su compañero.",
+        "Toto Wolff, jefe de Mercedes, afirmó que el título llegará, ya sea en México, en Brasil o más adelante. Los medios consultados ven esas dos citas como las más probables.",
+        "Lo que hay que observar: si Antonelli gana en Austin y cómo responden Russell y Hamilton."
       ],
-      "source": "Formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/mekies-commits-to-long-term-contract-extension-as-red-bull-team-principal.1NfCP1Zas2IAzVa3sNa3yf"
+      "source": "GPBlog",
+      "url": "https://www.gpblog.com/en/news/russells-engine-plan-pushes-antonellis-likely-title-party-from-austin-to-mexico",
+      "img": "img/noticias/antonelli-ventaja-84.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Kimi Antonelli celebrando"
+    },
+    {
+      "id": "alonso-aston-martin-2027",
+      "cat": "pilotos",
+      "date": "2026-10-17",
+      "title": "Alonso sigue en Aston Martin en 2027",
+      "summary": "El español renovó el 29 de septiembre y el equipo mantiene su dupla con Stroll.",
+      "body": [
+        "Aston Martin anunció el 29 de septiembre que Fernando Alonso seguirá al menos una temporada más, con la misma alineación que este año: él y Lance Stroll.",
+        "Alonso dijo que se tomó su tiempo y que conserva la velocidad y la ambición para competir al más alto nivel.",
+        "La renovación llega en un año difícil: según lo publicado, el equipo sumaba apenas tres puntos en 15 carreras, todos de Alonso, y ocupaba el décimo lugar de 11 equipos.",
+        "Esto aclara una nota previa de Milésima que daba su futuro por indefinido: ya está resuelto.",
+        "Lo que hay que observar: si el motor Honda y el reglamento de 2027 le dan al equipo un paso adelante."
+      ],
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/amp/sports/2026/9/29/fernando-alonso-f1-aston-martin-contract-extension"
+    },
+    {
+      "id": "cadillac-alpine-llegan-austin",
+      "cat": "equipos",
+      "date": "2026-10-17",
+      "title": "Cadillac y Alpine llegan a Austin tras un Singapur duro",
+      "summary": "Pérez se estrelló en la clasificación sprint y Colapinto abandonó dos veces por fallas del coche.",
+      "body": [
+        "Sergio Pérez chocó en la curva 4 durante la clasificación sprint en Singapur, dañó el alerón delantero y provocó bandera roja. Según lo publicado, los comisarios no tomaron más acciones. Quedó eliminado en la SQ1 y la carrera la iba a iniciar 19.º por la sanción de Russell.",
+        "Franco Colapinto abandonó la sprint en la vuelta 4 por una falla eléctrica en su Alpine y también la carrera, en la vuelta 31. Los medios no coinciden del todo en la causa; un reporte habla de falla de energía.",
+        "Austin abre la gira por América, con México y Brasil después, donde ambos tendrán mucho público.",
+        "Lo que hay que observar: si los dos equipos llegan con el coche arreglado y sin nuevos problemas de fiabilidad."
+      ],
+      "source": "Por Esto",
+      "url": "https://www.poresto.com/deportes/2026/10/9/checo-perez-sufre-accidente-cadillac-gp-singapur-verstappen-logra-pole.html"
+    },
+    {
+      "id": "lucha-subcampeonato-austin",
+      "cat": "carrera",
+      "date": "2026-10-17",
+      "title": "Subcampeonato: cuatro pilotos en 23 puntos",
+      "summary": "Tras Singapur, Russell, Hamilton, Verstappen y Leclerc pelean por el segundo lugar detrás de Antonelli.",
+      "body": [
+        "Con el título de Antonelli casi encaminado, la pelea se traslada al segundo lugar. Según GPFans, tras Singapur Russell tiene 238 puntos, Hamilton 229, Verstappen 221 y Leclerc 215.",
+        "Entre el segundo y el quinto hay 23 puntos, una diferencia que se puede cerrar en una sola carrera.",
+        "Russell aún debe cumplir una sanción por cambio de motor que, según él, tomaría más adelante, quizá en Las Vegas. Ese castigo puede mover la clasificación en el tramo final.",
+        "Quedan seis carreras, a partir de Austin.",
+        "Lo que hay que observar: quién suma más en Austin y en México, y cuándo cae la sanción de Russell."
+      ],
+      "source": "GPFans",
+      "url": "https://www.gpfans.com/en/f1-news/1091337/f1-standings-2026-latest-points-leaders-singapore-grand-prix/"
     },
     {
       "id": "haas-ocon-camara-2027",
@@ -42,57 +93,6 @@
       ],
       "source": "PlanetF1",
       "url": "https://www.planetf1.com/news/esteban-ocon-leave-haas-2026-replacement-unconfirmed"
-    },
-    {
-      "id": "sainz-albon-williams-2027",
-      "cat": "equipos",
-      "date": "2026-10-16",
-      "title": "Williams retiene a Sainz y Albon",
-      "summary": "Sainz firmó con Williams y Albon continuará en 2027, aunque los medios difieren en los detalles de los contratos.",
-      "body": [
-        "Williams confirmó a Alex Albon para 2027 y, un día después, Carlos Sainz extendió su vínculo con el equipo.",
-        "Según un reporte, el contrato de Sainz es de varios años; otros hablaban de un año. La duración exacta no está clara.",
-        "El español había dicho que su futuro dependía de qué tan rápido se recuperara el equipo, que ha tenido una temporada difícil.",
-        "Con esto se cierran opciones hacia Aston Martin o Alpine. Lo que hay que observar: qué decide Alonso, el gran nombre aún sin definir según lo publicado."
-      ],
-      "source": "The Race",
-      "url": "https://www.the-race.com/formula-1/f1-williams-convinces-sainz-albon-to-stay-our-verdict/",
-      "img": "img/noticias/sainz-austria.jpg",
-      "imgCredit": "Lukas Raich · CC BY-SA 4.0 · Wikimedia Commons",
-      "imgAlt": "Carlos Sainz con el Williams"
-    },
-    {
-      "id": "williams-fw50-2027",
-      "cat": "tecnica",
-      "date": "2026-10-16",
-      "title": "Williams se saltaría al FW50 en 2027",
-      "summary": "Por su 50.º aniversario, el equipo omitiría el nombre FW49, según The Race.",
-      "body": [
-        "The Race informó que Williams pasaría directamente del FW48 al FW50 para su coche de 2027, sin usar el nombre FW49.",
-        "El motivo sería el 50.º aniversario del equipo, que debutó en el GP de España de 1977.",
-        "Ya hizo algo similar en 2017, cuando saltó del FW38 al FW40 por sus 40 años.",
-        "Williams no lo ha confirmado oficialmente; trátalo como un reporte. Lo que hay que observar: la presentación del coche de 2027."
-      ],
-      "source": "The Race",
-      "url": "https://www.the-race.com/formula-1/williams-2027-f1-car-name-change/"
-    },
-    {
-      "id": "antonelli-puede-ser-campeon-austin",
-      "cat": "pilotos",
-      "date": "2026-10-12",
-      "title": "Antonelli puede coronarse campeón en Austin",
-      "summary": "Con 340 puntos y 102 de ventaja sobre Russell, el italiano podría asegurar el título en Estados Unidos.",
-      "body": [
-        "Tras Singapur, Kimi Antonelli lidera con 340 puntos. Russell es segundo con 238, Hamilton tercero con 229, Verstappen cuarto con 221 y Leclerc quinto con 215.",
-        "Antonelli fue tercero en la carrera y amplió su colchón. Según varios medios, podría ser campeón matemático en el GP de Estados Unidos.",
-        "Russell, su compañero en Mercedes, fue noveno tras remontar desde el fondo por una sanción de motor.",
-        "Lo que hay que observar: cuántos puntos necesita Antonelli en Austin para cerrar el título."
-      ],
-      "source": "GPFans",
-      "url": "https://www.gpfans.com/en/f1-news/1091337/f1-standings-2026-latest-points-leaders-singapore-grand-prix/",
-      "img": "img/noticias/antonelli-ventaja-84.jpg",
-      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
-      "imgAlt": "Kimi Antonelli celebrando"
     },
     {
       "id": "horarios-gp-estados-unidos-austin",

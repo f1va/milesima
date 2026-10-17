@@ -1,6 +1,72 @@
 {
   "articles": [
     {
+      "id": "mekies-red-bull-2031",
+      "cat": "equipos",
+      "date": "2026-10-16",
+      "title": "Red Bull amarra a Mekies hasta 2031",
+      "summary": "El jefe de equipo y CEO firmó una extensión de cinco años, anunciada el 14 de octubre.",
+      "body": [
+        "Red Bull extendió el contrato de Laurent Mekies como director del equipo y CEO hasta el final de 2031, según lo publicado por varios medios.",
+        "El anuncio llegó tras las victorias del equipo en Malasia y Singapur. Mekies tomó el mando en julio de 2025, cuando Christian Horner fue retirado del cargo.",
+        "El acuerdo se suma a la continuidad de Max Verstappen, con contrato al menos hasta 2030, y de Isack Hadjar, retenido para 2027.",
+        "Lo que hay que observar: si Red Bull sostiene el ritmo de sus últimas victorias en Austin."
+      ],
+      "source": "Formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/mekies-commits-to-long-term-contract-extension-as-red-bull-team-principal.1NfCP1Zas2IAzVa3sNa3yf"
+    },
+    {
+      "id": "sainz-albon-williams-2027",
+      "cat": "equipos",
+      "date": "2026-10-16",
+      "title": "Williams retiene a Sainz y Albon",
+      "summary": "Sainz firmó con Williams y Albon continuará en 2027, aunque los medios difieren en los detalles de los contratos.",
+      "body": [
+        "Williams confirmó a Alex Albon para 2027 y, un día después, Carlos Sainz extendió su vínculo con el equipo.",
+        "Según un reporte, el contrato de Sainz es de varios años; otros hablaban de un año. La duración exacta no está clara.",
+        "El español había dicho que su futuro dependía de qué tan rápido se recuperara el equipo, que ha tenido una temporada difícil.",
+        "Con esto se cierran opciones hacia Aston Martin o Alpine. Lo que hay que observar: qué decide Alonso, el gran nombre aún sin definir según lo publicado."
+      ],
+      "source": "The Race",
+      "url": "https://www.the-race.com/formula-1/f1-williams-convinces-sainz-albon-to-stay-our-verdict/",
+      "img": "img/noticias/sainz-austria.jpg",
+      "imgCredit": "Lukas Raich · CC BY-SA 4.0 · Wikimedia Commons",
+      "imgAlt": "Carlos Sainz con el Williams"
+    },
+    {
+      "id": "williams-fw50-2027",
+      "cat": "tecnica",
+      "date": "2026-10-16",
+      "title": "Williams se saltaría al FW50 en 2027",
+      "summary": "Por su 50.º aniversario, el equipo omitiría el nombre FW49, según The Race.",
+      "body": [
+        "The Race informó que Williams pasaría directamente del FW48 al FW50 para su coche de 2027, sin usar el nombre FW49.",
+        "El motivo sería el 50.º aniversario del equipo, que debutó en el GP de España de 1977.",
+        "Ya hizo algo similar en 2017, cuando saltó del FW38 al FW40 por sus 40 años.",
+        "Williams no lo ha confirmado oficialmente; trátalo como un reporte. Lo que hay que observar: la presentación del coche de 2027."
+      ],
+      "source": "The Race",
+      "url": "https://www.the-race.com/formula-1/williams-2027-f1-car-name-change/"
+    },
+    {
+      "id": "antonelli-puede-ser-campeon-austin",
+      "cat": "pilotos",
+      "date": "2026-10-12",
+      "title": "Antonelli puede coronarse campeón en Austin",
+      "summary": "Con 340 puntos y 102 de ventaja sobre Russell, el italiano podría asegurar el título en Estados Unidos.",
+      "body": [
+        "Tras Singapur, Kimi Antonelli lidera con 340 puntos. Russell es segundo con 238, Hamilton tercero con 229, Verstappen cuarto con 221 y Leclerc quinto con 215.",
+        "Antonelli fue tercero en la carrera y amplió su colchón. Según varios medios, podría ser campeón matemático en el GP de Estados Unidos.",
+        "Russell, su compañero en Mercedes, fue noveno tras remontar desde el fondo por una sanción de motor.",
+        "Lo que hay que observar: cuántos puntos necesita Antonelli en Austin para cerrar el título."
+      ],
+      "source": "GPFans",
+      "url": "https://www.gpfans.com/en/f1-news/1091337/f1-standings-2026-latest-points-leaders-singapore-grand-prix/",
+      "img": "img/noticias/antonelli-ventaja-84.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Kimi Antonelli celebrando"
+    },
+    {
       "id": "ruanda-gp-africa-acuerdo-confirmado",
       "cat": "carrera",
       "date": "2026-10-14",
