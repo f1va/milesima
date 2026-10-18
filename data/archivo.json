@@ -1,6 +1,68 @@
 {
   "articles": [
     {
+      "id": "alonso-aston-martin-2027",
+      "cat": "pilotos",
+      "date": "2026-10-17",
+      "title": "Alonso sigue en Aston Martin en 2027",
+      "summary": "El español renovó el 29 de septiembre y el equipo mantiene su dupla con Stroll.",
+      "body": [
+        "Aston Martin anunció el 29 de septiembre que Fernando Alonso seguirá al menos una temporada más, con la misma alineación que este año: él y Lance Stroll.",
+        "Alonso dijo que se tomó su tiempo y que conserva la velocidad y la ambición para competir al más alto nivel.",
+        "La renovación llega en un año difícil: según lo publicado, el equipo sumaba apenas tres puntos en 15 carreras, todos de Alonso, y ocupaba el décimo lugar de 11 equipos.",
+        "Esto aclara una nota previa de Milésima que daba su futuro por indefinido: ya está resuelto.",
+        "Lo que hay que observar: si el motor Honda y el reglamento de 2027 le dan al equipo un paso adelante."
+      ],
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/amp/sports/2026/9/29/fernando-alonso-f1-aston-martin-contract-extension"
+    },
+    {
+      "id": "cadillac-alpine-llegan-austin",
+      "cat": "equipos",
+      "date": "2026-10-17",
+      "title": "Cadillac y Alpine llegan a Austin tras un Singapur duro",
+      "summary": "Pérez se estrelló en la clasificación sprint y Colapinto abandonó dos veces por fallas del coche.",
+      "body": [
+        "Sergio Pérez chocó en la curva 4 durante la clasificación sprint en Singapur, dañó el alerón delantero y provocó bandera roja. Según lo publicado, los comisarios no tomaron más acciones. Quedó eliminado en la SQ1 y la carrera la iba a iniciar 19.º por la sanción de Russell.",
+        "Franco Colapinto abandonó la sprint en la vuelta 4 por una falla eléctrica en su Alpine y también la carrera, en la vuelta 31. Los medios no coinciden del todo en la causa; un reporte habla de falla de energía.",
+        "Austin abre la gira por América, con México y Brasil después, donde ambos tendrán mucho público.",
+        "Lo que hay que observar: si los dos equipos llegan con el coche arreglado y sin nuevos problemas de fiabilidad."
+      ],
+      "source": "Por Esto",
+      "url": "https://www.poresto.com/deportes/2026/10/9/checo-perez-sufre-accidente-cadillac-gp-singapur-verstappen-logra-pole.html"
+    },
+    {
+      "id": "lucha-subcampeonato-austin",
+      "cat": "carrera",
+      "date": "2026-10-17",
+      "title": "Subcampeonato: cuatro pilotos en 23 puntos",
+      "summary": "Tras Singapur, Russell, Hamilton, Verstappen y Leclerc pelean por el segundo lugar detrás de Antonelli.",
+      "body": [
+        "Con el título de Antonelli casi encaminado, la pelea se traslada al segundo lugar. Según GPFans, tras Singapur Russell tiene 238 puntos, Hamilton 229, Verstappen 221 y Leclerc 215.",
+        "Entre el segundo y el quinto hay 23 puntos, una diferencia que se puede cerrar en una sola carrera.",
+        "Russell aún debe cumplir una sanción por cambio de motor que, según él, tomaría más adelante, quizá en Las Vegas. Ese castigo puede mover la clasificación en el tramo final.",
+        "Quedan seis carreras, a partir de Austin.",
+        "Lo que hay que observar: quién suma más en Austin y en México, y cuándo cae la sanción de Russell."
+      ],
+      "source": "GPFans",
+      "url": "https://www.gpfans.com/en/f1-news/1091337/f1-standings-2026-latest-points-leaders-singapore-grand-prix/"
+    },
+    {
+      "id": "haas-ocon-camara-2027",
+      "cat": "pilotos",
+      "date": "2026-10-16",
+      "title": "Haas: Ocon se va y suena Rafael Câmara",
+      "summary": "Haas confirmó la salida de Ocon tras 2026; varios medios dan por hecho a Câmara, aunque falta el anuncio oficial.",
+      "body": [
+        "Haas anunció que Esteban Ocon dejará el equipo al terminar 2026. Ollie Bearman seguirá en 2027.",
+        "Según RacingNews365 y otros medios, el sustituto sería el brasileño Rafael Câmara, joven de la academia de Ferrari. Al cierre de esta nota no había confirmación oficial de Haas.",
+        "Antes, el jefe del equipo, Ayao Komatsu, había dicho que no había decisión tomada. Haas también probó a otros candidatos.",
+        "Lo que hay que observar: el comunicado oficial del equipo y el destino de Ocon."
+      ],
+      "source": "PlanetF1",
+      "url": "https://www.planetf1.com/news/esteban-ocon-leave-haas-2026-replacement-unconfirmed"
+    },
+    {
       "id": "mekies-red-bull-2031",
       "cat": "equipos",
       "date": "2026-10-16",
