@@ -1,95 +1,105 @@
 {
-  "updated": "2026-10-18",
+  "updated": "2026-10-20",
   "hero": {
     "kicker": "Tema del día",
-    "title": "Antonelli llega a Austin con 102 puntos",
-    "summary": "Con seis carreras por disputarse, el italiano manda con 340 puntos, pero el título se perfila para México o Brasil.",
-    "article": "clasificacion-tras-singapur-austin",
+    "title": "Checo cede el primer libre a Herta",
+    "summary": "Cadillac pondrá a Colton Herta en la práctica 1 de Austin; Pérez volverá en la práctica 2 con México en el horizonte.",
+    "article": "checo-herta-fp1-austin",
     "topics": [
-      "antonelli-titulo-mexico-brasil",
+      "colapinto-austin-tras-singapur",
+      "camara-haas-2027",
       "horarios-gp-estados-unidos-austin",
-      "clima-austin-calor-lluvia",
-      "lawson-garage-sessions-austin"
+      "antonelli-titulo-mexico-brasil"
     ]
   },
   "articles": [
     {
-      "id": "clasificacion-tras-singapur-austin",
-      "cat": "carrera",
-      "date": "2026-10-18",
-      "title": "Antonelli llega a Austin con 102 puntos de ventaja",
-      "summary": "Con seis carreras por disputarse, Mercedes domina ambos campeonatos tras la victoria de Verstappen en Singapur.",
-      "body": [
-        "Tras el Gran Premio de Singapur, Kimi Antonelli lidera el campeonato con 340 puntos. George Russell es segundo con 238.",
-        "Detrás vienen Lewis Hamilton con 229, Max Verstappen con 221, Charles Leclerc con 215 y Lando Norris con 201.",
-        "En constructores, Mercedes suma 578 puntos, Ferrari 444, McLaren 339 y Red Bull 332, según las tablas publicadas tras la carrera.",
-        "Verstappen ganó en Singapur, Leclerc fue segundo y Antonelli tercero.",
-        "Lo que hay que observar: cuántos puntos recorta Russell en Austin antes de la gira por México y Brasil."
-      ],
-      "source": "Crash.net",
-      "url": "https://www.crash.net/f1/results/1107471/1/new-f1-championship-standings-after-singapore-grand-prix"
-    },
-    {
-      "id": "clima-austin-calor-lluvia",
-      "cat": "carrera",
-      "date": "2026-10-18",
-      "title": "Austin: más de 30 grados y 50 % de lluvia el domingo",
-      "summary": "El pronóstico de Sky Sports anticipa calor los tres días y riesgo de agua en carrera.",
-      "body": [
-        "Sky Sports prevé temperaturas por encima de 30 °C en los tres días de actividad en pista del Circuito de las Américas.",
-        "El mismo pronóstico da un 50 % de probabilidad de lluvia durante la carrera del domingo 25 de octubre.",
-        "La carrera es de 56 vueltas sobre 5,513 km, con una subida muy pronunciada hacia la curva 1.",
-        "Los previos señalan además que el desgaste de neumáticos será un factor clave por las curvas rápidas y las frenadas fuertes.",
-        "Lo que hay que observar: si la lluvia llega y mezcla las estrategias de los equipos."
-      ],
-      "source": "Sky Sports",
-      "url": "https://www.skysports.com/f1/news/13599576/united-states-gp-2026-dates-schedule-austin-weather-uk-start-time-and-how-to-watch-or-stream-f1-race-at-cota-live-on-sky-sports"
-    },
-    {
-      "id": "lawson-garage-sessions-austin",
+      "id": "checo-herta-fp1-austin",
       "cat": "pilotos",
-      "date": "2026-10-18",
-      "title": "Lawson debutará como músico en Austin",
-      "summary": "El piloto de Racing Bulls encabezará un evento musical el jueves, mientras su asiento de 2027 sigue sin definirse.",
+      "date": "2026-10-20",
+      "title": "Checo cede la práctica 1 en Austin a Colton Herta",
+      "summary": "Cadillac usará el primer libre del viernes para su programa de pilotos novatos; Pérez volverá al coche en la práctica 2.",
       "body": [
-        "Liam Lawson será la figura del evento Garage Sessions de Racing Bulls, el jueves del fin de semana en Austin, según PlanetF1.",
-        "Será su primera actuación en un escenario. Presentará una guitarra Taylor de edición especial.",
-        "Fuera de la pista, su futuro en la F1 sigue abierto: el mismo medio señala que su asiento de 2027 no está confirmado y que el piloto de F2 Nikola Tsolov espera su oportunidad.",
-        "Lo que hay que observar: si Racing Bulls anuncia algo sobre 2027 durante la gira americana."
+        "Cadillac confirmó que Colton Herta, piloto de reserva estadounidense, manejará el coche de Sergio Pérez en la práctica libre 1 del GP de Estados Unidos, el viernes 23 de octubre.",
+        "Según lo publicado, es una sesión prevista dentro del programa de pilotos novatos, no una sanción. Pérez regresará al coche en la práctica 2.",
+        "Tras terminar 17.º en Singapur, Pérez describió Austin y México como sus dos carreras en casa. Dijo que el equipo es sólido en lo operativo, pero que el coche está a una décima o décima y media de los rivales directos.",
+        "En Ciudad de México, el siguiente fin de semana, Pérez alcanzaría su Gran Premio número 300.",
+        "Lo que hay que observar: cuánto trabajo le queda a Pérez en una sola práctica antes de la clasificación del sábado."
       ],
-      "source": "PlanetF1",
-      "url": "https://www.planetf1.com/news/liam-lawson-united-states-grand-prix-2026-announcement"
+      "source": "TV Azteca",
+      "url": "https://www.tvazteca.com/aztecadeportes/checo-perez-sera-reemplazado-por-colton-herta-en-la-practica-libre-1-del-gp-estados",
+      "img": "img/noticias/checo-19-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Sergio Pérez con el Cadillac"
     },
     {
-      "id": "verstappen-portimao-gt-penalizacion",
+      "id": "colapinto-austin-tras-singapur",
       "cat": "pilotos",
-      "date": "2026-10-17",
-      "title": "Verstappen termina top 10 en Portimão tras una penalización",
-      "summary": "El neerlandés disputó el GT World Challenge y una sanción a su equipo le quitó opciones de victoria.",
+      "date": "2026-10-20",
+      "title": "Colapinto busca reponerse en Austin tras el golpe de Singapur",
+      "summary": "Fallas técnicas lo dejaron fuera de la sprint y la carrera en Singapur; llega con 27 puntos.",
       "body": [
-        "Max Verstappen corrió esta semana en el GT World Challenge en Portimão, Portugal.",
-        "Según PlanetF1 y RacingNews365, una penalización al equipo en plena carrera acabó con sus opciones de ganar.",
-        "Aun así, terminó dentro de los diez primeros.",
-        "Lo que hay que observar: cómo llega a Austin, donde busca sumar tras su victoria en Singapur."
+        "Franco Colapinto vuelve a la pista con Alpine en Austin, del 23 al 25 de octubre, después de un fin de semana difícil en Singapur.",
+        "Según Infobae, fallas técnicas en el A526 lo dejaron fuera tanto de la sprint como de la carrera principal.",
+        "Suma 27 puntos y ocupa el puesto 12 del campeonato de pilotos, de acuerdo con ese medio.",
+        "En Austin terminó 10.º con Williams en 2024 y 17.º con Alpine en 2025.",
+        "Lo que hay que observar: si Alpine le da un coche confiable durante las tres prácticas."
       ],
-      "source": "RacingNews365",
-      "url": "https://racingnews365.com/f1-news"
+      "source": "Infobae",
+      "url": "https://www.infobae.com/deportes/2026/10/20/franco-colapinto-saldra-a-pista-este-fin-de-semana-en-el-gran-premio-de-estados-unidos-de-la-f1-todo-lo-que-hay-que-saber/",
+      "img": "img/noticias/colapinto-13-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Franco Colapinto con el Alpine"
     },
     {
-      "id": "imola-final-temporada-decision",
-      "cat": "carrera",
-      "date": "2026-10-16",
-      "title": "Imola, en duda como final: decisión a mediados de noviembre",
-      "summary": "La F1 podría esperar hasta mediados de noviembre para definir el cierre del calendario por la seguridad en Medio Oriente.",
+      "id": "camara-haas-2027",
+      "cat": "equipos",
+      "date": "2026-10-20",
+      "title": "Haas ficha a Rafael Camara para 2027",
+      "summary": "El joven de la academia de Ferrari ocupará el asiento que deja Esteban Ocon, con contrato de varios años.",
       "body": [
-        "Según OneRacing, la F1 podría esperar hasta mediados de noviembre para decidir si Imola reemplaza a un cierre en Medio Oriente.",
-        "El calendario sigue con Qatar el 29 de noviembre y Abu Dhabi el 6 de diciembre.",
-        "En septiembre, el presidente de la FIA, Mohammed Ben Sulayem, dijo que no se pondrá en riesgo a pilotos y equipos y que no cambiarán nada salvo que sea necesario.",
-        "No hay confirmación oficial de un cambio de sede.",
-        "Lo que hay que observar: el comunicado de la F1 y la FIA en noviembre."
+        "Haas anunció el 15 de octubre a Rafael Camara con un contrato de varios años a partir de 2027.",
+        "Camara, de 21 años, pertenece a la academia de pilotos de Ferrari desde 2021. Según TSN, es el actual campeón de F3 y lidera la F2.",
+        "Ocupará la plaza de Esteban Ocon, cuya salida Haas ya había confirmado. Se espera que Oliver Bearman, también de la academia de Ferrari, sea su compañero, aunque no todos los medios lo dan por confirmado.",
+        "El jefe de equipo, Ayao Komatsu, señaló que el rendimiento fue clave; Camara destacó en una prueba en Portimão en agosto.",
+        "Lo que hay que observar: qué asientos de 2027 siguen abiertos tras este movimiento."
       ],
-      "source": "OneRacing",
-      "url": "https://www.oneracingapp.com/news/f1"
+      "source": "TSN",
+      "url": "https://www.tsn.ca/motorsports/article/ferrari-protege-camara-completes-haas-driver-lineup-for-f1-2027-n1-50131330/"
+    },
+    {
+      "id": "fornaroli-mclaren-hypercar-2027",
+      "cat": "pilotos",
+      "date": "2026-10-20",
+      "title": "Fornaroli, sin asiento en F1, apunta al Hypercar de McLaren",
+      "summary": "Tras perder el puesto de Haas, el italiano se encamina al programa de resistencia de McLaren para 2027.",
+      "body": [
+        "Según Automoto.it, Leonardo Fornaroli tendrá un reto en el Mundial de Resistencia (WEC) con McLaren, que debutará en la clase Hypercar en 2027.",
+        "El italiano era uno de los candidatos al asiento de Haas que terminó en manos de Camara.",
+        "McLaren presentó el MCL-HY, con motor V6 biturbo y sistema híbrido, y lo prueba durante 2026.",
+        "No se publicaron detalles del contrato; se trata de lo informado por un solo medio.",
+        "Lo que hay que observar: si McLaren hace oficial su alineación de WEC."
+      ],
+      "source": "Automoto.it",
+      "url": "https://www.automoto.it/formula1/mercato-f1-2027-fornaroli-mclaren-wec-camara-haas-ocon-cadillac-bottas.html"
+    },
+    {
+      "id": "alonso-aston-martin-2027",
+      "cat": "pilotos",
+      "date": "2026-10-20",
+      "title": "Alonso seguirá en Aston Martin en 2027",
+      "summary": "El español firmó su renovación a fines de septiembre; Sainz y Williams buscan acercarse al nivel de Aston Martin.",
+      "body": [
+        "Fernando Alonso firmó un nuevo contrato para correr en 2027 con Aston Martin, su quinta temporada en el equipo, según RaceFans. Volverá a compartir equipo con Lance Stroll.",
+        "La renovación llegó tras dudas sobre su futuro, después de sus críticas al nuevo reglamento técnico y al rendimiento del coche.",
+        "Carlos Sainz, que continúa en Williams, dijo tras el GP de Países Bajos que el Aston Martin actualizado es el mejor coche del pelotón medio y que Williams ya no le pelea en ritmo de carrera.",
+        "Lo que hay que observar: si Aston Martin mantiene su avance en Austin y México."
+      ],
+      "source": "RaceFans",
+      "url": "https://www.racefans.net/2026/09/29/alonso-signs-new-contract-to-race-for-aston-martin-in-2027/",
+      "img": "img/noticias/alonso-sainz-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Fernando Alonso con el Aston Martin"
     },
     {
       "id": "antonelli-titulo-mexico-brasil",

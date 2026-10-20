@@ -1,6 +1,84 @@
 {
   "articles": [
     {
+      "id": "clasificacion-tras-singapur-austin",
+      "cat": "carrera",
+      "date": "2026-10-18",
+      "title": "Antonelli llega a Austin con 102 puntos de ventaja",
+      "summary": "Con seis carreras por disputarse, Mercedes domina ambos campeonatos tras la victoria de Verstappen en Singapur.",
+      "body": [
+        "Tras el Gran Premio de Singapur, Kimi Antonelli lidera el campeonato con 340 puntos. George Russell es segundo con 238.",
+        "Detrás vienen Lewis Hamilton con 229, Max Verstappen con 221, Charles Leclerc con 215 y Lando Norris con 201.",
+        "En constructores, Mercedes suma 578 puntos, Ferrari 444, McLaren 339 y Red Bull 332, según las tablas publicadas tras la carrera.",
+        "Verstappen ganó en Singapur, Leclerc fue segundo y Antonelli tercero.",
+        "Lo que hay que observar: cuántos puntos recorta Russell en Austin antes de la gira por México y Brasil."
+      ],
+      "source": "Crash.net",
+      "url": "https://www.crash.net/f1/results/1107471/1/new-f1-championship-standings-after-singapore-grand-prix"
+    },
+    {
+      "id": "clima-austin-calor-lluvia",
+      "cat": "carrera",
+      "date": "2026-10-18",
+      "title": "Austin: más de 30 grados y 50 % de lluvia el domingo",
+      "summary": "El pronóstico de Sky Sports anticipa calor los tres días y riesgo de agua en carrera.",
+      "body": [
+        "Sky Sports prevé temperaturas por encima de 30 °C en los tres días de actividad en pista del Circuito de las Américas.",
+        "El mismo pronóstico da un 50 % de probabilidad de lluvia durante la carrera del domingo 25 de octubre.",
+        "La carrera es de 56 vueltas sobre 5,513 km, con una subida muy pronunciada hacia la curva 1.",
+        "Los previos señalan además que el desgaste de neumáticos será un factor clave por las curvas rápidas y las frenadas fuertes.",
+        "Lo que hay que observar: si la lluvia llega y mezcla las estrategias de los equipos."
+      ],
+      "source": "Sky Sports",
+      "url": "https://www.skysports.com/f1/news/13599576/united-states-gp-2026-dates-schedule-austin-weather-uk-start-time-and-how-to-watch-or-stream-f1-race-at-cota-live-on-sky-sports"
+    },
+    {
+      "id": "lawson-garage-sessions-austin",
+      "cat": "pilotos",
+      "date": "2026-10-18",
+      "title": "Lawson debutará como músico en Austin",
+      "summary": "El piloto de Racing Bulls encabezará un evento musical el jueves, mientras su asiento de 2027 sigue sin definirse.",
+      "body": [
+        "Liam Lawson será la figura del evento Garage Sessions de Racing Bulls, el jueves del fin de semana en Austin, según PlanetF1.",
+        "Será su primera actuación en un escenario. Presentará una guitarra Taylor de edición especial.",
+        "Fuera de la pista, su futuro en la F1 sigue abierto: el mismo medio señala que su asiento de 2027 no está confirmado y que el piloto de F2 Nikola Tsolov espera su oportunidad.",
+        "Lo que hay que observar: si Racing Bulls anuncia algo sobre 2027 durante la gira americana."
+      ],
+      "source": "PlanetF1",
+      "url": "https://www.planetf1.com/news/liam-lawson-united-states-grand-prix-2026-announcement"
+    },
+    {
+      "id": "verstappen-portimao-gt-penalizacion",
+      "cat": "pilotos",
+      "date": "2026-10-17",
+      "title": "Verstappen termina top 10 en Portimão tras una penalización",
+      "summary": "El neerlandés disputó el GT World Challenge y una sanción a su equipo le quitó opciones de victoria.",
+      "body": [
+        "Max Verstappen corrió esta semana en el GT World Challenge en Portimão, Portugal.",
+        "Según PlanetF1 y RacingNews365, una penalización al equipo en plena carrera acabó con sus opciones de ganar.",
+        "Aun así, terminó dentro de los diez primeros.",
+        "Lo que hay que observar: cómo llega a Austin, donde busca sumar tras su victoria en Singapur."
+      ],
+      "source": "RacingNews365",
+      "url": "https://racingnews365.com/f1-news"
+    },
+    {
+      "id": "imola-final-temporada-decision",
+      "cat": "carrera",
+      "date": "2026-10-16",
+      "title": "Imola, en duda como final: decisión a mediados de noviembre",
+      "summary": "La F1 podría esperar hasta mediados de noviembre para definir el cierre del calendario por la seguridad en Medio Oriente.",
+      "body": [
+        "Según OneRacing, la F1 podría esperar hasta mediados de noviembre para decidir si Imola reemplaza a un cierre en Medio Oriente.",
+        "El calendario sigue con Qatar el 29 de noviembre y Abu Dhabi el 6 de diciembre.",
+        "En septiembre, el presidente de la FIA, Mohammed Ben Sulayem, dijo que no se pondrá en riesgo a pilotos y equipos y que no cambiarán nada salvo que sea necesario.",
+        "No hay confirmación oficial de un cambio de sede.",
+        "Lo que hay que observar: el comunicado de la F1 y la FIA en noviembre."
+      ],
+      "source": "OneRacing",
+      "url": "https://www.oneracingapp.com/news/f1"
+    },
+    {
       "id": "alonso-aston-martin-2027",
       "cat": "pilotos",
       "date": "2026-10-17",
