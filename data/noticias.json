@@ -1,18 +1,88 @@
 {
-  "updated": "2026-10-20",
+  "updated": "2026-10-21",
   "hero": {
     "kicker": "Tema del día",
-    "title": "Checo cede el primer libre a Herta",
-    "summary": "Cadillac pondrá a Colton Herta en la práctica 1 de Austin; Pérez volverá en la práctica 2 con México en el horizonte.",
-    "article": "checo-herta-fp1-austin",
+    "title": "Antonelli puede ser campeón en Austin",
+    "summary": "Con 102 puntos de ventaja sobre Russell, el italiano necesita ganar y que sus rivales tropiecen para coronarse en Texas.",
+    "article": "antonelli-austin-escenarios-titulo",
     "topics": [
-      "colapinto-austin-tras-singapur",
-      "camara-haas-2027",
-      "horarios-gp-estados-unidos-austin",
-      "antonelli-titulo-mexico-brasil"
+      "ferrari-mejoras-suelo-cota",
+      "verstappen-cota-igualar-hamilton",
+      "checo-herta-fp1-austin",
+      "motores-2027-reparto-58-42"
     ]
   },
   "articles": [
+    {
+      "id": "antonelli-austin-escenarios-titulo",
+      "cat": "pilotos",
+      "date": "2026-10-21",
+      "title": "Antonelli puede ser campeón en Austin, pero necesita ayuda",
+      "summary": "Llega con 340 puntos y 102 de ventaja sobre Russell; el título en Texas exige victoria y resultados ajenos.",
+      "body": [
+        "Kimi Antonelli llega al GP de Estados Unidos con 340 puntos, 102 más que George Russell y 111 más que Lewis Hamilton, según los previos de GPBlog y Grande Prêmio.",
+        "Para coronarse el domingo 25 necesitaría ganar y que Russell terminara noveno o peor y Hamilton quinto o peor. Es un escenario posible, pero poco probable.",
+        "Si no ocurre en Austin, las miradas pasan a Ciudad de México y Brasil, las dos citas siguientes que los medios ven como las más probables para celebrar.",
+        "Lo que hay que observar: si Mercedes llega a la clasificación del sábado con ventaja real sobre Red Bull y Ferrari."
+      ],
+      "source": "Grande Prêmio",
+      "url": "https://grandepremio.com/en/f1/can-antonelli-win-the-f1-title-in-austin-every-result-he-needs/",
+      "img": "img/noticias/antonelli-ventaja-84.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Kimi Antonelli celebrando"
+    },
+    {
+      "id": "ferrari-mejoras-suelo-cota",
+      "cat": "tecnica",
+      "date": "2026-10-21",
+      "title": "Ferrari apuesta por el suelo para dar un salto en Austin",
+      "summary": "El SF-26 estrenaría una evolución aerodinámica centrada en el suelo; no está claro si todo llega a tiempo.",
+      "body": [
+        "Según The Race, Ferrari llevará a Texas mejoras aerodinámicas para el SF-26, enfocadas en el suelo y presentadas como una evolución de las que estrenó en Barcelona en junio.",
+        "Otro medio indica que el equipo trabaja contra reloj para tener listos los nuevos pontones y que podrían esperar a Ciudad de México.",
+        "Charles Leclerc ha dicho que siente que el coche retrocede en las últimas semanas, mientras Red Bull se acerca. Hamilton, tercero con 229 puntos, tiene el título casi fuera de alcance.",
+        "Lo que hay que observar: si en las prácticas de viernes y sábado ambos Ferrari corren con el paquete completo.",
+        "Son informaciones previas al fin de semana; Ferrari no había confirmado los detalles."
+      ],
+      "source": "GPFans",
+      "url": "https://www.gpfans.com/en/f1-news/1090522/ferrari-plan-one-last-lewis-hamilton-f1-title-assault-with-exciting-upgrades/",
+      "img": "img/noticias/leclerc-austria.jpg",
+      "imgCredit": "Lukas Raich · CC BY-SA 4.0 · Wikimedia Commons",
+      "imgAlt": "Charles Leclerc con el Ferrari"
+    },
+    {
+      "id": "verstappen-cota-igualar-hamilton",
+      "cat": "pilotos",
+      "date": "2026-10-21",
+      "title": "Verstappen llega a Austin en racha y a una victoria del récord",
+      "summary": "Con triunfos en Malasia y Singapur, puede igualar las cinco victorias de Hamilton en el circuito.",
+      "body": [
+        "Max Verstappen ocupa el cuarto lugar del campeonato, a 119 puntos de Antonelli, pero llega con victorias consecutivas en Malasia y Singapur.",
+        "En el COTA suma cuatro triunfos; Lewis Hamilton tiene cinco (2012, 2014, 2015, 2016 y 2017). Ganar el domingo lo igualaría.",
+        "Según los previos consultados, Red Bull tuvo el coche más rápido en las últimas tres carreras y ya completó su programa de mejoras de 2026.",
+        "Lo que hay que observar: el equilibrio entre agarre en curvas y velocidad en recta en el trazado texano."
+      ],
+      "source": "Formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/verstappen-confident-of-turning-competitive-red-bull-cota-form-into-first-us.5tp8tIMvxPT6DAbgk5vcqR",
+      "img": "img/noticias/verstappen-gana-sepang.jpg",
+      "imgCredit": "Jen Ross · CC BY 2.0 · Wikimedia Commons",
+      "imgAlt": "Max Verstappen con el Red Bull"
+    },
+    {
+      "id": "motores-2027-reparto-58-42",
+      "cat": "tecnica",
+      "date": "2026-10-21",
+      "title": "Motores 2027: la F1 reduce el peso de la parte eléctrica",
+      "summary": "El reparto pasaría a 58/42 en 2027 y a 60/40 en 2028, según lo publicado.",
+      "body": [
+        "En mayo, F1 y equipos acordaron en principio dejar atrás el reparto 50/50 entre potencia eléctrica y térmica.",
+        "Según reportes posteriores a un ajuste de junio, el reparto sería 58/42 en 2027 y 60/40 en 2028. La potencia térmica subiría 20 kW en 2027 y 50 kW en 2028.",
+        "Audi había expresado preocupación por el costo de cambios grandes mientras los equipos ya diseñan el coche de 2027.",
+        "Lo que hay que observar: la ratificación formal; en los resultados consultados no pude confirmar que ya se haya completado."
+      ],
+      "source": "The Race",
+      "url": "https://the-race.com/formula-1/f1-agrees-plan-to-drop-50-50-power-split-2027-engine/"
+    },
     {
       "id": "checo-herta-fp1-austin",
       "cat": "pilotos",
@@ -31,94 +101,6 @@
       "img": "img/noticias/checo-19-sepang.jpg",
       "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
       "imgAlt": "Sergio Pérez con el Cadillac"
-    },
-    {
-      "id": "colapinto-austin-tras-singapur",
-      "cat": "pilotos",
-      "date": "2026-10-20",
-      "title": "Colapinto busca reponerse en Austin tras el golpe de Singapur",
-      "summary": "Fallas técnicas lo dejaron fuera de la sprint y la carrera en Singapur; llega con 27 puntos.",
-      "body": [
-        "Franco Colapinto vuelve a la pista con Alpine en Austin, del 23 al 25 de octubre, después de un fin de semana difícil en Singapur.",
-        "Según Infobae, fallas técnicas en el A526 lo dejaron fuera tanto de la sprint como de la carrera principal.",
-        "Suma 27 puntos y ocupa el puesto 12 del campeonato de pilotos, de acuerdo con ese medio.",
-        "En Austin terminó 10.º con Williams en 2024 y 17.º con Alpine en 2025.",
-        "Lo que hay que observar: si Alpine le da un coche confiable durante las tres prácticas."
-      ],
-      "source": "Infobae",
-      "url": "https://www.infobae.com/deportes/2026/10/20/franco-colapinto-saldra-a-pista-este-fin-de-semana-en-el-gran-premio-de-estados-unidos-de-la-f1-todo-lo-que-hay-que-saber/",
-      "img": "img/noticias/colapinto-13-sepang.jpg",
-      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
-      "imgAlt": "Franco Colapinto con el Alpine"
-    },
-    {
-      "id": "camara-haas-2027",
-      "cat": "equipos",
-      "date": "2026-10-20",
-      "title": "Haas ficha a Rafael Camara para 2027",
-      "summary": "El joven de la academia de Ferrari ocupará el asiento que deja Esteban Ocon, con contrato de varios años.",
-      "body": [
-        "Haas anunció el 15 de octubre a Rafael Camara con un contrato de varios años a partir de 2027.",
-        "Camara, de 21 años, pertenece a la academia de pilotos de Ferrari desde 2021. Según TSN, es el actual campeón de F3 y lidera la F2.",
-        "Ocupará la plaza de Esteban Ocon, cuya salida Haas ya había confirmado. Se espera que Oliver Bearman, también de la academia de Ferrari, sea su compañero, aunque no todos los medios lo dan por confirmado.",
-        "El jefe de equipo, Ayao Komatsu, señaló que el rendimiento fue clave; Camara destacó en una prueba en Portimão en agosto.",
-        "Lo que hay que observar: qué asientos de 2027 siguen abiertos tras este movimiento."
-      ],
-      "source": "TSN",
-      "url": "https://www.tsn.ca/motorsports/article/ferrari-protege-camara-completes-haas-driver-lineup-for-f1-2027-n1-50131330/"
-    },
-    {
-      "id": "fornaroli-mclaren-hypercar-2027",
-      "cat": "pilotos",
-      "date": "2026-10-20",
-      "title": "Fornaroli, sin asiento en F1, apunta al Hypercar de McLaren",
-      "summary": "Tras perder el puesto de Haas, el italiano se encamina al programa de resistencia de McLaren para 2027.",
-      "body": [
-        "Según Automoto.it, Leonardo Fornaroli tendrá un reto en el Mundial de Resistencia (WEC) con McLaren, que debutará en la clase Hypercar en 2027.",
-        "El italiano era uno de los candidatos al asiento de Haas que terminó en manos de Camara.",
-        "McLaren presentó el MCL-HY, con motor V6 biturbo y sistema híbrido, y lo prueba durante 2026.",
-        "No se publicaron detalles del contrato; se trata de lo informado por un solo medio.",
-        "Lo que hay que observar: si McLaren hace oficial su alineación de WEC."
-      ],
-      "source": "Automoto.it",
-      "url": "https://www.automoto.it/formula1/mercato-f1-2027-fornaroli-mclaren-wec-camara-haas-ocon-cadillac-bottas.html"
-    },
-    {
-      "id": "alonso-aston-martin-2027",
-      "cat": "pilotos",
-      "date": "2026-10-20",
-      "title": "Alonso seguirá en Aston Martin en 2027",
-      "summary": "El español firmó su renovación a fines de septiembre; Sainz y Williams buscan acercarse al nivel de Aston Martin.",
-      "body": [
-        "Fernando Alonso firmó un nuevo contrato para correr en 2027 con Aston Martin, su quinta temporada en el equipo, según RaceFans. Volverá a compartir equipo con Lance Stroll.",
-        "La renovación llegó tras dudas sobre su futuro, después de sus críticas al nuevo reglamento técnico y al rendimiento del coche.",
-        "Carlos Sainz, que continúa en Williams, dijo tras el GP de Países Bajos que el Aston Martin actualizado es el mejor coche del pelotón medio y que Williams ya no le pelea en ritmo de carrera.",
-        "Lo que hay que observar: si Aston Martin mantiene su avance en Austin y México."
-      ],
-      "source": "RaceFans",
-      "url": "https://www.racefans.net/2026/09/29/alonso-signs-new-contract-to-race-for-aston-martin-in-2027/",
-      "img": "img/noticias/alonso-sainz-sepang.jpg",
-      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
-      "imgAlt": "Fernando Alonso con el Aston Martin"
-    },
-    {
-      "id": "antonelli-titulo-mexico-brasil",
-      "cat": "pilotos",
-      "date": "2026-10-17",
-      "title": "Antonelli: el título, más probable en México o Brasil",
-      "summary": "Russell planea aplazar su próxima sanción de motor hasta Las Vegas, lo que complica que el italiano sea campeón en Austin.",
-      "body": [
-        "Kimi Antonelli llega a Austin con 340 puntos, 102 más que George Russell, y con seis carreras por disputarse.",
-        "Según GPBlog, para coronarse en Estados Unidos necesitaría ganar y que Russell terminara noveno o peor y Hamilton quinto o peor. Es un escenario poco probable.",
-        "Russell dijo tras Singapur que su próxima sanción por cambio de motor llegaría más tarde, quizá en Las Vegas. Así que no tiene que tomarla en Austin, donde sí habría ayudado a su compañero.",
-        "Toto Wolff, jefe de Mercedes, afirmó que el título llegará, ya sea en México, en Brasil o más adelante. Los medios consultados ven esas dos citas como las más probables.",
-        "Lo que hay que observar: si Antonelli gana en Austin y cómo responden Russell y Hamilton."
-      ],
-      "source": "GPBlog",
-      "url": "https://www.gpblog.com/en/news/russells-engine-plan-pushes-antonellis-likely-title-party-from-austin-to-mexico",
-      "img": "img/noticias/antonelli-ventaja-84.jpg",
-      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
-      "imgAlt": "Kimi Antonelli celebrando"
     },
     {
       "id": "horarios-gp-estados-unidos-austin",

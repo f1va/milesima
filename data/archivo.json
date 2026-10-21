@@ -1,6 +1,76 @@
 {
   "articles": [
     {
+      "id": "colapinto-austin-tras-singapur",
+      "cat": "pilotos",
+      "date": "2026-10-20",
+      "title": "Colapinto busca reponerse en Austin tras el golpe de Singapur",
+      "summary": "Fallas técnicas lo dejaron fuera de la sprint y la carrera en Singapur; llega con 27 puntos.",
+      "body": [
+        "Franco Colapinto vuelve a la pista con Alpine en Austin, del 23 al 25 de octubre, después de un fin de semana difícil en Singapur.",
+        "Según Infobae, fallas técnicas en el A526 lo dejaron fuera tanto de la sprint como de la carrera principal.",
+        "Suma 27 puntos y ocupa el puesto 12 del campeonato de pilotos, de acuerdo con ese medio.",
+        "En Austin terminó 10.º con Williams en 2024 y 17.º con Alpine en 2025.",
+        "Lo que hay que observar: si Alpine le da un coche confiable durante las tres prácticas."
+      ],
+      "source": "Infobae",
+      "url": "https://www.infobae.com/deportes/2026/10/20/franco-colapinto-saldra-a-pista-este-fin-de-semana-en-el-gran-premio-de-estados-unidos-de-la-f1-todo-lo-que-hay-que-saber/",
+      "img": "img/noticias/colapinto-13-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Franco Colapinto con el Alpine"
+    },
+    {
+      "id": "camara-haas-2027",
+      "cat": "equipos",
+      "date": "2026-10-20",
+      "title": "Haas ficha a Rafael Camara para 2027",
+      "summary": "El joven de la academia de Ferrari ocupará el asiento que deja Esteban Ocon, con contrato de varios años.",
+      "body": [
+        "Haas anunció el 15 de octubre a Rafael Camara con un contrato de varios años a partir de 2027.",
+        "Camara, de 21 años, pertenece a la academia de pilotos de Ferrari desde 2021. Según TSN, es el actual campeón de F3 y lidera la F2.",
+        "Ocupará la plaza de Esteban Ocon, cuya salida Haas ya había confirmado. Se espera que Oliver Bearman, también de la academia de Ferrari, sea su compañero, aunque no todos los medios lo dan por confirmado.",
+        "El jefe de equipo, Ayao Komatsu, señaló que el rendimiento fue clave; Camara destacó en una prueba en Portimão en agosto.",
+        "Lo que hay que observar: qué asientos de 2027 siguen abiertos tras este movimiento."
+      ],
+      "source": "TSN",
+      "url": "https://www.tsn.ca/motorsports/article/ferrari-protege-camara-completes-haas-driver-lineup-for-f1-2027-n1-50131330/"
+    },
+    {
+      "id": "fornaroli-mclaren-hypercar-2027",
+      "cat": "pilotos",
+      "date": "2026-10-20",
+      "title": "Fornaroli, sin asiento en F1, apunta al Hypercar de McLaren",
+      "summary": "Tras perder el puesto de Haas, el italiano se encamina al programa de resistencia de McLaren para 2027.",
+      "body": [
+        "Según Automoto.it, Leonardo Fornaroli tendrá un reto en el Mundial de Resistencia (WEC) con McLaren, que debutará en la clase Hypercar en 2027.",
+        "El italiano era uno de los candidatos al asiento de Haas que terminó en manos de Camara.",
+        "McLaren presentó el MCL-HY, con motor V6 biturbo y sistema híbrido, y lo prueba durante 2026.",
+        "No se publicaron detalles del contrato; se trata de lo informado por un solo medio.",
+        "Lo que hay que observar: si McLaren hace oficial su alineación de WEC."
+      ],
+      "source": "Automoto.it",
+      "url": "https://www.automoto.it/formula1/mercato-f1-2027-fornaroli-mclaren-wec-camara-haas-ocon-cadillac-bottas.html"
+    },
+    {
+      "id": "antonelli-titulo-mexico-brasil",
+      "cat": "pilotos",
+      "date": "2026-10-17",
+      "title": "Antonelli: el título, más probable en México o Brasil",
+      "summary": "Russell planea aplazar su próxima sanción de motor hasta Las Vegas, lo que complica que el italiano sea campeón en Austin.",
+      "body": [
+        "Kimi Antonelli llega a Austin con 340 puntos, 102 más que George Russell, y con seis carreras por disputarse.",
+        "Según GPBlog, para coronarse en Estados Unidos necesitaría ganar y que Russell terminara noveno o peor y Hamilton quinto o peor. Es un escenario poco probable.",
+        "Russell dijo tras Singapur que su próxima sanción por cambio de motor llegaría más tarde, quizá en Las Vegas. Así que no tiene que tomarla en Austin, donde sí habría ayudado a su compañero.",
+        "Toto Wolff, jefe de Mercedes, afirmó que el título llegará, ya sea en México, en Brasil o más adelante. Los medios consultados ven esas dos citas como las más probables.",
+        "Lo que hay que observar: si Antonelli gana en Austin y cómo responden Russell y Hamilton."
+      ],
+      "source": "GPBlog",
+      "url": "https://www.gpblog.com/en/news/russells-engine-plan-pushes-antonellis-likely-title-party-from-austin-to-mexico",
+      "img": "img/noticias/antonelli-ventaja-84.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Kimi Antonelli celebrando"
+    },
+    {
       "id": "clasificacion-tras-singapur-austin",
       "cat": "carrera",
       "date": "2026-10-18",
