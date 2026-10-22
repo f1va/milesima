@@ -1,6 +1,76 @@
 {
   "articles": [
     {
+      "id": "antonelli-austin-escenarios-titulo",
+      "cat": "pilotos",
+      "date": "2026-10-21",
+      "title": "Antonelli puede ser campeón en Austin, pero necesita ayuda",
+      "summary": "Llega con 340 puntos y 102 de ventaja sobre Russell; el título en Texas exige victoria y resultados ajenos.",
+      "body": [
+        "Kimi Antonelli llega al GP de Estados Unidos con 340 puntos, 102 más que George Russell y 111 más que Lewis Hamilton, según los previos de GPBlog y Grande Prêmio.",
+        "Para coronarse el domingo 25 necesitaría ganar y que Russell terminara noveno o peor y Hamilton quinto o peor. Es un escenario posible, pero poco probable.",
+        "Si no ocurre en Austin, las miradas pasan a Ciudad de México y Brasil, las dos citas siguientes que los medios ven como las más probables para celebrar.",
+        "Lo que hay que observar: si Mercedes llega a la clasificación del sábado con ventaja real sobre Red Bull y Ferrari."
+      ],
+      "source": "Grande Prêmio",
+      "url": "https://grandepremio.com/en/f1/can-antonelli-win-the-f1-title-in-austin-every-result-he-needs/",
+      "img": "img/noticias/antonelli-ventaja-84.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Kimi Antonelli celebrando"
+    },
+    {
+      "id": "ferrari-mejoras-suelo-cota",
+      "cat": "tecnica",
+      "date": "2026-10-21",
+      "title": "Ferrari apuesta por el suelo para dar un salto en Austin",
+      "summary": "El SF-26 estrenaría una evolución aerodinámica centrada en el suelo; no está claro si todo llega a tiempo.",
+      "body": [
+        "Según The Race, Ferrari llevará a Texas mejoras aerodinámicas para el SF-26, enfocadas en el suelo y presentadas como una evolución de las que estrenó en Barcelona en junio.",
+        "Otro medio indica que el equipo trabaja contra reloj para tener listos los nuevos pontones y que podrían esperar a Ciudad de México.",
+        "Charles Leclerc ha dicho que siente que el coche retrocede en las últimas semanas, mientras Red Bull se acerca. Hamilton, tercero con 229 puntos, tiene el título casi fuera de alcance.",
+        "Lo que hay que observar: si en las prácticas de viernes y sábado ambos Ferrari corren con el paquete completo.",
+        "Son informaciones previas al fin de semana; Ferrari no había confirmado los detalles."
+      ],
+      "source": "GPFans",
+      "url": "https://www.gpfans.com/en/f1-news/1090522/ferrari-plan-one-last-lewis-hamilton-f1-title-assault-with-exciting-upgrades/",
+      "img": "img/noticias/leclerc-austria.jpg",
+      "imgCredit": "Lukas Raich · CC BY-SA 4.0 · Wikimedia Commons",
+      "imgAlt": "Charles Leclerc con el Ferrari"
+    },
+    {
+      "id": "verstappen-cota-igualar-hamilton",
+      "cat": "pilotos",
+      "date": "2026-10-21",
+      "title": "Verstappen llega a Austin en racha y a una victoria del récord",
+      "summary": "Con triunfos en Malasia y Singapur, puede igualar las cinco victorias de Hamilton en el circuito.",
+      "body": [
+        "Max Verstappen ocupa el cuarto lugar del campeonato, a 119 puntos de Antonelli, pero llega con victorias consecutivas en Malasia y Singapur.",
+        "En el COTA suma cuatro triunfos; Lewis Hamilton tiene cinco (2012, 2014, 2015, 2016 y 2017). Ganar el domingo lo igualaría.",
+        "Según los previos consultados, Red Bull tuvo el coche más rápido en las últimas tres carreras y ya completó su programa de mejoras de 2026.",
+        "Lo que hay que observar: el equilibrio entre agarre en curvas y velocidad en recta en el trazado texano."
+      ],
+      "source": "Formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/verstappen-confident-of-turning-competitive-red-bull-cota-form-into-first-us.5tp8tIMvxPT6DAbgk5vcqR",
+      "img": "img/noticias/verstappen-gana-sepang.jpg",
+      "imgCredit": "Jen Ross · CC BY 2.0 · Wikimedia Commons",
+      "imgAlt": "Max Verstappen con el Red Bull"
+    },
+    {
+      "id": "motores-2027-reparto-58-42",
+      "cat": "tecnica",
+      "date": "2026-10-21",
+      "title": "Motores 2027: la F1 reduce el peso de la parte eléctrica",
+      "summary": "El reparto pasaría a 58/42 en 2027 y a 60/40 en 2028, según lo publicado.",
+      "body": [
+        "En mayo, F1 y equipos acordaron en principio dejar atrás el reparto 50/50 entre potencia eléctrica y térmica.",
+        "Según reportes posteriores a un ajuste de junio, el reparto sería 58/42 en 2027 y 60/40 en 2028. La potencia térmica subiría 20 kW en 2027 y 50 kW en 2028.",
+        "Audi había expresado preocupación por el costo de cambios grandes mientras los equipos ya diseñan el coche de 2027.",
+        "Lo que hay que observar: la ratificación formal; en los resultados consultados no pude confirmar que ya se haya completado."
+      ],
+      "source": "The Race",
+      "url": "https://the-race.com/formula-1/f1-agrees-plan-to-drop-50-50-power-split-2027-engine/"
+    },
+    {
       "id": "colapinto-austin-tras-singapur",
       "cat": "pilotos",
       "date": "2026-10-20",

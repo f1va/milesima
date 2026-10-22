@@ -1,87 +1,93 @@
 {
-  "updated": "2026-10-21",
+  "updated": "2026-10-22",
   "hero": {
     "kicker": "Tema del día",
-    "title": "Antonelli puede ser campeón en Austin",
-    "summary": "Con 102 puntos de ventaja sobre Russell, el italiano necesita ganar y que sus rivales tropiecen para coronarse en Texas.",
-    "article": "antonelli-austin-escenarios-titulo",
+    "title": "Austin: seis aspirantes y Ferrari se la juega",
+    "summary": "Antonelli lidera por 102 puntos, pero cinco rivales siguen con opciones y Ferrari estrena su última gran mejora del año.",
+    "article": "titulo-seis-aspirantes-austin",
     "topics": [
-      "ferrari-mejoras-suelo-cota",
-      "verstappen-cota-igualar-hamilton",
-      "checo-herta-fp1-austin",
-      "motores-2027-reparto-58-42"
+      "ferrari-ultimo-paquete-austin",
+      "favoritos-austin-hamilton-verstappen",
+      "colapinto-austin-buscar-puntos",
+      "checo-herta-fp1-austin"
     ]
   },
   "articles": [
     {
-      "id": "antonelli-austin-escenarios-titulo",
+      "id": "titulo-seis-aspirantes-austin",
       "cat": "pilotos",
-      "date": "2026-10-21",
-      "title": "Antonelli puede ser campeón en Austin, pero necesita ayuda",
-      "summary": "Llega con 340 puntos y 102 de ventaja sobre Russell; el título en Texas exige victoria y resultados ajenos.",
+      "date": "2026-10-22",
+      "title": "Seis pilotos llegan a Austin con opciones matemáticas al título",
+      "summary": "Antonelli lidera con 102 puntos sobre Russell, pero Hamilton, Verstappen, Leclerc y Norris siguen vivos.",
       "body": [
-        "Kimi Antonelli llega al GP de Estados Unidos con 340 puntos, 102 más que George Russell y 111 más que Lewis Hamilton, según los previos de GPBlog y Grande Prêmio.",
-        "Para coronarse el domingo 25 necesitaría ganar y que Russell terminara noveno o peor y Hamilton quinto o peor. Es un escenario posible, pero poco probable.",
-        "Si no ocurre en Austin, las miradas pasan a Ciudad de México y Brasil, las dos citas siguientes que los medios ven como las más probables para celebrar.",
-        "Lo que hay que observar: si Mercedes llega a la clasificación del sábado con ventaja real sobre Red Bull y Ferrari."
+        "Kimi Antonelli llega al GP de Estados Unidos con 340 puntos. Según NBC Sports, Russell está a 102, Hamilton a 111, Verstappen a 119, Leclerc a 125 y Norris a 139.",
+        "Esos seis son los únicos con opciones matemáticas, con seis carreras por disputarse. Austin no tiene sprint este año.",
+        "Para coronarse el domingo, Antonelli necesita ganar y que Russell termine noveno o peor y Hamilton quinto o peor, según lo publicado. Una victoria suya dejaría fuera de la pelea a Verstappen, Leclerc y Norris.",
+        "De lograrlo, sería el campeón más joven de la historia y superaría el récord que Vettel fijó en 2010.",
+        "Lo que hay que observar: si Russell y Hamilton puntúan fuerte en la carrera, porque eso aplaza la celebración a Ciudad de México."
       ],
-      "source": "Grande Prêmio",
-      "url": "https://grandepremio.com/en/f1/can-antonelli-win-the-f1-title-in-austin-every-result-he-needs/",
+      "source": "NBC Sports Bay Area",
+      "url": "https://www.nbcsportsbayarea.com/news/sports/f1-us-grand-prix-cota-austin-watch-schedule-start-time/1972889/",
       "img": "img/noticias/antonelli-ventaja-84.jpg",
       "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
       "imgAlt": "Kimi Antonelli celebrando"
     },
     {
-      "id": "ferrari-mejoras-suelo-cota",
+      "id": "ferrari-ultimo-paquete-austin",
       "cat": "tecnica",
-      "date": "2026-10-21",
-      "title": "Ferrari apuesta por el suelo para dar un salto en Austin",
-      "summary": "El SF-26 estrenaría una evolución aerodinámica centrada en el suelo; no está claro si todo llega a tiempo.",
+      "date": "2026-10-22",
+      "title": "Ferrari lleva a Austin su cuarta y última gran mejora del año",
+      "summary": "Un suelo rediseñado y pontones revisados buscan acercar a Hamilton y Leclerc a Red Bull; podrían esperar a México.",
       "body": [
-        "Según The Race, Ferrari llevará a Texas mejoras aerodinámicas para el SF-26, enfocadas en el suelo y presentadas como una evolución de las que estrenó en Barcelona en junio.",
-        "Otro medio indica que el equipo trabaja contra reloj para tener listos los nuevos pontones y que podrían esperar a Ciudad de México.",
-        "Charles Leclerc ha dicho que siente que el coche retrocede en las últimas semanas, mientras Red Bull se acerca. Hamilton, tercero con 229 puntos, tiene el título casi fuera de alcance.",
-        "Lo que hay que observar: si en las prácticas de viernes y sábado ambos Ferrari corren con el paquete completo.",
-        "Son informaciones previas al fin de semana; Ferrari no había confirmado los detalles."
+        "Según Grande Prêmio, Ferrari estrena en Austin su cuarto y último paquete aerodinámico importante de 2026, centrado en un suelo rediseñado con pontones y carrocería revisados.",
+        "Después de esta evolución, el equipo pondría el foco en el coche de 2027.",
+        "F1 Oversteer señala que la Scuderia corre para tener listos los pontones y que, si no llegan, podrían debutar en Ciudad de México.",
+        "Lo anterior son reportes previos; Ferrari no había detallado qué piezas usará cada piloto.",
+        "Lo que hay que observar: si Hamilton y Leclerc salen a pista con el mismo paquete en las prácticas del viernes y sábado."
       ],
-      "source": "GPFans",
-      "url": "https://www.gpfans.com/en/f1-news/1090522/ferrari-plan-one-last-lewis-hamilton-f1-title-assault-with-exciting-upgrades/",
+      "source": "Grande Prêmio",
+      "url": "https://grandepremio.com/en/f1/ferrari-bets-on-final-f1-upgrade-at-austin-as-hamilton-and-leclerc-chase-red-bull/",
       "img": "img/noticias/leclerc-austria.jpg",
       "imgCredit": "Lukas Raich · CC BY-SA 4.0 · Wikimedia Commons",
       "imgAlt": "Charles Leclerc con el Ferrari"
     },
     {
-      "id": "verstappen-cota-igualar-hamilton",
-      "cat": "pilotos",
-      "date": "2026-10-21",
-      "title": "Verstappen llega a Austin en racha y a una victoria del récord",
-      "summary": "Con triunfos en Malasia y Singapur, puede igualar las cinco victorias de Hamilton en el circuito.",
+      "id": "favoritos-austin-hamilton-verstappen",
+      "cat": "carrera",
+      "date": "2026-10-22",
+      "title": "¿Quién es favorito en el COTA? Hamilton y Verstappen suenan fuerte",
+      "summary": "Las previas dividen opiniones: Verstappen busca su quinta victoria en Austin y Hamilton, con Ferrari, aparece como candidato.",
       "body": [
-        "Max Verstappen ocupa el cuarto lugar del campeonato, a 119 puntos de Antonelli, pero llega con victorias consecutivas en Malasia y Singapur.",
-        "En el COTA suma cuatro triunfos; Lewis Hamilton tiene cinco (2012, 2014, 2015, 2016 y 2017). Ganar el domingo lo igualaría.",
-        "Según los previos consultados, Red Bull tuvo el coche más rápido en las últimas tres carreras y ya completó su programa de mejoras de 2026.",
-        "Lo que hay que observar: el equilibrio entre agarre en curvas y velocidad en recta en el trazado texano."
+        "GPFans sostiene que Hamilton y Ferrari podrían ser favoritos en Austin. NBC Sports también elige a Hamilton para ganar, con Verstappen segundo y Antonelli tercero.",
+        "ESPN, en cambio, ve a Verstappen como favorito por sus cuatro victorias en el circuito. Llega con triunfos en Malasia y Singapur.",
+        "Hay discrepancias sobre el historial de Hamilton en el COTA: las fuentes citan cinco o seis victorias, así que conviene esperar la cifra oficial.",
+        "Planet F1 lo ve en el podio y GPFans coloca a Norris como cuarto favorito, detrás de los dos Mercedes.",
+        "Lo que hay que observar: el ritmo de carrera del viernes, más que un tiempo aislado en clasificación."
       ],
-      "source": "Formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/verstappen-confident-of-turning-competitive-red-bull-cota-form-into-first-us.5tp8tIMvxPT6DAbgk5vcqR",
-      "img": "img/noticias/verstappen-gana-sepang.jpg",
-      "imgCredit": "Jen Ross · CC BY 2.0 · Wikimedia Commons",
-      "imgAlt": "Max Verstappen con el Red Bull"
+      "source": "GPFans",
+      "url": "https://www.gpfans.com/en/f1-news/1091812/f1-lewis-hamilton-ferrari-favourites-united-states-grand-prix-cota-2026/",
+      "img": "img/noticias/hamilton-quali-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY-SA 4.0 · Wikimedia Commons",
+      "imgAlt": "Lewis Hamilton con el Ferrari"
     },
     {
-      "id": "motores-2027-reparto-58-42",
-      "cat": "tecnica",
-      "date": "2026-10-21",
-      "title": "Motores 2027: la F1 reduce el peso de la parte eléctrica",
-      "summary": "El reparto pasaría a 58/42 en 2027 y a 60/40 en 2028, según lo publicado.",
+      "id": "colapinto-austin-buscar-puntos",
+      "cat": "pilotos",
+      "date": "2026-10-22",
+      "title": "Colapinto llega a Austin tras tres carreras sin puntos",
+      "summary": "El argentino busca un fin de semana sólido con Alpine después de abandonos en Bakú y Singapur.",
       "body": [
-        "En mayo, F1 y equipos acordaron en principio dejar atrás el reparto 50/50 entre potencia eléctrica y térmica.",
-        "Según reportes posteriores a un ajuste de junio, el reparto sería 58/42 en 2027 y 60/40 en 2028. La potencia térmica subiría 20 kW en 2027 y 50 kW en 2028.",
-        "Audi había expresado preocupación por el costo de cambios grandes mientras los equipos ya diseñan el coche de 2027.",
-        "Lo que hay que observar: la ratificación formal; en los resultados consultados no pude confirmar que ya se haya completado."
+        "Según El Intransigente, Franco Colapinto ya está en Estados Unidos y llega sin sumar en las tres últimas carreras.",
+        "Abandonó en Azerbaiyán y Singapur, y en Bahréin terminó 13.º, de acuerdo con lo publicado.",
+        "Alpine confirmó en agosto su continuidad para 2027 junto a Pierre Gasly, así que llega sin la presión del contrato.",
+        "La carrera es el domingo 25 a las 17:00 en Argentina.",
+        "Lo que hay que observar: si Alpine consigue un coche cómodo sobre los baches del COTA, un punto débil del equipo el año pasado."
       ],
-      "source": "The Race",
-      "url": "https://the-race.com/formula-1/f1-agrees-plan-to-drop-50-50-power-split-2027-engine/"
+      "source": "El Intransigente",
+      "url": "https://elintransigente.com/2026/10/22/franco-colapinto-austin-gp-estados-unidos-cronograma-transmision/",
+      "img": "img/noticias/colapinto-13-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Franco Colapinto con el Alpine"
     },
     {
       "id": "checo-herta-fp1-austin",
