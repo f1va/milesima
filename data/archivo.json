@@ -1,6 +1,82 @@
 {
   "articles": [
     {
+      "id": "ferrari-ultimo-paquete-austin",
+      "cat": "tecnica",
+      "date": "2026-10-22",
+      "title": "Ferrari lleva a Austin su cuarta y última gran mejora del año",
+      "summary": "Un suelo rediseñado y pontones revisados buscan acercar a Hamilton y Leclerc a Red Bull; podrían esperar a México.",
+      "body": [
+        "Según Grande Prêmio, Ferrari estrena en Austin su cuarto y último paquete aerodinámico importante de 2026, centrado en un suelo rediseñado con pontones y carrocería revisados.",
+        "Después de esta evolución, el equipo pondría el foco en el coche de 2027.",
+        "F1 Oversteer señala que la Scuderia corre para tener listos los pontones y que, si no llegan, podrían debutar en Ciudad de México.",
+        "Lo anterior son reportes previos; Ferrari no había detallado qué piezas usará cada piloto.",
+        "Lo que hay que observar: si Hamilton y Leclerc salen a pista con el mismo paquete en las prácticas del viernes y sábado."
+      ],
+      "source": "Grande Prêmio",
+      "url": "https://grandepremio.com/en/f1/ferrari-bets-on-final-f1-upgrade-at-austin-as-hamilton-and-leclerc-chase-red-bull/",
+      "img": "img/noticias/leclerc-austria.jpg",
+      "imgCredit": "Lukas Raich · CC BY-SA 4.0 · Wikimedia Commons",
+      "imgAlt": "Charles Leclerc con el Ferrari"
+    },
+    {
+      "id": "favoritos-austin-hamilton-verstappen",
+      "cat": "carrera",
+      "date": "2026-10-22",
+      "title": "¿Quién es favorito en el COTA? Hamilton y Verstappen suenan fuerte",
+      "summary": "Las previas dividen opiniones: Verstappen busca su quinta victoria en Austin y Hamilton, con Ferrari, aparece como candidato.",
+      "body": [
+        "GPFans sostiene que Hamilton y Ferrari podrían ser favoritos en Austin. NBC Sports también elige a Hamilton para ganar, con Verstappen segundo y Antonelli tercero.",
+        "ESPN, en cambio, ve a Verstappen como favorito por sus cuatro victorias en el circuito. Llega con triunfos en Malasia y Singapur.",
+        "Hay discrepancias sobre el historial de Hamilton en el COTA: las fuentes citan cinco o seis victorias, así que conviene esperar la cifra oficial.",
+        "Planet F1 lo ve en el podio y GPFans coloca a Norris como cuarto favorito, detrás de los dos Mercedes.",
+        "Lo que hay que observar: el ritmo de carrera del viernes, más que un tiempo aislado en clasificación."
+      ],
+      "source": "GPFans",
+      "url": "https://www.gpfans.com/en/f1-news/1091812/f1-lewis-hamilton-ferrari-favourites-united-states-grand-prix-cota-2026/",
+      "img": "img/noticias/hamilton-quali-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY-SA 4.0 · Wikimedia Commons",
+      "imgAlt": "Lewis Hamilton con el Ferrari"
+    },
+    {
+      "id": "colapinto-austin-buscar-puntos",
+      "cat": "pilotos",
+      "date": "2026-10-22",
+      "title": "Colapinto llega a Austin tras tres carreras sin puntos",
+      "summary": "El argentino busca un fin de semana sólido con Alpine después de abandonos en Bakú y Singapur.",
+      "body": [
+        "Según El Intransigente, Franco Colapinto ya está en Estados Unidos y llega sin sumar en las tres últimas carreras.",
+        "Abandonó en Azerbaiyán y Singapur, y en Bahréin terminó 13.º, de acuerdo con lo publicado.",
+        "Alpine confirmó en agosto su continuidad para 2027 junto a Pierre Gasly, así que llega sin la presión del contrato.",
+        "La carrera es el domingo 25 a las 17:00 en Argentina.",
+        "Lo que hay que observar: si Alpine consigue un coche cómodo sobre los baches del COTA, un punto débil del equipo el año pasado."
+      ],
+      "source": "El Intransigente",
+      "url": "https://elintransigente.com/2026/10/22/franco-colapinto-austin-gp-estados-unidos-cronograma-transmision/",
+      "img": "img/noticias/colapinto-13-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Franco Colapinto con el Alpine"
+    },
+    {
+      "id": "checo-herta-fp1-austin",
+      "cat": "pilotos",
+      "date": "2026-10-20",
+      "title": "Checo cede la práctica 1 en Austin a Colton Herta",
+      "summary": "Cadillac usará el primer libre del viernes para su programa de pilotos novatos; Pérez volverá al coche en la práctica 2.",
+      "body": [
+        "Cadillac confirmó que Colton Herta, piloto de reserva estadounidense, manejará el coche de Sergio Pérez en la práctica libre 1 del GP de Estados Unidos, el viernes 23 de octubre.",
+        "Según lo publicado, es una sesión prevista dentro del programa de pilotos novatos, no una sanción. Pérez regresará al coche en la práctica 2.",
+        "Tras terminar 17.º en Singapur, Pérez describió Austin y México como sus dos carreras en casa. Dijo que el equipo es sólido en lo operativo, pero que el coche está a una décima o décima y media de los rivales directos.",
+        "En Ciudad de México, el siguiente fin de semana, Pérez alcanzaría su Gran Premio número 300.",
+        "Lo que hay que observar: cuánto trabajo le queda a Pérez en una sola práctica antes de la clasificación del sábado."
+      ],
+      "source": "TV Azteca",
+      "url": "https://www.tvazteca.com/aztecadeportes/checo-perez-sera-reemplazado-por-colton-herta-en-la-practica-libre-1-del-gp-estados",
+      "img": "img/noticias/checo-19-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Sergio Pérez con el Cadillac"
+    },
+    {
       "id": "antonelli-austin-escenarios-titulo",
       "cat": "pilotos",
       "date": "2026-10-21",

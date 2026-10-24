@@ -1,18 +1,132 @@
 {
-  "updated": "2026-10-22",
+  "updated": "2026-10-24",
   "hero": {
     "kicker": "Tema del día",
-    "title": "Austin: seis aspirantes y Ferrari se la juega",
-    "summary": "Antonelli lidera por 102 puntos, pero cinco rivales siguen con opciones y Ferrari estrena su última gran mejora del año.",
-    "article": "titulo-seis-aspirantes-austin",
+    "title": "Leclerc domina el viernes en Austin",
+    "summary": "Ferrari fue el más rápido en FP1 y FP2, con Antonelli a 0.042 s. Colapinto saldrá con sanción y Checo fue 21°.",
+    "article": "leclerc-domina-viernes-austin",
     "topics": [
-      "ferrari-ultimo-paquete-austin",
-      "favoritos-austin-hamilton-verstappen",
-      "colapinto-austin-buscar-puntos",
-      "checo-herta-fp1-austin"
+      "ferrari-actualizado-leclerc-aviso",
+      "colapinto-sancion-austin-fp2",
+      "checo-fp2-austin-cadillac",
+      "alonso-sainz-viernes-austin"
     ]
   },
   "articles": [
+    {
+      "id": "leclerc-domina-viernes-austin",
+      "cat": "carrera",
+      "date": "2026-10-24",
+      "title": "Leclerc manda en Austin: primero en FP1 y FP2",
+      "summary": "El Ferrari de Leclerc fue el más rápido del viernes, con Antonelli a 0.042 s en la práctica 2.",
+      "body": [
+        "Charles Leclerc fue el más rápido en las dos prácticas del viernes. En la FP1 marcó 1:36.052, por delante de Verstappen y Norris, según Motorsport.com.",
+        "En la FP2 mejoró a 1:35.291. Kimi Antonelli quedó segundo a 0.042 s y Max Verstappen tercero a 0.189 s.",
+        "Lewis Hamilton fue cuarto a 0.615 s y George Russell quinto a 0.744 s. Liam Lawson, Lando Norris y Oscar Piastri completaron la parte alta, según lo publicado.",
+        "Hubo muchas infracciones de límites de pista, así que los tiempos deben tomarse con cautela. Russell recibió bandera blanca y negra por una maniobra sobre Leclerc.",
+        "Lo que hay que observar: si Ferrari confirma este ritmo en clasificación o si Mercedes y Red Bull lo alcanzan con motores al máximo."
+      ],
+      "source": "Motorsport.com",
+      "url": "https://es.motorsport.com/f1/news/resumen-resultados-fp2-libres2-austin-2026/10867571/",
+      "img": "img/noticias/leclerc-austria.jpg",
+      "imgCredit": "Lukas Raich · CC BY-SA 4.0 · Wikimedia Commons",
+      "imgAlt": "Charles Leclerc con el Ferrari"
+    },
+    {
+      "id": "ferrari-actualizado-leclerc-aviso",
+      "cat": "tecnica",
+      "date": "2026-10-24",
+      "title": "Ferrari estrena mejoras y Leclerc advierte: \"Los demás mejoran más\"",
+      "summary": "El coche actualizado funcionó en pista, pero Leclerc no se confía de cara a la clasificación.",
+      "body": [
+        "Ferrari llegó a Austin con su último gran paquete aerodinámico del año y el viernes terminó arriba en las dos sesiones.",
+        "Soymotor habla de un Ferrari actualizado en la FP2. Hamilton, con el otro coche rojo, fue cuarto a 0.615 s de su compañero.",
+        "Leclerc, según el titular de Motorsport.com, avisó que los rivales mejoran más que Ferrari. Es una señal de prudencia tras un viernes favorable.",
+        "Los tiempos del viernes mezclan cargas de combustible y neumáticos distintos, por lo que no equivalen al orden de la parrilla.",
+        "Lo que hay que observar: el ritmo de Ferrari en tandas largas y si el sábado mantiene la ventaja con poco combustible."
+      ],
+      "source": "Motorsport.com",
+      "url": "https://es.motorsport.com/f1/news/leclerc-declaraciones-viernes-austin-2026/10867631/",
+      "img": "img/noticias/hamilton-quali-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY-SA 4.0 · Wikimedia Commons",
+      "imgAlt": "Lewis Hamilton con el Ferrari"
+    },
+    {
+      "id": "colapinto-sancion-austin-fp2",
+      "cat": "pilotos",
+      "date": "2026-10-24",
+      "title": "Colapinto cierra el viernes 15° y saldrá con sanción",
+      "summary": "Fue 17° en FP1 y 15° en FP2; una nueva unidad electrónica le costará puestos en la parrilla.",
+      "body": [
+        "Franco Colapinto fue 17° en la práctica 1 (1:38.121) y 15° en la práctica 2 (1:37.201), según lo publicado por medios argentinos.",
+        "Alpine montó una nueva unidad de control electrónico en su coche. Por eso deberá retroceder diez lugares en la parrilla, sin importar su resultado en clasificación, de acuerdo con Motorsport.com.",
+        "La FIA confirmó también sanciones para Bortoleto y Lindblad, según esa misma fuente.",
+        "Colapinto llega a Austin sin puntos en las tres últimas carreras, con un coche que no ha mostrado ritmo para la zona de puntos.",
+        "Lo que hay que observar: el ritmo con tanque lleno y la estrategia de Alpine para ganar posiciones desde el fondo."
+      ],
+      "source": "El Litoral",
+      "url": "https://www.ellitoral.com/deportes/austin-alpine-colapinto-granpremiodeestadosunidos-charlesleclerc-circuitodelasamericas-ferrari_0_ww31re89RN.html",
+      "img": "img/noticias/colapinto-13-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Franco Colapinto con el Alpine"
+    },
+    {
+      "id": "checo-fp2-austin-cadillac",
+      "cat": "pilotos",
+      "date": "2026-10-24",
+      "title": "Checo vuelve en la FP2 de Austin y termina 21°",
+      "summary": "Tras ceder la FP1 a Colton Herta, Pérez rodó una sola tanda y quedó lejos de Bottas.",
+      "body": [
+        "Sergio Pérez regresó al Cadillac en la práctica 2 después de que Colton Herta condujera su coche en la FP1.",
+        "Según TV Azteca, terminó 21° a casi siete décimas de Valtteri Bottas, y solo rodó una tanda.",
+        "El cambio de piloto en la FP1 es parte del programa obligatorio de novatos y no es una sanción.",
+        "La próxima semana, en Ciudad de México, Pérez cumplirá su Gran Premio número 300, según lo publicado antes del fin de semana.",
+        "Lo que hay que observar: si Cadillac recupera tiempo con ajustes el sábado para evitar el fondo de la parrilla."
+      ],
+      "source": "TV Azteca",
+      "url": "https://www.tvazteca.com/aztecadeportes/asi-le-fue-en-las-practicas-libres-a-checo-perez-en-el-gp-estados-unidos-2026",
+      "img": "img/noticias/checo-19-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Sergio Pérez con el Cadillac"
+    },
+    {
+      "id": "alonso-sainz-viernes-austin",
+      "cat": "equipos",
+      "date": "2026-10-24",
+      "title": "Alonso y Sainz sufren en Austin: 16° y 20° en la FP2",
+      "summary": "Aston Martin y Williams quedaron lejos del ritmo de cabeza el viernes.",
+      "body": [
+        "Fernando Alonso fue 16° en la FP2 con 1:37.235, a 1.944 s de Leclerc. Su compañero Lance Stroll fue 17°, según Planet F1.",
+        "Carlos Sainz terminó 20° con 1:38.446, a 3.155 s del líder. Tras la sesión describió el Williams como \"un desastre\", según Menorca.info.",
+        "Motorsport.com tituló que ambos quedaron \"muy lejos\" del ritmo del viernes.",
+        "Los tiempos del viernes dependen del programa de cada equipo, pero la distancia es considerable.",
+        "Lo que hay que observar: si el sábado logran acercarse a la zona media y qué cambios hacen en el balance del coche."
+      ],
+      "source": "Menorca.info",
+      "url": "https://www.menorca.info/deportes/polideportivo/2026/10/24/2735527/alonso-sainz-sufren-mientras-leclerc-lidera-libres-austin.html",
+      "img": "img/noticias/alonso-sainz-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Fernando Alonso con el Aston Martin"
+    },
+    {
+      "id": "ritmo-carrera-austin-norris-verstappen",
+      "cat": "carrera",
+      "date": "2026-10-24",
+      "title": "Ritmo de carrera en Austin: Norris, Verstappen y Leclerc, parejos",
+      "summary": "En las tandas largas de la FP2 los tiempos medios estuvieron muy cerca entre McLaren, Red Bull, Ferrari y Mercedes.",
+      "body": [
+        "Según datos de simulaciones de carrera compartidos en X, Norris tuvo el mejor promedio con neumático duro: 1:41.289.",
+        "Verstappen promedió 1:41.481 con blandos, Leclerc 1:41.508 y Antonelli 1:41.521 con medios.",
+        "Russell marcó 1:41.602 y Hamilton 1:41.949. Piastri promedió 1:41.997.",
+        "Norris fue quien más rendimiento perdió por vuelta, y Verstappen mantuvo mejor su ritmo con blandos, de acuerdo con la misma fuente.",
+        "Lo que hay que observar: la degradación del neumático, que puede decidir la estrategia del domingo."
+      ],
+      "source": "Motorsport Week",
+      "url": "https://www.motorsportweek.com/2026/10/23/f1-2026-us-gp-fp2-results/",
+      "img": "img/noticias/verstappen-fp2-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY-SA 4.0 · Wikimedia Commons",
+      "imgAlt": "Max Verstappen con el Red Bull"
+    },
     {
       "id": "titulo-seis-aspirantes-austin",
       "cat": "pilotos",
@@ -31,82 +145,6 @@
       "img": "img/noticias/antonelli-ventaja-84.jpg",
       "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
       "imgAlt": "Kimi Antonelli celebrando"
-    },
-    {
-      "id": "ferrari-ultimo-paquete-austin",
-      "cat": "tecnica",
-      "date": "2026-10-22",
-      "title": "Ferrari lleva a Austin su cuarta y última gran mejora del año",
-      "summary": "Un suelo rediseñado y pontones revisados buscan acercar a Hamilton y Leclerc a Red Bull; podrían esperar a México.",
-      "body": [
-        "Según Grande Prêmio, Ferrari estrena en Austin su cuarto y último paquete aerodinámico importante de 2026, centrado en un suelo rediseñado con pontones y carrocería revisados.",
-        "Después de esta evolución, el equipo pondría el foco en el coche de 2027.",
-        "F1 Oversteer señala que la Scuderia corre para tener listos los pontones y que, si no llegan, podrían debutar en Ciudad de México.",
-        "Lo anterior son reportes previos; Ferrari no había detallado qué piezas usará cada piloto.",
-        "Lo que hay que observar: si Hamilton y Leclerc salen a pista con el mismo paquete en las prácticas del viernes y sábado."
-      ],
-      "source": "Grande Prêmio",
-      "url": "https://grandepremio.com/en/f1/ferrari-bets-on-final-f1-upgrade-at-austin-as-hamilton-and-leclerc-chase-red-bull/",
-      "img": "img/noticias/leclerc-austria.jpg",
-      "imgCredit": "Lukas Raich · CC BY-SA 4.0 · Wikimedia Commons",
-      "imgAlt": "Charles Leclerc con el Ferrari"
-    },
-    {
-      "id": "favoritos-austin-hamilton-verstappen",
-      "cat": "carrera",
-      "date": "2026-10-22",
-      "title": "¿Quién es favorito en el COTA? Hamilton y Verstappen suenan fuerte",
-      "summary": "Las previas dividen opiniones: Verstappen busca su quinta victoria en Austin y Hamilton, con Ferrari, aparece como candidato.",
-      "body": [
-        "GPFans sostiene que Hamilton y Ferrari podrían ser favoritos en Austin. NBC Sports también elige a Hamilton para ganar, con Verstappen segundo y Antonelli tercero.",
-        "ESPN, en cambio, ve a Verstappen como favorito por sus cuatro victorias en el circuito. Llega con triunfos en Malasia y Singapur.",
-        "Hay discrepancias sobre el historial de Hamilton en el COTA: las fuentes citan cinco o seis victorias, así que conviene esperar la cifra oficial.",
-        "Planet F1 lo ve en el podio y GPFans coloca a Norris como cuarto favorito, detrás de los dos Mercedes.",
-        "Lo que hay que observar: el ritmo de carrera del viernes, más que un tiempo aislado en clasificación."
-      ],
-      "source": "GPFans",
-      "url": "https://www.gpfans.com/en/f1-news/1091812/f1-lewis-hamilton-ferrari-favourites-united-states-grand-prix-cota-2026/",
-      "img": "img/noticias/hamilton-quali-sepang.jpg",
-      "imgCredit": "Liauzh · CC BY-SA 4.0 · Wikimedia Commons",
-      "imgAlt": "Lewis Hamilton con el Ferrari"
-    },
-    {
-      "id": "colapinto-austin-buscar-puntos",
-      "cat": "pilotos",
-      "date": "2026-10-22",
-      "title": "Colapinto llega a Austin tras tres carreras sin puntos",
-      "summary": "El argentino busca un fin de semana sólido con Alpine después de abandonos en Bakú y Singapur.",
-      "body": [
-        "Según El Intransigente, Franco Colapinto ya está en Estados Unidos y llega sin sumar en las tres últimas carreras.",
-        "Abandonó en Azerbaiyán y Singapur, y en Bahréin terminó 13.º, de acuerdo con lo publicado.",
-        "Alpine confirmó en agosto su continuidad para 2027 junto a Pierre Gasly, así que llega sin la presión del contrato.",
-        "La carrera es el domingo 25 a las 17:00 en Argentina.",
-        "Lo que hay que observar: si Alpine consigue un coche cómodo sobre los baches del COTA, un punto débil del equipo el año pasado."
-      ],
-      "source": "El Intransigente",
-      "url": "https://elintransigente.com/2026/10/22/franco-colapinto-austin-gp-estados-unidos-cronograma-transmision/",
-      "img": "img/noticias/colapinto-13-sepang.jpg",
-      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
-      "imgAlt": "Franco Colapinto con el Alpine"
-    },
-    {
-      "id": "checo-herta-fp1-austin",
-      "cat": "pilotos",
-      "date": "2026-10-20",
-      "title": "Checo cede la práctica 1 en Austin a Colton Herta",
-      "summary": "Cadillac usará el primer libre del viernes para su programa de pilotos novatos; Pérez volverá al coche en la práctica 2.",
-      "body": [
-        "Cadillac confirmó que Colton Herta, piloto de reserva estadounidense, manejará el coche de Sergio Pérez en la práctica libre 1 del GP de Estados Unidos, el viernes 23 de octubre.",
-        "Según lo publicado, es una sesión prevista dentro del programa de pilotos novatos, no una sanción. Pérez regresará al coche en la práctica 2.",
-        "Tras terminar 17.º en Singapur, Pérez describió Austin y México como sus dos carreras en casa. Dijo que el equipo es sólido en lo operativo, pero que el coche está a una décima o décima y media de los rivales directos.",
-        "En Ciudad de México, el siguiente fin de semana, Pérez alcanzaría su Gran Premio número 300.",
-        "Lo que hay que observar: cuánto trabajo le queda a Pérez en una sola práctica antes de la clasificación del sábado."
-      ],
-      "source": "TV Azteca",
-      "url": "https://www.tvazteca.com/aztecadeportes/checo-perez-sera-reemplazado-por-colton-herta-en-la-practica-libre-1-del-gp-estados",
-      "img": "img/noticias/checo-19-sepang.jpg",
-      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
-      "imgAlt": "Sergio Pérez con el Cadillac"
     },
     {
       "id": "horarios-gp-estados-unidos-austin",
