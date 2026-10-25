@@ -1,150 +1,122 @@
 {
-  "updated": "2026-10-24",
+  "updated": "2026-10-25",
   "hero": {
     "kicker": "Tema del día",
-    "title": "Leclerc domina el viernes en Austin",
-    "summary": "Ferrari fue el más rápido en FP1 y FP2, con Antonelli a 0.042 s. Colapinto saldrá con sanción y Checo fue 21°.",
-    "article": "leclerc-domina-viernes-austin",
+    "title": "Antonelli parte en pole y puede ser campeón",
+    "summary": "Kimi Antonelli largará primero en Austin con 102 puntos de ventaja. Checo saldrá 19º y Colapinto 21º.",
+    "article": "antonelli-pole-austin-titulo",
     "topics": [
-      "ferrari-actualizado-leclerc-aviso",
-      "colapinto-sancion-austin-fp2",
-      "checo-fp2-austin-cadillac",
-      "alonso-sainz-viernes-austin"
+      "verstappen-hadjar-norris-limites-austin",
+      "checo-q1-austin-saldra-19",
+      "colapinto-q2-austin-sancion-21",
+      "alonso-sainz-clasificacion-austin"
     ]
   },
   "articles": [
     {
-      "id": "leclerc-domina-viernes-austin",
+      "id": "antonelli-pole-austin-titulo",
       "cat": "carrera",
-      "date": "2026-10-24",
-      "title": "Leclerc manda en Austin: primero en FP1 y FP2",
-      "summary": "El Ferrari de Leclerc fue el más rápido del viernes, con Antonelli a 0.042 s en la práctica 2.",
+      "date": "2026-10-25",
+      "title": "Antonelli saca la pole en Austin y se acerca al título",
+      "summary": "Kimi Antonelli marcó 1:34.035 y largará primero, 0.179 s por delante de Verstappen.",
       "body": [
-        "Charles Leclerc fue el más rápido en las dos prácticas del viernes. En la FP1 marcó 1:36.052, por delante de Verstappen y Norris, según Motorsport.com.",
-        "En la FP2 mejoró a 1:35.291. Kimi Antonelli quedó segundo a 0.042 s y Max Verstappen tercero a 0.189 s.",
-        "Lewis Hamilton fue cuarto a 0.615 s y George Russell quinto a 0.744 s. Liam Lawson, Lando Norris y Oscar Piastri completaron la parte alta, según lo publicado.",
-        "Hubo muchas infracciones de límites de pista, así que los tiempos deben tomarse con cautela. Russell recibió bandera blanca y negra por una maniobra sobre Leclerc.",
-        "Lo que hay que observar: si Ferrari confirma este ritmo en clasificación o si Mercedes y Red Bull lo alcanzan con motores al máximo."
+        "Kimi Antonelli será el primero en la parrilla del GP de Estados Unidos con un 1:34.035. Es su séptima pole de la temporada, según lo publicado por Motorsport.com.",
+        "Max Verstappen quedó segundo a 0.179 s e Isack Hadjar tercero a 0.215 s. Charles Leclerc fue cuarto, Lewis Hamilton quinto y George Russell sexto.",
+        "El italiano lidera el campeonato con 102 puntos de ventaja sobre Russell. Para coronarse hoy necesita ganar, que Russell termine noveno o peor y que Hamilton sea quinto o peor.",
+        "Lo que hay que observar: la salida. Con Verstappen a su lado, un mal arranque de Antonelli aplazaría la definición hasta Ciudad de México."
       ],
       "source": "Motorsport.com",
-      "url": "https://es.motorsport.com/f1/news/resumen-resultados-fp2-libres2-austin-2026/10867571/",
-      "img": "img/noticias/leclerc-austria.jpg",
-      "imgCredit": "Lukas Raich · CC BY-SA 4.0 · Wikimedia Commons",
-      "imgAlt": "Charles Leclerc con el Ferrari"
-    },
-    {
-      "id": "ferrari-actualizado-leclerc-aviso",
-      "cat": "tecnica",
-      "date": "2026-10-24",
-      "title": "Ferrari estrena mejoras y Leclerc advierte: \"Los demás mejoran más\"",
-      "summary": "El coche actualizado funcionó en pista, pero Leclerc no se confía de cara a la clasificación.",
-      "body": [
-        "Ferrari llegó a Austin con su último gran paquete aerodinámico del año y el viernes terminó arriba en las dos sesiones.",
-        "Soymotor habla de un Ferrari actualizado en la FP2. Hamilton, con el otro coche rojo, fue cuarto a 0.615 s de su compañero.",
-        "Leclerc, según el titular de Motorsport.com, avisó que los rivales mejoran más que Ferrari. Es una señal de prudencia tras un viernes favorable.",
-        "Los tiempos del viernes mezclan cargas de combustible y neumáticos distintos, por lo que no equivalen al orden de la parrilla.",
-        "Lo que hay que observar: el ritmo de Ferrari en tandas largas y si el sábado mantiene la ventaja con poco combustible."
-      ],
-      "source": "Motorsport.com",
-      "url": "https://es.motorsport.com/f1/news/leclerc-declaraciones-viernes-austin-2026/10867631/",
-      "img": "img/noticias/hamilton-quali-sepang.jpg",
-      "imgCredit": "Liauzh · CC BY-SA 4.0 · Wikimedia Commons",
-      "imgAlt": "Lewis Hamilton con el Ferrari"
-    },
-    {
-      "id": "colapinto-sancion-austin-fp2",
-      "cat": "pilotos",
-      "date": "2026-10-24",
-      "title": "Colapinto cierra el viernes 15° y saldrá con sanción",
-      "summary": "Fue 17° en FP1 y 15° en FP2; una nueva unidad electrónica le costará puestos en la parrilla.",
-      "body": [
-        "Franco Colapinto fue 17° en la práctica 1 (1:38.121) y 15° en la práctica 2 (1:37.201), según lo publicado por medios argentinos.",
-        "Alpine montó una nueva unidad de control electrónico en su coche. Por eso deberá retroceder diez lugares en la parrilla, sin importar su resultado en clasificación, de acuerdo con Motorsport.com.",
-        "La FIA confirmó también sanciones para Bortoleto y Lindblad, según esa misma fuente.",
-        "Colapinto llega a Austin sin puntos en las tres últimas carreras, con un coche que no ha mostrado ritmo para la zona de puntos.",
-        "Lo que hay que observar: el ritmo con tanque lleno y la estrategia de Alpine para ganar posiciones desde el fondo."
-      ],
-      "source": "El Litoral",
-      "url": "https://www.ellitoral.com/deportes/austin-alpine-colapinto-granpremiodeestadosunidos-charlesleclerc-circuitodelasamericas-ferrari_0_ww31re89RN.html",
-      "img": "img/noticias/colapinto-13-sepang.jpg",
+      "url": "https://www.motorsport.com/f1/news/f1-united-states-gp-kimi-antonell-takes-pole/10867975/",
+      "img": "img/noticias/antonelli-ventaja-84.jpg",
       "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
-      "imgAlt": "Franco Colapinto con el Alpine"
+      "imgAlt": "Kimi Antonelli celebrando"
     },
     {
-      "id": "checo-fp2-austin-cadillac",
-      "cat": "pilotos",
-      "date": "2026-10-24",
-      "title": "Checo vuelve en la FP2 de Austin y termina 21°",
-      "summary": "Tras ceder la FP1 a Colton Herta, Pérez rodó una sola tanda y quedó lejos de Bottas.",
-      "body": [
-        "Sergio Pérez regresó al Cadillac en la práctica 2 después de que Colton Herta condujera su coche en la FP1.",
-        "Según TV Azteca, terminó 21° a casi siete décimas de Valtteri Bottas, y solo rodó una tanda.",
-        "El cambio de piloto en la FP1 es parte del programa obligatorio de novatos y no es una sanción.",
-        "La próxima semana, en Ciudad de México, Pérez cumplirá su Gran Premio número 300, según lo publicado antes del fin de semana.",
-        "Lo que hay que observar: si Cadillac recupera tiempo con ajustes el sábado para evitar el fondo de la parrilla."
-      ],
-      "source": "TV Azteca",
-      "url": "https://www.tvazteca.com/aztecadeportes/asi-le-fue-en-las-practicas-libres-a-checo-perez-en-el-gp-estados-unidos-2026",
-      "img": "img/noticias/checo-19-sepang.jpg",
-      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
-      "imgAlt": "Sergio Pérez con el Cadillac"
-    },
-    {
-      "id": "alonso-sainz-viernes-austin",
-      "cat": "equipos",
-      "date": "2026-10-24",
-      "title": "Alonso y Sainz sufren en Austin: 16° y 20° en la FP2",
-      "summary": "Aston Martin y Williams quedaron lejos del ritmo de cabeza el viernes.",
-      "body": [
-        "Fernando Alonso fue 16° en la FP2 con 1:37.235, a 1.944 s de Leclerc. Su compañero Lance Stroll fue 17°, según Planet F1.",
-        "Carlos Sainz terminó 20° con 1:38.446, a 3.155 s del líder. Tras la sesión describió el Williams como \"un desastre\", según Menorca.info.",
-        "Motorsport.com tituló que ambos quedaron \"muy lejos\" del ritmo del viernes.",
-        "Los tiempos del viernes dependen del programa de cada equipo, pero la distancia es considerable.",
-        "Lo que hay que observar: si el sábado logran acercarse a la zona media y qué cambios hacen en el balance del coche."
-      ],
-      "source": "Menorca.info",
-      "url": "https://www.menorca.info/deportes/polideportivo/2026/10/24/2735527/alonso-sainz-sufren-mientras-leclerc-lidera-libres-austin.html",
-      "img": "img/noticias/alonso-sainz-sepang.jpg",
-      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
-      "imgAlt": "Fernando Alonso con el Aston Martin"
-    },
-    {
-      "id": "ritmo-carrera-austin-norris-verstappen",
+      "id": "verstappen-hadjar-norris-limites-austin",
       "cat": "carrera",
-      "date": "2026-10-24",
-      "title": "Ritmo de carrera en Austin: Norris, Verstappen y Leclerc, parejos",
-      "summary": "En las tandas largas de la FP2 los tiempos medios estuvieron muy cerca entre McLaren, Red Bull, Ferrari y Mercedes.",
+      "date": "2026-10-25",
+      "title": "Verstappen y Hadjar, en primera fila; Norris pierde su vuelta",
+      "summary": "Las vueltas finales de Verstappen y Hadjar fueron anuladas por límites de pista, aunque no cambiaba su lugar.",
       "body": [
-        "Según datos de simulaciones de carrera compartidos en X, Norris tuvo el mejor promedio con neumático duro: 1:41.289.",
-        "Verstappen promedió 1:41.481 con blandos, Leclerc 1:41.508 y Antonelli 1:41.521 con medios.",
-        "Russell marcó 1:41.602 y Hamilton 1:41.949. Piastri promedió 1:41.997.",
-        "Norris fue quien más rendimiento perdió por vuelta, y Verstappen mantuvo mejor su ritmo con blandos, de acuerdo con la misma fuente.",
-        "Lo que hay que observar: la degradación del neumático, que puede decidir la estrategia del domingo."
+        "Verstappen y Hadjar vieron borradas sus últimas vueltas en la Q3 por exceder los límites de pista en la curva 19. Según Sky Sports, ninguna habría alterado su posición.",
+        "Lando Norris sí pagó el error: su vuelta final fue anulada y quedó octavo, tras haber sido sexto más rápido. Oscar Piastri fue séptimo.",
+        "Arvid Lindblad había sido noveno, pero una sanción por unidad de potencia lo manda al 14º lugar, según Grande Premio. Liam Lawson sube al noveno.",
+        "Lo que hay que observar: el ritmo de Verstappen, ganador de las dos últimas carreras, desde el segundo lugar."
       ],
-      "source": "Motorsport Week",
-      "url": "https://www.motorsportweek.com/2026/10/23/f1-2026-us-gp-fp2-results/",
+      "source": "Sky Sports",
+      "url": "https://www.skysports.com/f1/news/13603149/united-states-gp-qualifying-kimi-antonelli-beats-max-verstappen-to-surprise-pole-to-boost-chances-of-sealing-maiden-f1-title-on-sunday",
       "img": "img/noticias/verstappen-fp2-sepang.jpg",
       "imgCredit": "Liauzh · CC BY-SA 4.0 · Wikimedia Commons",
       "imgAlt": "Max Verstappen con el Red Bull"
     },
     {
-      "id": "titulo-seis-aspirantes-austin",
+      "id": "checo-q1-austin-saldra-19",
       "cat": "pilotos",
-      "date": "2026-10-22",
-      "title": "Seis pilotos llegan a Austin con opciones matemáticas al título",
-      "summary": "Antonelli lidera con 102 puntos sobre Russell, pero Hamilton, Verstappen, Leclerc y Norris siguen vivos.",
+      "date": "2026-10-25",
+      "title": "Checo cae en la Q1 y largará 19º en Austin",
+      "summary": "Pérez marcó 1:37.433, fue 21º y avanza dos lugares por las sanciones de otros pilotos.",
       "body": [
-        "Kimi Antonelli llega al GP de Estados Unidos con 340 puntos. Según NBC Sports, Russell está a 102, Hamilton a 111, Verstappen a 119, Leclerc a 125 y Norris a 139.",
-        "Esos seis son los únicos con opciones matemáticas, con seis carreras por disputarse. Austin no tiene sprint este año.",
-        "Para coronarse el domingo, Antonelli necesita ganar y que Russell termine noveno o peor y Hamilton quinto o peor, según lo publicado. Una victoria suya dejaría fuera de la pelea a Verstappen, Leclerc y Norris.",
-        "De lograrlo, sería el campeón más joven de la historia y superaría el récord que Vettel fijó en 2010.",
-        "Lo que hay que observar: si Russell y Hamilton puntúan fuerte en la carrera, porque eso aplaza la celebración a Ciudad de México."
+        "Sergio Pérez quedó eliminado en la Q1 con 1:37.433, según Motorsport.com. Su compañero Valtteri Bottas marcó 1:37.523.",
+        "Con las sanciones a Franco Colapinto y Gabriel Bortoleto, Checo ganará dos posiciones y saldrá 19º, según lo publicado. Otra tabla lo ubica 20º, así que conviene confirmar la parrilla oficial.",
+        "Pérez reconoció un error en su vuelta, pero admitió que no habría cambiado mucho el resultado.",
+        "Lo que hay que observar: si Cadillac logra un buen arranque y una estrategia distinta para sumar posiciones antes de su GP número 300 en México."
       ],
-      "source": "NBC Sports Bay Area",
-      "url": "https://www.nbcsportsbayarea.com/news/sports/f1-us-grand-prix-cota-austin-watch-schedule-start-time/1972889/",
-      "img": "img/noticias/antonelli-ventaja-84.jpg",
+      "source": "Motorsport.com",
+      "url": "https://lat.motorsport.com/f1/news/checo-perez-declaraciones-clasificacion-austin-2026/10868014/",
+      "img": "img/noticias/checo-19-sepang.jpg",
       "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
-      "imgAlt": "Kimi Antonelli celebrando"
+      "imgAlt": "Sergio Pérez con el Cadillac"
+    },
+    {
+      "id": "colapinto-q2-austin-sancion-21",
+      "cat": "pilotos",
+      "date": "2026-10-25",
+      "title": "Colapinto cae en la Q2 y saldrá 21º por sanción",
+      "summary": "El argentino marcó 1:35.722 en la Q2 y perderá lugares por cambio de unidad de potencia.",
+      "body": [
+        "Franco Colapinto quedó eliminado en la Q2 con un tiempo de 1:35.722, según Grande Premio.",
+        "Alpine, Audi y Racing Bulls cambiaron componentes de la unidad de potencia, y eso reordenó la parrilla. Colapinto aparece 21º y Bortoleto, último, en la lista de Motorsport.com.",
+        "Su lugar en la parrilla queda por debajo de lo que logró en pista.",
+        "Lo que hay que observar: el ritmo de carrera del Alpine desde atrás y si hay safety car que permita remontar."
+      ],
+      "source": "Grande Premio",
+      "url": "https://grandepremio.com/es/f1/antonelli-resurge-y-conquista-la-pole-position-del-gp-de-estados-unidos-colapinto-cae-en-q2/",
+      "img": "img/noticias/colapinto-13-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Franco Colapinto con el Alpine"
+    },
+    {
+      "id": "alonso-sainz-clasificacion-austin",
+      "cat": "equipos",
+      "date": "2026-10-25",
+      "title": "Alonso saldrá 12º y Sainz 17º en Austin",
+      "summary": "Alonso cayó en la Q2 con 1:35.818 y Sainz quedó fuera en la Q1.",
+      "body": [
+        "Fernando Alonso fue eliminado en la Q2 con 1:35.818. Según Motorsport.com en español largará 12º, aunque un titular de otra cobertura habla del 13º.",
+        "Carlos Sainz no pasó de la Q1 y aparece 17º en la parrilla, según la misma fuente.",
+        "Las posiciones pueden variar por las sanciones de Lindblad, Bortoleto y Colapinto, por lo que conviene revisar la lista oficial.",
+        "Lo que hay que observar: si Alonso aprovecha la salida para ganar puestos desde la zona media."
+      ],
+      "source": "Motorsport.com",
+      "url": "https://es.motorsport.com/f1/news/pole-austin-estados-unidos/10867969/",
+      "img": "img/noticias/alonso-sainz-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Fernando Alonso y Carlos Sainz"
+    },
+    {
+      "id": "sanciones-parrilla-austin",
+      "cat": "tecnica",
+      "date": "2026-10-25",
+      "title": "Tres cambios de motor reordenan la parrilla de Austin",
+      "summary": "Lindblad, Bortoleto y Colapinto tienen sanciones por unidades de potencia.",
+      "body": [
+        "Grande Premio informa que Alpine, Audi y Racing Bulls montaron componentes nuevos de la unidad de potencia, lo que genera sanciones de parrilla.",
+        "Lindblad pasa del 9º al 14º lugar. Bortoleto sale último, según Motorsport.com, y Colapinto aparece 21º.",
+        "El efecto se siente en toda la parrilla: Lawson sube al 9º y Checo gana dos puestos.",
+        "Lo que hay que observar: cuántos pilotos sancionados entran a puntos."
+      ],
+      "source": "Grande Premio",
+      "url": "https://grandepremio.com/es/f1/sanciones-a-tres-pilotos-cambian-la-parrilla-de-salida-del-gp-de-estados-unidos-de-f1/"
     },
     {
       "id": "horarios-gp-estados-unidos-austin",
