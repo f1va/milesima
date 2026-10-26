@@ -1,138 +1,123 @@
 {
-  "updated": "2026-10-25",
+  "updated": "2026-10-26",
   "hero": {
     "kicker": "Tema del día",
-    "title": "Antonelli parte en pole y puede ser campeón",
-    "summary": "Kimi Antonelli largará primero en Austin con 102 puntos de ventaja. Checo saldrá 19º y Colapinto 21º.",
-    "article": "antonelli-pole-austin-titulo",
+    "title": "Antonelli gana en Austin y aplaza el título",
+    "summary": "Ganó desde la pole, pero Russell y Hamilton evitaron su coronación. Checo fue 19º y Colapinto abandonó.",
+    "article": "antonelli-gana-austin-aplaza-titulo",
     "topics": [
-      "verstappen-hadjar-norris-limites-austin",
-      "checo-q1-austin-saldra-19",
-      "colapinto-q2-austin-sancion-21",
-      "alonso-sainz-clasificacion-austin"
+      "leclerc-verstappen-podio-austin",
+      "checo-19-austin-mira-mexico",
+      "colapinto-abandona-austin-lindblad",
+      "alonso-sainz-sin-puntos-austin"
     ]
   },
   "articles": [
     {
-      "id": "antonelli-pole-austin-titulo",
+      "id": "antonelli-gana-austin-aplaza-titulo",
       "cat": "carrera",
-      "date": "2026-10-25",
-      "title": "Antonelli saca la pole en Austin y se acerca al título",
-      "summary": "Kimi Antonelli marcó 1:34.035 y largará primero, 0.179 s por delante de Verstappen.",
+      "date": "2026-10-26",
+      "title": "Antonelli gana en Austin, pero aplaza su título",
+      "summary": "Kimi Antonelli ganó desde la pole en el GP de Estados Unidos, pero Russell y Hamilton sumaron lo justo para evitar su coronación.",
       "body": [
-        "Kimi Antonelli será el primero en la parrilla del GP de Estados Unidos con un 1:34.035. Es su séptima pole de la temporada, según lo publicado por Motorsport.com.",
-        "Max Verstappen quedó segundo a 0.179 s e Isack Hadjar tercero a 0.215 s. Charles Leclerc fue cuarto, Lewis Hamilton quinto y George Russell sexto.",
-        "El italiano lidera el campeonato con 102 puntos de ventaja sobre Russell. Para coronarse hoy necesita ganar, que Russell termine noveno o peor y que Hamilton sea quinto o peor.",
-        "Lo que hay que observar: la salida. Con Verstappen a su lado, un mal arranque de Antonelli aplazaría la definición hasta Ciudad de México."
+        "Kimi Antonelli (Mercedes) ganó las 56 vueltas del GP de Estados Unidos tras partir desde la pole. Hizo una sola parada, mientras que Verstappen necesitó dos.",
+        "Para ser campeón en Austin necesitaba ganar, que George Russell terminara noveno o peor y que Lewis Hamilton fuera quinto o peor. Russell fue octavo y Hamilton cuarto, así que la definición se mueve a Ciudad de México.",
+        "Según lo publicado, su ventaja es de 123 puntos sobre Russell y 124 sobre Hamilton, con 125 aún en juego. Varias fuentes indican que le bastaría un noveno lugar en México.",
+        "Lo que hay que observar: el GP de la Ciudad de México, el 1 de noviembre, donde puede cerrar el campeonato."
       ],
-      "source": "Motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-united-states-gp-kimi-antonell-takes-pole/10867975/",
+      "source": "Sky Sports",
+      "url": "https://www.skysports.com/f1/news/13603603/united-states-gp-kimi-antonelli-wins-austin-race-to-move-to-brink-of-f1-world-title-after-dominant-drive",
       "img": "img/noticias/antonelli-ventaja-84.jpg",
       "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
       "imgAlt": "Kimi Antonelli celebrando"
     },
     {
-      "id": "verstappen-hadjar-norris-limites-austin",
+      "id": "leclerc-verstappen-podio-austin",
       "cat": "carrera",
-      "date": "2026-10-25",
-      "title": "Verstappen y Hadjar, en primera fila; Norris pierde su vuelta",
-      "summary": "Las vueltas finales de Verstappen y Hadjar fueron anuladas por límites de pista, aunque no cambiaba su lugar.",
+      "date": "2026-10-26",
+      "title": "Leclerc y Verstappen completan el podio en Austin",
+      "summary": "Leclerc fue segundo a 13.078 s de Antonelli y superó a Verstappen, tercero a 17.485 s.",
       "body": [
-        "Verstappen y Hadjar vieron borradas sus últimas vueltas en la Q3 por exceder los límites de pista en la curva 19. Según Sky Sports, ninguna habría alterado su posición.",
-        "Lando Norris sí pagó el error: su vuelta final fue anulada y quedó octavo, tras haber sido sexto más rápido. Oscar Piastri fue séptimo.",
-        "Arvid Lindblad había sido noveno, pero una sanción por unidad de potencia lo manda al 14º lugar, según Grande Premio. Liam Lawson sube al noveno.",
-        "Lo que hay que observar: el ritmo de Verstappen, ganador de las dos últimas carreras, desde el segundo lugar."
+        "Charles Leclerc (Ferrari) terminó segundo, a 13.078 s del ganador. Max Verstappen (Red Bull) fue tercero, a 17.485 s, con una estrategia de dos paradas.",
+        "Según la crónica de F1.com, Leclerc pasó a Verstappen en la parte final para quedarse con el segundo lugar.",
+        "Detrás llegaron Lewis Hamilton (cuarto), Lando Norris (quinto), Isack Hadjar (sexto), Oscar Piastri (séptimo), George Russell (octavo), Liam Lawson (noveno) y Pierre Gasly (décimo).",
+        "Lo que hay que observar: Norris logró el quinto puesto con una sola parada; la estrategia puede pesar de nuevo en la altitud de México."
       ],
-      "source": "Sky Sports",
-      "url": "https://www.skysports.com/f1/news/13603149/united-states-gp-qualifying-kimi-antonelli-beats-max-verstappen-to-surprise-pole-to-boost-chances-of-sealing-maiden-f1-title-on-sunday",
-      "img": "img/noticias/verstappen-fp2-sepang.jpg",
-      "imgCredit": "Liauzh · CC BY-SA 4.0 · Wikimedia Commons",
-      "imgAlt": "Max Verstappen con el Red Bull"
+      "source": "Formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/antonelli-surges-to-dominant-victory-in-united-states-grand-prix-ahead-of-leclerc-and-verstappen.6kmBQv9FNTW7LzkDj8S34j",
+      "img": "img/noticias/leclerc-austria.jpg",
+      "imgCredit": "Lukas Raich · CC BY-SA 4.0 · Wikimedia Commons",
+      "imgAlt": "Charles Leclerc con el Ferrari"
     },
     {
-      "id": "checo-q1-austin-saldra-19",
+      "id": "checo-19-austin-mira-mexico",
       "cat": "pilotos",
-      "date": "2026-10-25",
-      "title": "Checo cae en la Q1 y largará 19º en Austin",
-      "summary": "Pérez marcó 1:37.433, fue 21º y avanza dos lugares por las sanciones de otros pilotos.",
+      "date": "2026-10-26",
+      "title": "Checo termina 19º en Austin y mira hacia México",
+      "summary": "Sergio Pérez cruzó la meta en el lugar 19 con Cadillac y se queda sin puntos antes de su carrera de casa.",
       "body": [
-        "Sergio Pérez quedó eliminado en la Q1 con 1:37.433, según Motorsport.com. Su compañero Valtteri Bottas marcó 1:37.523.",
-        "Con las sanciones a Franco Colapinto y Gabriel Bortoleto, Checo ganará dos posiciones y saldrá 19º, según lo publicado. Otra tabla lo ubica 20º, así que conviene confirmar la parrilla oficial.",
-        "Pérez reconoció un error en su vuelta, pero admitió que no habría cambiado mucho el resultado.",
-        "Lo que hay que observar: si Cadillac logra un buen arranque y una estrategia distinta para sumar posiciones antes de su GP número 300 en México."
+        "Checo Pérez terminó 19º en el GP de Estados Unidos, sin puntos. Había salido desde el fondo tras caer en la Q1. Su compañero Valtteri Bottas abandonó.",
+        "Según lo publicado, el mexicano reconoció que el ritmo superó sus expectativas, aunque una parada temprana perjudicó la estrategia de Cadillac. Dijo que por momentos pudo acercarse a los Williams.",
+        "Los abandonos de Colapinto y Bearman le dieron lugares. Algunos medios lo ubican en el 18º; la mayoría coincide en el 19º.",
+        "Lo que hay que observar: cómo llega Cadillac al Autódromo Hermanos Rodríguez, donde Checo correrá ante su público."
       ],
-      "source": "Motorsport.com",
-      "url": "https://lat.motorsport.com/f1/news/checo-perez-declaraciones-clasificacion-austin-2026/10868014/",
+      "source": "Record",
+      "url": "https://www.record.com.mx/historia/checo-perez-rescata-sensaciones-positivas-en-austin-y-ya-apunta-al-gran-premio-de-mexico-2026102602003349858",
       "img": "img/noticias/checo-19-sepang.jpg",
       "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
       "imgAlt": "Sergio Pérez con el Cadillac"
     },
     {
-      "id": "colapinto-q2-austin-sancion-21",
+      "id": "colapinto-abandona-austin-lindblad",
       "cat": "pilotos",
-      "date": "2026-10-25",
-      "title": "Colapinto cae en la Q2 y saldrá 21º por sanción",
-      "summary": "El argentino marcó 1:35.722 en la Q2 y perderá lugares por cambio de unidad de potencia.",
+      "date": "2026-10-26",
+      "title": "Colapinto abandona en Austin tras tocarse con Lindblad",
+      "summary": "El argentino había remontado posiciones, pero un contacto con Arvid Lindblad dañó su Alpine y terminó su carrera.",
       "body": [
-        "Franco Colapinto quedó eliminado en la Q2 con un tiempo de 1:35.722, según Grande Premio.",
-        "Alpine, Audi y Racing Bulls cambiaron componentes de la unidad de potencia, y eso reordenó la parrilla. Colapinto aparece 21º y Bortoleto, último, en la lista de Motorsport.com.",
-        "Su lugar en la parrilla queda por debajo de lo que logró en pista.",
-        "Lo que hay que observar: el ritmo de carrera del Alpine desde atrás y si hay safety car que permita remontar."
+        "Franco Colapinto abandonó el GP de Estados Unidos después de un incidente con Arvid Lindblad que derivó en un trompo y daños en su Alpine.",
+        "Había salido 21º por sanción y avanzó varios lugares en las primeras vueltas. Según sus declaraciones, el sidepod y el piso quedaron rotos; a su juicio lo \"hicieron sándwich\".",
+        "Las fuentes difieren en la vuelta exacta del abandono. La prensa argentina lo cuenta como su tercera deserción en cuatro carreras.",
+        "Lo que hay que observar: la reparación del auto y el ritmo de Alpine en México, donde ya pone la mira."
       ],
-      "source": "Grande Premio",
-      "url": "https://grandepremio.com/es/f1/antonelli-resurge-y-conquista-la-pole-position-del-gp-de-estados-unidos-colapinto-cae-en-q2/",
+      "source": "Motorsport.com",
+      "url": "https://lat.motorsport.com/f1/news/colapinto-explica-choque-con-lindblad-en-austin/10868383/",
       "img": "img/noticias/colapinto-13-sepang.jpg",
       "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
       "imgAlt": "Franco Colapinto con el Alpine"
     },
     {
-      "id": "alonso-sainz-clasificacion-austin",
+      "id": "alonso-sainz-sin-puntos-austin",
       "cat": "equipos",
-      "date": "2026-10-25",
-      "title": "Alonso saldrá 12º y Sainz 17º en Austin",
-      "summary": "Alonso cayó en la Q2 con 1:35.818 y Sainz quedó fuera en la Q1.",
+      "date": "2026-10-26",
+      "title": "Alonso y Sainz se quedan sin puntos en Austin",
+      "summary": "Alonso fue 16º con Aston Martin y Sainz 18º con Williams tras un toque en la salida.",
       "body": [
-        "Fernando Alonso fue eliminado en la Q2 con 1:35.818. Según Motorsport.com en español largará 12º, aunque un titular de otra cobertura habla del 13º.",
-        "Carlos Sainz no pasó de la Q1 y aparece 17º en la parrilla, según la misma fuente.",
-        "Las posiciones pueden variar por las sanciones de Lindblad, Bortoleto y Colapinto, por lo que conviene revisar la lista oficial.",
-        "Lo que hay que observar: si Alonso aprovecha la salida para ganar puestos desde la zona media."
+        "Fernando Alonso terminó 16º. Salió 12º gracias a las sanciones de otros pilotos, pero perdió terreno al arranque y el ritmo de su Aston Martin no le alcanzó para pelear por los puntos.",
+        "Carlos Sainz fue 18º con Williams. Según lo publicado, un toque inicial le costó piezas del auto y después un golpe en el muro le restó carga aerodinámica.",
+        "Un medio ubica a ambos con 7 puntos en el campeonato; el dato debe confirmarse en la tabla oficial.",
+        "Lo que hay que observar: si Williams y Aston Martin recuperan competitividad en la altitud de Ciudad de México."
       ],
-      "source": "Motorsport.com",
-      "url": "https://es.motorsport.com/f1/news/pole-austin-estados-unidos/10867969/",
+      "source": "Mundiario",
+      "url": "https://www.mundiario.com/articulo/formula-1/alonso-resiste-sainz-hunde-austin-vuelve-retratar-limites-espanoles/20261025225618449032.html",
       "img": "img/noticias/alonso-sainz-sepang.jpg",
       "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
-      "imgAlt": "Fernando Alonso y Carlos Sainz"
+      "imgAlt": "Fernando Alonso con el Aston Martin"
     },
     {
-      "id": "sanciones-parrilla-austin",
-      "cat": "tecnica",
-      "date": "2026-10-25",
-      "title": "Tres cambios de motor reordenan la parrilla de Austin",
-      "summary": "Lindblad, Bortoleto y Colapinto tienen sanciones por unidades de potencia.",
-      "body": [
-        "Grande Premio informa que Alpine, Audi y Racing Bulls montaron componentes nuevos de la unidad de potencia, lo que genera sanciones de parrilla.",
-        "Lindblad pasa del 9º al 14º lugar. Bortoleto sale último, según Motorsport.com, y Colapinto aparece 21º.",
-        "El efecto se siente en toda la parrilla: Lawson sube al 9º y Checo gana dos puestos.",
-        "Lo que hay que observar: cuántos pilotos sancionados entran a puntos."
-      ],
-      "source": "Grande Premio",
-      "url": "https://grandepremio.com/es/f1/sanciones-a-tres-pilotos-cambian-la-parrilla-de-salida-del-gp-de-estados-unidos-de-f1/"
-    },
-    {
-      "id": "horarios-gp-estados-unidos-austin",
+      "id": "horarios-gp-mexico-2026",
       "cat": "carrera",
-      "date": "2026-10-12",
-      "title": "GP de Estados Unidos: horarios en México, Colombia y Argentina",
-      "summary": "Austin recibe a la F1 del 23 al 25 de octubre, sin sprint. La carrera es el domingo a las 14:00 en el centro de México.",
+      "date": "2026-10-26",
+      "title": "GP de México: horarios en México, Colombia y Argentina",
+      "summary": "La F1 corre en la Ciudad de México del 30 de octubre al 1 de noviembre; la carrera es el domingo a las 14:00 en el centro de México.",
       "body": [
-        "Horarios locales de Austin (UTC−5) según F1.com; conversión desde UTC.",
-        "Viernes 23: práctica 1 a las 12:30 locales (11:30 centro de México, 12:30 Colombia/Ecuador/Perú, 14:30 Argentina) y práctica 2 a las 16:00 (15:00, 16:00 y 18:00).",
-        "Sábado 24: práctica 3 a las 12:30 (11:30, 12:30 y 14:30) y clasificación a las 16:00 (15:00, 16:00 y 18:00).",
-        "Domingo 25: carrera a las 15:00 locales, es decir 14:00 en el centro de México, 15:00 en Colombia, Ecuador y Perú, y 17:00 en Argentina. Son 56 vueltas o 120 minutos como máximo.",
-        "Lo que hay que observar: F1 aclara que el calendario puede cambiar."
+        "Horarios según lo publicado por Sport Flash, convertidos desde UTC (centro de México / Colombia, Ecuador y Perú / Argentina).",
+        "Viernes 30: práctica 1 a las 12:30 / 13:30 / 15:30 y práctica 2 a las 16:00 / 17:00 / 19:00.",
+        "Sábado 31: práctica 3 a las 11:30 / 12:30 / 14:30 y clasificación a las 15:00 / 16:00 / 18:00.",
+        "Domingo 1 de noviembre: carrera a las 14:00 / 15:00 / 17:00, a 71 vueltas del Autódromo Hermanos Rodríguez (4.304 km).",
+        "Lo que hay que observar: confirma los horarios en F1.com, porque pueden cambiar."
       ],
-      "source": "Formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/formula-1-msc-cruises-united-states-grand-prix-2026.2u6li2pzNhPzL3TSYaagrm"
+      "source": "Sport Flash",
+      "url": "https://www.sport-flash.com/sports/f1/mx/events/campeonato-mundial-de-formula-1-2026/gran-premio-de-mexico"
     }
   ]
 }
