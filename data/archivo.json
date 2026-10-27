@@ -1,6 +1,78 @@
 {
   "articles": [
     {
+      "id": "antonelli-gana-austin-aplaza-titulo",
+      "cat": "carrera",
+      "date": "2026-10-26",
+      "title": "Antonelli gana en Austin, pero aplaza su título",
+      "summary": "Kimi Antonelli ganó desde la pole en el GP de Estados Unidos, pero Russell y Hamilton sumaron lo justo para evitar su coronación.",
+      "body": [
+        "Kimi Antonelli (Mercedes) ganó las 56 vueltas del GP de Estados Unidos tras partir desde la pole. Hizo una sola parada, mientras que Verstappen necesitó dos.",
+        "Para ser campeón en Austin necesitaba ganar, que George Russell terminara noveno o peor y que Lewis Hamilton fuera quinto o peor. Russell fue octavo y Hamilton cuarto, así que la definición se mueve a Ciudad de México.",
+        "Según lo publicado, su ventaja es de 123 puntos sobre Russell y 124 sobre Hamilton, con 125 aún en juego. Varias fuentes indican que le bastaría un noveno lugar en México.",
+        "Lo que hay que observar: el GP de la Ciudad de México, el 1 de noviembre, donde puede cerrar el campeonato."
+      ],
+      "source": "Sky Sports",
+      "url": "https://www.skysports.com/f1/news/13603603/united-states-gp-kimi-antonelli-wins-austin-race-to-move-to-brink-of-f1-world-title-after-dominant-drive",
+      "img": "img/noticias/antonelli-ventaja-84.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Kimi Antonelli celebrando"
+    },
+    {
+      "id": "leclerc-verstappen-podio-austin",
+      "cat": "carrera",
+      "date": "2026-10-26",
+      "title": "Leclerc y Verstappen completan el podio en Austin",
+      "summary": "Leclerc fue segundo a 13.078 s de Antonelli y superó a Verstappen, tercero a 17.485 s.",
+      "body": [
+        "Charles Leclerc (Ferrari) terminó segundo, a 13.078 s del ganador. Max Verstappen (Red Bull) fue tercero, a 17.485 s, con una estrategia de dos paradas.",
+        "Según la crónica de F1.com, Leclerc pasó a Verstappen en la parte final para quedarse con el segundo lugar.",
+        "Detrás llegaron Lewis Hamilton (cuarto), Lando Norris (quinto), Isack Hadjar (sexto), Oscar Piastri (séptimo), George Russell (octavo), Liam Lawson (noveno) y Pierre Gasly (décimo).",
+        "Lo que hay que observar: Norris logró el quinto puesto con una sola parada; la estrategia puede pesar de nuevo en la altitud de México."
+      ],
+      "source": "Formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/antonelli-surges-to-dominant-victory-in-united-states-grand-prix-ahead-of-leclerc-and-verstappen.6kmBQv9FNTW7LzkDj8S34j",
+      "img": "img/noticias/leclerc-austria.jpg",
+      "imgCredit": "Lukas Raich · CC BY-SA 4.0 · Wikimedia Commons",
+      "imgAlt": "Charles Leclerc con el Ferrari"
+    },
+    {
+      "id": "colapinto-abandona-austin-lindblad",
+      "cat": "pilotos",
+      "date": "2026-10-26",
+      "title": "Colapinto abandona en Austin tras tocarse con Lindblad",
+      "summary": "El argentino había remontado posiciones, pero un contacto con Arvid Lindblad dañó su Alpine y terminó su carrera.",
+      "body": [
+        "Franco Colapinto abandonó el GP de Estados Unidos después de un incidente con Arvid Lindblad que derivó en un trompo y daños en su Alpine.",
+        "Había salido 21º por sanción y avanzó varios lugares en las primeras vueltas. Según sus declaraciones, el sidepod y el piso quedaron rotos; a su juicio lo \"hicieron sándwich\".",
+        "Las fuentes difieren en la vuelta exacta del abandono. La prensa argentina lo cuenta como su tercera deserción en cuatro carreras.",
+        "Lo que hay que observar: la reparación del auto y el ritmo de Alpine en México, donde ya pone la mira."
+      ],
+      "source": "Motorsport.com",
+      "url": "https://lat.motorsport.com/f1/news/colapinto-explica-choque-con-lindblad-en-austin/10868383/",
+      "img": "img/noticias/colapinto-13-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Franco Colapinto con el Alpine"
+    },
+    {
+      "id": "alonso-sainz-sin-puntos-austin",
+      "cat": "equipos",
+      "date": "2026-10-26",
+      "title": "Alonso y Sainz se quedan sin puntos en Austin",
+      "summary": "Alonso fue 16º con Aston Martin y Sainz 18º con Williams tras un toque en la salida.",
+      "body": [
+        "Fernando Alonso terminó 16º. Salió 12º gracias a las sanciones de otros pilotos, pero perdió terreno al arranque y el ritmo de su Aston Martin no le alcanzó para pelear por los puntos.",
+        "Carlos Sainz fue 18º con Williams. Según lo publicado, un toque inicial le costó piezas del auto y después un golpe en el muro le restó carga aerodinámica.",
+        "Un medio ubica a ambos con 7 puntos en el campeonato; el dato debe confirmarse en la tabla oficial.",
+        "Lo que hay que observar: si Williams y Aston Martin recuperan competitividad en la altitud de Ciudad de México."
+      ],
+      "source": "Mundiario",
+      "url": "https://www.mundiario.com/articulo/formula-1/alonso-resiste-sainz-hunde-austin-vuelve-retratar-limites-espanoles/20261025225618449032.html",
+      "img": "img/noticias/alonso-sainz-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Fernando Alonso con el Aston Martin"
+    },
+    {
       "id": "antonelli-pole-austin-titulo",
       "cat": "carrera",
       "date": "2026-10-25",

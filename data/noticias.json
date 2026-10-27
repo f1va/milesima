@@ -1,53 +1,102 @@
 {
-  "updated": "2026-10-26",
+  "updated": "2026-10-27",
   "hero": {
     "kicker": "Tema del día",
-    "title": "Antonelli gana en Austin y aplaza el título",
-    "summary": "Ganó desde la pole, pero Russell y Hamilton evitaron su coronación. Checo fue 19º y Colapinto abandonó.",
-    "article": "antonelli-gana-austin-aplaza-titulo",
+    "title": "Antonelli llega a México con el título al alcance",
+    "summary": "Con 365 puntos, puede coronarse el domingo. Checo cumple 300 GP y corre ante su gente con Cadillac.",
+    "article": "antonelli-titulo-mexico-escenarios",
     "topics": [
-      "leclerc-verstappen-podio-austin",
-      "checo-19-austin-mira-mexico",
-      "colapinto-abandona-austin-lindblad",
-      "alonso-sainz-sin-puntos-austin"
+      "checo-300-gp-show-run-reforma",
+      "camara-haas-2027-reemplaza-ocon",
+      "lawson-racing-bulls-2027-incertidumbre",
+      "horarios-gp-mexico-2026"
     ]
   },
   "articles": [
     {
-      "id": "antonelli-gana-austin-aplaza-titulo",
+      "id": "antonelli-titulo-mexico-escenarios",
       "cat": "carrera",
-      "date": "2026-10-26",
-      "title": "Antonelli gana en Austin, pero aplaza su título",
-      "summary": "Kimi Antonelli ganó desde la pole en el GP de Estados Unidos, pero Russell y Hamilton sumaron lo justo para evitar su coronación.",
+      "date": "2026-10-27",
+      "title": "Antonelli llega a México con el título al alcance",
+      "summary": "Con 365 puntos, el piloto de Mercedes puede ser campeón el domingo en la Ciudad de México.",
       "body": [
-        "Kimi Antonelli (Mercedes) ganó las 56 vueltas del GP de Estados Unidos tras partir desde la pole. Hizo una sola parada, mientras que Verstappen necesitó dos.",
-        "Para ser campeón en Austin necesitaba ganar, que George Russell terminara noveno o peor y que Lewis Hamilton fuera quinto o peor. Russell fue octavo y Hamilton cuarto, así que la definición se mueve a Ciudad de México.",
-        "Según lo publicado, su ventaja es de 123 puntos sobre Russell y 124 sobre Hamilton, con 125 aún en juego. Varias fuentes indican que le bastaría un noveno lugar en México.",
-        "Lo que hay que observar: el GP de la Ciudad de México, el 1 de noviembre, donde puede cerrar el campeonato."
+        "Tras el GP de Estados Unidos, Kimi Antonelli suma 365 puntos; George Russell tiene 242 y Lewis Hamilton 241, según lo publicado.",
+        "Quedan cuatro Grandes Premios y un máximo de 100 puntos tras México. Si el domingo no ganan ni Russell ni Hamilton, Antonelli sería campeón sin importar su posición, según un medio; otro indica que un noveno lugar le basta incluso si gana Russell.",
+        "Las fuentes difieren en los márgenes exactos (23 o 24 puntos contra Russell y Hamilton), así que conviene tomar las cifras con cautela hasta la confirmación oficial.",
+        "Lo que hay que observar: la salida y la estrategia de Mercedes en altura, y si Russell o Hamilton logran la victoria."
       ],
       "source": "Sky Sports",
-      "url": "https://www.skysports.com/f1/news/13603603/united-states-gp-kimi-antonelli-wins-austin-race-to-move-to-brink-of-f1-world-title-after-dominant-drive",
+      "url": "https://www.skysports.com/f1/news/13603683/kimi-antonelli-f1-title-permutations-how-mercedes-driver-can-win-2026-formula-1-drivers-championship-at-mexico-city-gp-on-sunday",
       "img": "img/noticias/antonelli-ventaja-84.jpg",
       "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
       "imgAlt": "Kimi Antonelli celebrando"
     },
     {
-      "id": "leclerc-verstappen-podio-austin",
+      "id": "checo-300-gp-show-run-reforma",
+      "cat": "pilotos",
+      "date": "2026-10-27",
+      "title": "Checo celebra sus 300 GP con un show run en Reforma",
+      "summary": "El miércoles 28 a las 10:00, Pérez conducirá el Cadillac entre la Diana Cazadora y el Ángel de la Independencia.",
+      "body": [
+        "Sergio Pérez llega a su carrera de casa con 300 Grandes Premios en la F1 y lo celebrará con un show run de Cadillac en Paseo de la Reforma.",
+        "La exhibición es el miércoles 28 de octubre a las 10:00, entre la Diana Cazadora y el Ángel de la Independencia, y es abierta al público.",
+        "Es la primera aparición pública del equipo Cadillac en México y la primera exhibición de Checo con la marca. Las autoridades anunciaron cierres viales.",
+        "Lo que hay que observar: revisa los avisos oficiales de acceso y cierres si piensas asistir."
+      ],
+      "source": "ClaroSports",
+      "url": "https://www.clarosports.com/motor/formula-1/checo-perez-celebrara-sus-300-grandes-premios-con-un-show-run-de-cadillac-en-reforma-previo-al-mexico-gp/",
+      "img": "img/noticias/checo-19-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Checo Pérez con el Cadillac"
+    },
+    {
+      "id": "camara-haas-2027-reemplaza-ocon",
+      "cat": "equipos",
+      "date": "2026-10-27",
+      "title": "Haas ficha a Rafael Câmara para 2027",
+      "summary": "El brasileño de 21 años ocupará el asiento de Esteban Ocon, quien dejará el equipo al final de 2026.",
+      "body": [
+        "Haas anunció a Rafael Câmara con contrato multianual para reemplazar a Esteban Ocon desde 2027, según lo publicado el 15 de octubre.",
+        "Câmara tiene 21 años, es parte de la academia de Ferrari y lidera la F2 a dos rondas del final. El año pasado ganó el título de F3.",
+        "Haas lo probó en privado en agosto en Portimão. La duración del contrato no se reveló y Oliver Bearman seguiría como su compañero.",
+        "Lo que hay que observar: si debuta con el título de F2 en la mano."
+      ],
+      "source": "KSL (Reuters)",
+      "url": "https://www.ksl.com/article/51636879/haas-signs-rafael-camara-to-f1-seat-to-replace-esteban-ocon"
+    },
+    {
+      "id": "lawson-racing-bulls-2027-incertidumbre",
+      "cat": "pilotos",
+      "date": "2026-10-27",
+      "title": "Lawson sigue sin saber su futuro en Racing Bulls",
+      "summary": "Tres pilotos pelean por dos asientos para 2027 y la decisión se espera tras México.",
+      "body": [
+        "Racing Bulls aún no confirma su pareja de 2027. Su jefe, Alan Permane, dijo que tres candidatos no caben en dos asientos: Liam Lawson, Arvid Lindblad y Nikola Tsolov.",
+        "Lawson dijo a inicios de octubre que esperaba una decisión en las próximas semanas. Helmut Marko afirmó que elegiría a Tsolov.",
+        "Según una nota previa, Marko situó la decisión después del GP de México; no encontré confirmación de un anuncio posterior.",
+        "Lo que hay que observar: cualquier anuncio de Red Bull durante o tras el fin de semana mexicano."
+      ],
+      "source": "PlanetF1",
+      "url": "https://www.planetf1.com/news/liam-lawson-racing-bulls-f1-2027",
+      "img": "img/noticias/lawson-china.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Liam Lawson con el Racing Bulls"
+    },
+    {
+      "id": "horarios-gp-mexico-2026",
       "cat": "carrera",
       "date": "2026-10-26",
-      "title": "Leclerc y Verstappen completan el podio en Austin",
-      "summary": "Leclerc fue segundo a 13.078 s de Antonelli y superó a Verstappen, tercero a 17.485 s.",
+      "title": "GP de México: horarios en México, Colombia y Argentina",
+      "summary": "La F1 corre en la Ciudad de México del 30 de octubre al 1 de noviembre; la carrera es el domingo a las 14:00 en el centro de México.",
       "body": [
-        "Charles Leclerc (Ferrari) terminó segundo, a 13.078 s del ganador. Max Verstappen (Red Bull) fue tercero, a 17.485 s, con una estrategia de dos paradas.",
-        "Según la crónica de F1.com, Leclerc pasó a Verstappen en la parte final para quedarse con el segundo lugar.",
-        "Detrás llegaron Lewis Hamilton (cuarto), Lando Norris (quinto), Isack Hadjar (sexto), Oscar Piastri (séptimo), George Russell (octavo), Liam Lawson (noveno) y Pierre Gasly (décimo).",
-        "Lo que hay que observar: Norris logró el quinto puesto con una sola parada; la estrategia puede pesar de nuevo en la altitud de México."
+        "Horarios según lo publicado por Sport Flash, convertidos desde UTC (centro de México / Colombia, Ecuador y Perú / Argentina).",
+        "Viernes 30: práctica 1 a las 12:30 / 13:30 / 15:30 y práctica 2 a las 16:00 / 17:00 / 19:00.",
+        "Sábado 31: práctica 3 a las 11:30 / 12:30 / 14:30 y clasificación a las 15:00 / 16:00 / 18:00.",
+        "Domingo 1 de noviembre: carrera a las 14:00 / 15:00 / 17:00, a 71 vueltas del Autódromo Hermanos Rodríguez (4.304 km).",
+        "Lo que hay que observar: confirma los horarios en F1.com, porque pueden cambiar."
       ],
-      "source": "Formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/antonelli-surges-to-dominant-victory-in-united-states-grand-prix-ahead-of-leclerc-and-verstappen.6kmBQv9FNTW7LzkDj8S34j",
-      "img": "img/noticias/leclerc-austria.jpg",
-      "imgCredit": "Lukas Raich · CC BY-SA 4.0 · Wikimedia Commons",
-      "imgAlt": "Charles Leclerc con el Ferrari"
+      "source": "Sport Flash",
+      "url": "https://www.sport-flash.com/sports/f1/mx/events/campeonato-mundial-de-formula-1-2026/gran-premio-de-mexico"
     },
     {
       "id": "checo-19-austin-mira-mexico",
@@ -66,58 +115,6 @@
       "img": "img/noticias/checo-19-sepang.jpg",
       "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
       "imgAlt": "Sergio Pérez con el Cadillac"
-    },
-    {
-      "id": "colapinto-abandona-austin-lindblad",
-      "cat": "pilotos",
-      "date": "2026-10-26",
-      "title": "Colapinto abandona en Austin tras tocarse con Lindblad",
-      "summary": "El argentino había remontado posiciones, pero un contacto con Arvid Lindblad dañó su Alpine y terminó su carrera.",
-      "body": [
-        "Franco Colapinto abandonó el GP de Estados Unidos después de un incidente con Arvid Lindblad que derivó en un trompo y daños en su Alpine.",
-        "Había salido 21º por sanción y avanzó varios lugares en las primeras vueltas. Según sus declaraciones, el sidepod y el piso quedaron rotos; a su juicio lo \"hicieron sándwich\".",
-        "Las fuentes difieren en la vuelta exacta del abandono. La prensa argentina lo cuenta como su tercera deserción en cuatro carreras.",
-        "Lo que hay que observar: la reparación del auto y el ritmo de Alpine en México, donde ya pone la mira."
-      ],
-      "source": "Motorsport.com",
-      "url": "https://lat.motorsport.com/f1/news/colapinto-explica-choque-con-lindblad-en-austin/10868383/",
-      "img": "img/noticias/colapinto-13-sepang.jpg",
-      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
-      "imgAlt": "Franco Colapinto con el Alpine"
-    },
-    {
-      "id": "alonso-sainz-sin-puntos-austin",
-      "cat": "equipos",
-      "date": "2026-10-26",
-      "title": "Alonso y Sainz se quedan sin puntos en Austin",
-      "summary": "Alonso fue 16º con Aston Martin y Sainz 18º con Williams tras un toque en la salida.",
-      "body": [
-        "Fernando Alonso terminó 16º. Salió 12º gracias a las sanciones de otros pilotos, pero perdió terreno al arranque y el ritmo de su Aston Martin no le alcanzó para pelear por los puntos.",
-        "Carlos Sainz fue 18º con Williams. Según lo publicado, un toque inicial le costó piezas del auto y después un golpe en el muro le restó carga aerodinámica.",
-        "Un medio ubica a ambos con 7 puntos en el campeonato; el dato debe confirmarse en la tabla oficial.",
-        "Lo que hay que observar: si Williams y Aston Martin recuperan competitividad en la altitud de Ciudad de México."
-      ],
-      "source": "Mundiario",
-      "url": "https://www.mundiario.com/articulo/formula-1/alonso-resiste-sainz-hunde-austin-vuelve-retratar-limites-espanoles/20261025225618449032.html",
-      "img": "img/noticias/alonso-sainz-sepang.jpg",
-      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
-      "imgAlt": "Fernando Alonso con el Aston Martin"
-    },
-    {
-      "id": "horarios-gp-mexico-2026",
-      "cat": "carrera",
-      "date": "2026-10-26",
-      "title": "GP de México: horarios en México, Colombia y Argentina",
-      "summary": "La F1 corre en la Ciudad de México del 30 de octubre al 1 de noviembre; la carrera es el domingo a las 14:00 en el centro de México.",
-      "body": [
-        "Horarios según lo publicado por Sport Flash, convertidos desde UTC (centro de México / Colombia, Ecuador y Perú / Argentina).",
-        "Viernes 30: práctica 1 a las 12:30 / 13:30 / 15:30 y práctica 2 a las 16:00 / 17:00 / 19:00.",
-        "Sábado 31: práctica 3 a las 11:30 / 12:30 / 14:30 y clasificación a las 15:00 / 16:00 / 18:00.",
-        "Domingo 1 de noviembre: carrera a las 14:00 / 15:00 / 17:00, a 71 vueltas del Autódromo Hermanos Rodríguez (4.304 km).",
-        "Lo que hay que observar: confirma los horarios en F1.com, porque pueden cambiar."
-      ],
-      "source": "Sport Flash",
-      "url": "https://www.sport-flash.com/sports/f1/mx/events/campeonato-mundial-de-formula-1-2026/gran-premio-de-mexico"
     }
   ]
 }
