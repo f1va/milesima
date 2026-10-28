@@ -1,6 +1,75 @@
 {
   "articles": [
     {
+      "id": "antonelli-titulo-mexico-escenarios",
+      "cat": "carrera",
+      "date": "2026-10-27",
+      "title": "Antonelli llega a México con el título al alcance",
+      "summary": "Con 365 puntos, el piloto de Mercedes puede ser campeón el domingo en la Ciudad de México.",
+      "body": [
+        "Tras el GP de Estados Unidos, Kimi Antonelli suma 365 puntos; George Russell tiene 242 y Lewis Hamilton 241, según lo publicado.",
+        "Quedan cuatro Grandes Premios y un máximo de 100 puntos tras México. Si el domingo no ganan ni Russell ni Hamilton, Antonelli sería campeón sin importar su posición, según un medio; otro indica que un noveno lugar le basta incluso si gana Russell.",
+        "Las fuentes difieren en los márgenes exactos (23 o 24 puntos contra Russell y Hamilton), así que conviene tomar las cifras con cautela hasta la confirmación oficial.",
+        "Lo que hay que observar: la salida y la estrategia de Mercedes en altura, y si Russell o Hamilton logran la victoria."
+      ],
+      "source": "Sky Sports",
+      "url": "https://www.skysports.com/f1/news/13603683/kimi-antonelli-f1-title-permutations-how-mercedes-driver-can-win-2026-formula-1-drivers-championship-at-mexico-city-gp-on-sunday",
+      "img": "img/noticias/antonelli-ventaja-84.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Kimi Antonelli celebrando"
+    },
+    {
+      "id": "checo-300-gp-show-run-reforma",
+      "cat": "pilotos",
+      "date": "2026-10-27",
+      "title": "Checo celebra sus 300 GP con un show run en Reforma",
+      "summary": "El miércoles 28 a las 10:00, Pérez conducirá el Cadillac entre la Diana Cazadora y el Ángel de la Independencia.",
+      "body": [
+        "Sergio Pérez llega a su carrera de casa con 300 Grandes Premios en la F1 y lo celebrará con un show run de Cadillac en Paseo de la Reforma.",
+        "La exhibición es el miércoles 28 de octubre a las 10:00, entre la Diana Cazadora y el Ángel de la Independencia, y es abierta al público.",
+        "Es la primera aparición pública del equipo Cadillac en México y la primera exhibición de Checo con la marca. Las autoridades anunciaron cierres viales.",
+        "Lo que hay que observar: revisa los avisos oficiales de acceso y cierres si piensas asistir."
+      ],
+      "source": "ClaroSports",
+      "url": "https://www.clarosports.com/motor/formula-1/checo-perez-celebrara-sus-300-grandes-premios-con-un-show-run-de-cadillac-en-reforma-previo-al-mexico-gp/",
+      "img": "img/noticias/checo-19-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Checo Pérez con el Cadillac"
+    },
+    {
+      "id": "camara-haas-2027-reemplaza-ocon",
+      "cat": "equipos",
+      "date": "2026-10-27",
+      "title": "Haas ficha a Rafael Câmara para 2027",
+      "summary": "El brasileño de 21 años ocupará el asiento de Esteban Ocon, quien dejará el equipo al final de 2026.",
+      "body": [
+        "Haas anunció a Rafael Câmara con contrato multianual para reemplazar a Esteban Ocon desde 2027, según lo publicado el 15 de octubre.",
+        "Câmara tiene 21 años, es parte de la academia de Ferrari y lidera la F2 a dos rondas del final. El año pasado ganó el título de F3.",
+        "Haas lo probó en privado en agosto en Portimão. La duración del contrato no se reveló y Oliver Bearman seguiría como su compañero.",
+        "Lo que hay que observar: si debuta con el título de F2 en la mano."
+      ],
+      "source": "KSL (Reuters)",
+      "url": "https://www.ksl.com/article/51636879/haas-signs-rafael-camara-to-f1-seat-to-replace-esteban-ocon"
+    },
+    {
+      "id": "checo-19-austin-mira-mexico",
+      "cat": "pilotos",
+      "date": "2026-10-26",
+      "title": "Checo termina 19º en Austin y mira hacia México",
+      "summary": "Sergio Pérez cruzó la meta en el lugar 19 con Cadillac y se queda sin puntos antes de su carrera de casa.",
+      "body": [
+        "Checo Pérez terminó 19º en el GP de Estados Unidos, sin puntos. Había salido desde el fondo tras caer en la Q1. Su compañero Valtteri Bottas abandonó.",
+        "Según lo publicado, el mexicano reconoció que el ritmo superó sus expectativas, aunque una parada temprana perjudicó la estrategia de Cadillac. Dijo que por momentos pudo acercarse a los Williams.",
+        "Los abandonos de Colapinto y Bearman le dieron lugares. Algunos medios lo ubican en el 18º; la mayoría coincide en el 19º.",
+        "Lo que hay que observar: cómo llega Cadillac al Autódromo Hermanos Rodríguez, donde Checo correrá ante su público."
+      ],
+      "source": "Record",
+      "url": "https://www.record.com.mx/historia/checo-perez-rescata-sensaciones-positivas-en-austin-y-ya-apunta-al-gran-premio-de-mexico-2026102602003349858",
+      "img": "img/noticias/checo-19-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Sergio Pérez con el Cadillac"
+    },
+    {
       "id": "antonelli-gana-austin-aplaza-titulo",
       "cat": "carrera",
       "date": "2026-10-26",

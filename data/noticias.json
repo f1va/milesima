@@ -1,86 +1,88 @@
 {
-  "updated": "2026-10-27",
+  "updated": "2026-10-28",
   "hero": {
     "kicker": "Tema del día",
-    "title": "Antonelli llega a México con el título al alcance",
-    "summary": "Con 365 puntos, puede coronarse el domingo. Checo cumple 300 GP y corre ante su gente con Cadillac.",
-    "article": "antonelli-titulo-mexico-escenarios",
+    "title": "Antonelli puede ser campeón con un noveno lugar",
+    "summary": "Con 365 puntos contra 242 de Russell, el domingo en México puede coronarse. Checo celebra hoy sus 300 GP en Reforma.",
+    "article": "antonelli-noveno-lugar-basta-mexico",
     "topics": [
-      "checo-300-gp-show-run-reforma",
-      "camara-haas-2027-reemplaza-ocon",
-      "lawson-racing-bulls-2027-incertidumbre",
+      "checo-show-run-cadillac-reforma-hoy",
+      "colapinto-sin-fp1-mexico-mini",
+      "alpine-sin-mejoras-cierre-2026",
       "horarios-gp-mexico-2026"
     ]
   },
   "articles": [
     {
-      "id": "antonelli-titulo-mexico-escenarios",
+      "id": "antonelli-noveno-lugar-basta-mexico",
       "cat": "carrera",
-      "date": "2026-10-27",
-      "title": "Antonelli llega a México con el título al alcance",
-      "summary": "Con 365 puntos, el piloto de Mercedes puede ser campeón el domingo en la Ciudad de México.",
+      "date": "2026-10-28",
+      "title": "Antonelli necesita un noveno lugar para ser campeón",
+      "summary": "Con 365 puntos contra 242 de Russell, el italiano puede coronarse el domingo en el Hermanos Rodríguez.",
       "body": [
-        "Tras el GP de Estados Unidos, Kimi Antonelli suma 365 puntos; George Russell tiene 242 y Lewis Hamilton 241, según lo publicado.",
-        "Quedan cuatro Grandes Premios y un máximo de 100 puntos tras México. Si el domingo no ganan ni Russell ni Hamilton, Antonelli sería campeón sin importar su posición, según un medio; otro indica que un noveno lugar le basta incluso si gana Russell.",
-        "Las fuentes difieren en los márgenes exactos (23 o 24 puntos contra Russell y Hamilton), así que conviene tomar las cifras con cautela hasta la confirmación oficial.",
-        "Lo que hay que observar: la salida y la estrategia de Mercedes en altura, y si Russell o Hamilton logran la victoria."
+        "Kimi Antonelli llega a la Ciudad de México con 365 puntos; George Russell, su compañero en Mercedes, suma 242. Quedan cinco carreras, incluida la de México.",
+        "Según lo publicado, un noveno lugar el domingo 1 de noviembre le alcanza para ser campeón sin importar lo que hagan sus rivales. Russell y Hamilton solo conservan opciones teóricas.",
+        "De coronarse, tendría 20 años y 68 días, y sería el primer italiano campeón desde Alberto Ascari en 1953, de acuerdo con los reportes.",
+        "Mercedes también podría asegurar el título de constructores en México, aunque Ferrari puede retrasar esa celebración.",
+        "Lo que hay que observar: la clasificación del sábado y si Red Bull, que según la prensa llega con mejoras, se mete en la pelea por la pole."
       ],
       "source": "Sky Sports",
       "url": "https://www.skysports.com/f1/news/13603683/kimi-antonelli-f1-title-permutations-how-mercedes-driver-can-win-2026-formula-1-drivers-championship-at-mexico-city-gp-on-sunday",
       "img": "img/noticias/antonelli-ventaja-84.jpg",
       "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
-      "imgAlt": "Kimi Antonelli celebrando"
+      "imgAlt": "Kimi Antonelli con el Mercedes"
     },
     {
-      "id": "checo-300-gp-show-run-reforma",
+      "id": "checo-show-run-cadillac-reforma-hoy",
       "cat": "pilotos",
-      "date": "2026-10-27",
-      "title": "Checo celebra sus 300 GP con un show run en Reforma",
-      "summary": "El miércoles 28 a las 10:00, Pérez conducirá el Cadillac entre la Diana Cazadora y el Ángel de la Independencia.",
+      "date": "2026-10-28",
+      "title": "Checo rueda hoy en Reforma con el Cadillac",
+      "summary": "El show run por sus 300 Grandes Premios arranca a las 10:00 en la Ciudad de México.",
       "body": [
-        "Sergio Pérez llega a su carrera de casa con 300 Grandes Premios en la F1 y lo celebrará con un show run de Cadillac en Paseo de la Reforma.",
-        "La exhibición es el miércoles 28 de octubre a las 10:00, entre la Diana Cazadora y el Ángel de la Independencia, y es abierta al público.",
-        "Es la primera aparición pública del equipo Cadillac en México y la primera exhibición de Checo con la marca. Las autoridades anunciaron cierres viales.",
-        "Lo que hay que observar: revisa los avisos oficiales de acceso y cierres si piensas asistir."
+        "Sergio Pérez celebra hoy, miércoles 28 de octubre, sus 300 Grandes Premios con el primer show run de Cadillac en la Ciudad de México.",
+        "Varios medios coinciden en que inicia a las 10:00. Según Expansión, la actividad está programada de 10:00 a 12:30; un reporte previo hablaba de un horario distinto.",
+        "El recorrido se había descrito como en evaluación, con la idea de unir el Ángel de la Independencia y la Diana Cazadora. Cadillac pidió registrarse mediante un enlace en su cuenta oficial de X.",
+        "Lo lógico es confirmar horario y ruta en esa cuenta antes de salir.",
+        "Lo que hay que observar: cómo llega Checo a su carrera de casa tras terminar 19º en Austin."
       ],
-      "source": "ClaroSports",
-      "url": "https://www.clarosports.com/motor/formula-1/checo-perez-celebrara-sus-300-grandes-premios-con-un-show-run-de-cadillac-en-reforma-previo-al-mexico-gp/",
+      "source": "Expansión",
+      "url": "https://expansion.mx/tendencias/2026/10/08/checo-perez-cadillac-cdmx-donde-verlo",
       "img": "img/noticias/checo-19-sepang.jpg",
       "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
-      "imgAlt": "Checo Pérez con el Cadillac"
+      "imgAlt": "Sergio Pérez con el Cadillac"
     },
     {
-      "id": "camara-haas-2027-reemplaza-ocon",
-      "cat": "equipos",
-      "date": "2026-10-27",
-      "title": "Haas ficha a Rafael Câmara para 2027",
-      "summary": "El brasileño de 21 años ocupará el asiento de Esteban Ocon, quien dejará el equipo al final de 2026.",
-      "body": [
-        "Haas anunció a Rafael Câmara con contrato multianual para reemplazar a Esteban Ocon desde 2027, según lo publicado el 15 de octubre.",
-        "Câmara tiene 21 años, es parte de la academia de Ferrari y lidera la F2 a dos rondas del final. El año pasado ganó el título de F3.",
-        "Haas lo probó en privado en agosto en Portimão. La duración del contrato no se reveló y Oliver Bearman seguiría como su compañero.",
-        "Lo que hay que observar: si debuta con el título de F2 en la mano."
-      ],
-      "source": "KSL (Reuters)",
-      "url": "https://www.ksl.com/article/51636879/haas-signs-rafael-camara-to-f1-seat-to-replace-esteban-ocon"
-    },
-    {
-      "id": "lawson-racing-bulls-2027-incertidumbre",
+      "id": "colapinto-sin-fp1-mexico-mini",
       "cat": "pilotos",
-      "date": "2026-10-27",
-      "title": "Lawson sigue sin saber su futuro en Racing Bulls",
-      "summary": "Tres pilotos pelean por dos asientos para 2027 y la decisión se espera tras México.",
+      "date": "2026-10-28",
+      "title": "Colapinto se pierde la FP1 en México",
+      "summary": "Alpine cederá su auto a Gabriele Minì en la primera práctica; Franco vuelve en la FP2.",
       "body": [
-        "Racing Bulls aún no confirma su pareja de 2027. Su jefe, Alan Permane, dijo que tres candidatos no caben en dos asientos: Liam Lawson, Arvid Lindblad y Nikola Tsolov.",
-        "Lawson dijo a inicios de octubre que esperaba una decisión en las próximas semanas. Helmut Marko afirmó que elegiría a Tsolov.",
-        "Según una nota previa, Marko situó la decisión después del GP de México; no encontré confirmación de un anuncio posterior.",
-        "Lo que hay que observar: cualquier anuncio de Red Bull durante o tras el fin de semana mexicano."
+        "Según lo publicado por Ámbito y A24, Franco Colapinto no saldrá a pista en la primera práctica del GP de México.",
+        "Su lugar lo ocupará el italiano Gabriele Minì, por la obligación reglamentaria de que los equipos den sesiones a pilotos con poca experiencia. Colapinto volvería en la FP2 del viernes.",
+        "Llega después de abandonar en Austin tras daños en su Alpine; Infobae lo cuenta como la tercera retirada en cuatro carreras. Suma 27 puntos y es 12º del campeonato, según ese medio.",
+        "Lo que hay que observar: cuánto ritmo puede encontrar con una sola sesión antes de la clasificación."
       ],
-      "source": "PlanetF1",
-      "url": "https://www.planetf1.com/news/liam-lawson-racing-bulls-f1-2027",
-      "img": "img/noticias/lawson-china.jpg",
+      "source": "Ámbito",
+      "url": "https://www.ambito.com/deportes/franco-colapinto-estara-ausente-la-primera-practica-del-fin-semana-alpine-quien-lo-reemplazara-n6338523",
+      "img": "img/noticias/colapinto-13-sepang.jpg",
       "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
-      "imgAlt": "Liam Lawson con el Racing Bulls"
+      "imgAlt": "Franco Colapinto con el Alpine"
+    },
+    {
+      "id": "alpine-sin-mejoras-cierre-2026",
+      "cat": "equipos",
+      "date": "2026-10-28",
+      "title": "Alpine no traería más mejoras en el cierre del año",
+      "summary": "Según la prensa argentina, Gasly y Colapinto correrán con el paquete de Austin.",
+      "body": [
+        "Infobae publicó que Alpine tomó una decisión que podría complicar el final de temporada de Pierre Gasly y Franco Colapinto.",
+        "Según lo publicado, el equipo no incorporaría más actualizaciones en las cinco fechas que quedan, por lo que ambos usarían el mismo paquete técnico de Austin. No pude confirmar el motivo con otra fuente.",
+        "Es una mala señal para un equipo que cerró la primera mitad del año con 61 puntos y sexto en constructores, según reportes de esa etapa.",
+        "Lo que hay que observar: si Alpine logra sumar con lo que tiene en la altura de México."
+      ],
+      "source": "Infobae",
+      "url": "https://www.infobae.com/deportes/2026/10/27/la-decision-de-alpine-que-podria-complicar-el-final-de-la-temporada-de-franco-colapinto-y-pierre-gasly-en-la-formula-1/"
     },
     {
       "id": "horarios-gp-mexico-2026",
@@ -99,22 +101,22 @@
       "url": "https://www.sport-flash.com/sports/f1/mx/events/campeonato-mundial-de-formula-1-2026/gran-premio-de-mexico"
     },
     {
-      "id": "checo-19-austin-mira-mexico",
+      "id": "lawson-racing-bulls-2027-incertidumbre",
       "cat": "pilotos",
-      "date": "2026-10-26",
-      "title": "Checo termina 19º en Austin y mira hacia México",
-      "summary": "Sergio Pérez cruzó la meta en el lugar 19 con Cadillac y se queda sin puntos antes de su carrera de casa.",
+      "date": "2026-10-27",
+      "title": "Lawson sigue sin saber su futuro en Racing Bulls",
+      "summary": "Tres pilotos pelean por dos asientos para 2027 y la decisión se espera tras México.",
       "body": [
-        "Checo Pérez terminó 19º en el GP de Estados Unidos, sin puntos. Había salido desde el fondo tras caer en la Q1. Su compañero Valtteri Bottas abandonó.",
-        "Según lo publicado, el mexicano reconoció que el ritmo superó sus expectativas, aunque una parada temprana perjudicó la estrategia de Cadillac. Dijo que por momentos pudo acercarse a los Williams.",
-        "Los abandonos de Colapinto y Bearman le dieron lugares. Algunos medios lo ubican en el 18º; la mayoría coincide en el 19º.",
-        "Lo que hay que observar: cómo llega Cadillac al Autódromo Hermanos Rodríguez, donde Checo correrá ante su público."
+        "Racing Bulls aún no confirma su pareja de 2027. Su jefe, Alan Permane, dijo que tres candidatos no caben en dos asientos: Liam Lawson, Arvid Lindblad y Nikola Tsolov.",
+        "Lawson dijo a inicios de octubre que esperaba una decisión en las próximas semanas. Helmut Marko afirmó que elegiría a Tsolov.",
+        "Según una nota previa, Marko situó la decisión después del GP de México; no encontré confirmación de un anuncio posterior.",
+        "Lo que hay que observar: cualquier anuncio de Red Bull durante o tras el fin de semana mexicano."
       ],
-      "source": "Record",
-      "url": "https://www.record.com.mx/historia/checo-perez-rescata-sensaciones-positivas-en-austin-y-ya-apunta-al-gran-premio-de-mexico-2026102602003349858",
-      "img": "img/noticias/checo-19-sepang.jpg",
+      "source": "PlanetF1",
+      "url": "https://www.planetf1.com/news/liam-lawson-racing-bulls-f1-2027",
+      "img": "img/noticias/lawson-china.jpg",
       "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
-      "imgAlt": "Sergio Pérez con el Cadillac"
+      "imgAlt": "Liam Lawson con el Racing Bulls"
     }
   ]
 }
