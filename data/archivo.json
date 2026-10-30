@@ -1,6 +1,76 @@
 {
   "articles": [
     {
+      "id": "checo-show-run-cadillac-reforma-hoy",
+      "cat": "pilotos",
+      "date": "2026-10-28",
+      "title": "Checo rueda hoy en Reforma con el Cadillac",
+      "summary": "El show run por sus 300 Grandes Premios arranca a las 10:00 en la Ciudad de México.",
+      "body": [
+        "Sergio Pérez celebra hoy, miércoles 28 de octubre, sus 300 Grandes Premios con el primer show run de Cadillac en la Ciudad de México.",
+        "Varios medios coinciden en que inicia a las 10:00. Según Expansión, la actividad está programada de 10:00 a 12:30; un reporte previo hablaba de un horario distinto.",
+        "El recorrido se había descrito como en evaluación, con la idea de unir el Ángel de la Independencia y la Diana Cazadora. Cadillac pidió registrarse mediante un enlace en su cuenta oficial de X.",
+        "Lo lógico es confirmar horario y ruta en esa cuenta antes de salir.",
+        "Lo que hay que observar: cómo llega Checo a su carrera de casa tras terminar 19º en Austin."
+      ],
+      "source": "Expansión",
+      "url": "https://expansion.mx/tendencias/2026/10/08/checo-perez-cadillac-cdmx-donde-verlo",
+      "img": "img/noticias/checo-19-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Sergio Pérez con el Cadillac"
+    },
+    {
+      "id": "colapinto-sin-fp1-mexico-mini",
+      "cat": "pilotos",
+      "date": "2026-10-28",
+      "title": "Colapinto se pierde la FP1 en México",
+      "summary": "Alpine cederá su auto a Gabriele Minì en la primera práctica; Franco vuelve en la FP2.",
+      "body": [
+        "Según lo publicado por Ámbito y A24, Franco Colapinto no saldrá a pista en la primera práctica del GP de México.",
+        "Su lugar lo ocupará el italiano Gabriele Minì, por la obligación reglamentaria de que los equipos den sesiones a pilotos con poca experiencia. Colapinto volvería en la FP2 del viernes.",
+        "Llega después de abandonar en Austin tras daños en su Alpine; Infobae lo cuenta como la tercera retirada en cuatro carreras. Suma 27 puntos y es 12º del campeonato, según ese medio.",
+        "Lo que hay que observar: cuánto ritmo puede encontrar con una sola sesión antes de la clasificación."
+      ],
+      "source": "Ámbito",
+      "url": "https://www.ambito.com/deportes/franco-colapinto-estara-ausente-la-primera-practica-del-fin-semana-alpine-quien-lo-reemplazara-n6338523",
+      "img": "img/noticias/colapinto-13-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Franco Colapinto con el Alpine"
+    },
+    {
+      "id": "alpine-sin-mejoras-cierre-2026",
+      "cat": "equipos",
+      "date": "2026-10-28",
+      "title": "Alpine no traería más mejoras en el cierre del año",
+      "summary": "Según la prensa argentina, Gasly y Colapinto correrán con el paquete de Austin.",
+      "body": [
+        "Infobae publicó que Alpine tomó una decisión que podría complicar el final de temporada de Pierre Gasly y Franco Colapinto.",
+        "Según lo publicado, el equipo no incorporaría más actualizaciones en las cinco fechas que quedan, por lo que ambos usarían el mismo paquete técnico de Austin. No pude confirmar el motivo con otra fuente.",
+        "Es una mala señal para un equipo que cerró la primera mitad del año con 61 puntos y sexto en constructores, según reportes de esa etapa.",
+        "Lo que hay que observar: si Alpine logra sumar con lo que tiene en la altura de México."
+      ],
+      "source": "Infobae",
+      "url": "https://www.infobae.com/deportes/2026/10/27/la-decision-de-alpine-que-podria-complicar-el-final-de-la-temporada-de-franco-colapinto-y-pierre-gasly-en-la-formula-1/"
+    },
+    {
+      "id": "lawson-racing-bulls-2027-incertidumbre",
+      "cat": "pilotos",
+      "date": "2026-10-27",
+      "title": "Lawson sigue sin saber su futuro en Racing Bulls",
+      "summary": "Tres pilotos pelean por dos asientos para 2027 y la decisión se espera tras México.",
+      "body": [
+        "Racing Bulls aún no confirma su pareja de 2027. Su jefe, Alan Permane, dijo que tres candidatos no caben en dos asientos: Liam Lawson, Arvid Lindblad y Nikola Tsolov.",
+        "Lawson dijo a inicios de octubre que esperaba una decisión en las próximas semanas. Helmut Marko afirmó que elegiría a Tsolov.",
+        "Según una nota previa, Marko situó la decisión después del GP de México; no encontré confirmación de un anuncio posterior.",
+        "Lo que hay que observar: cualquier anuncio de Red Bull durante o tras el fin de semana mexicano."
+      ],
+      "source": "PlanetF1",
+      "url": "https://www.planetf1.com/news/liam-lawson-racing-bulls-f1-2027",
+      "img": "img/noticias/lawson-china.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Liam Lawson con el Racing Bulls"
+    },
+    {
       "id": "antonelli-titulo-mexico-escenarios",
       "cat": "carrera",
       "date": "2026-10-27",
