@@ -1,6 +1,75 @@
 {
   "articles": [
     {
+      "id": "checo-show-run-reforma-realizado",
+      "cat": "pilotos",
+      "date": "2026-10-30",
+      "title": "Checo ya rodó por Reforma con el Cadillac",
+      "summary": "El primer show run de Cadillac en la capital se realizó el miércoles entre la Diana Cazadora y el Ángel.",
+      "body": [
+        "El miércoles 28 de octubre Checo Pérez condujo el Cadillac por Paseo de la Reforma, como parte de la celebración de sus 300 Grandes Premios.",
+        "El recorrido fue entre la Glorieta de la Diana Cazadora y el Ángel de la Independencia, con ventana programada de 10:00 a 12:30, según Uno TV.",
+        "La jefa de Gobierno, Clara Brugada, participó en el corte de listón. Al final, el mexicano hizo derrapes y un par de vueltas, de acuerdo con la cobertura.",
+        "Fue su cuarto show run en México, según lo publicado.",
+        "Lo que hay que observar: el paso del festejo a la pista, con la FP1 este viernes a las 12:30 (centro de México)."
+      ],
+      "source": "Uno TV",
+      "url": "https://www.unotv.com/deportes/checo-perez-corre-por-reforma-y-consiente-a-sus-fans-los-mejores-momentos-desde-cdmx/",
+      "img": "img/noticias/checo-19-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Sergio Pérez con el Cadillac"
+    },
+    {
+      "id": "colapinto-minie-fp1-mexico-alpine",
+      "cat": "pilotos",
+      "date": "2026-10-30",
+      "title": "Minì debuta en la FP1 y Colapinto espera a la FP2",
+      "summary": "Alpine cede el auto de Franco al italiano en la primera práctica de México.",
+      "body": [
+        "Alpine confirmó que Gabriele Minì conducirá el auto de Franco Colapinto en la FP1 del GP de México, su debut en una sesión de F1, según El Gráfico.",
+        "Colapinto llega tras abandonar en Austin por segunda carrera consecutiva, de acuerdo con esa misma nota.",
+        "Las fuentes consultadas no detallan el motivo del cambio; lo habitual es la regla que obliga a dar práctica a pilotos con poca experiencia, pero eso no está confirmado.",
+        "Lo que hay que observar: cuánto ritmo encuentra Franco en una sola sesión antes de la clasificación del sábado."
+      ],
+      "source": "El Gráfico",
+      "url": "https://elgrafico.com.ar/articulo/1124/103585/colapinto-se-perdera-la-fp1-en-mexico-y-espera-un-fin-de-semana-mas-sencillo-y-positivo",
+      "img": "img/noticias/colapinto-13-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Franco Colapinto con el Alpine"
+    },
+    {
+      "id": "fp1-mexico-diez-cambios-pilotos",
+      "cat": "equipos",
+      "date": "2026-10-30",
+      "title": "Una FP1 inédita: diez equipos cambian de piloto",
+      "summary": "Fornaroli sustituye a Norris en McLaren y Freddie Slater, de 18 años, debuta con Audi.",
+      "body": [
+        "Según MDZ, diez de las once escuderías alinean a un piloto distinto en la primera práctica de México.",
+        "Entre los suplentes, Leonardo Fornaroli ocupa el McLaren de Lando Norris y Freddie Slater, de 18 años, estrena fin de semana de GP con Audi.",
+        "La FP1 es de 12:30 a 13:30 en el centro de México (13:30 en Colombia, Ecuador y Perú; 15:30 en Argentina).",
+        "Al ser una sesión con muchos novatos, sus tiempos dicen poco sobre el ritmo real de los titulares.",
+        "Lo que hay que observar: la FP2, a las 16:00 (centro de México), con los pilotos titulares ya en pista."
+      ],
+      "source": "MDZ",
+      "url": "https://www.mdzol.com/deportes/2026/10/29/formula-1-en-mexico-una-fp1-inedita-con-diez-cambios-y-varias-figuras-fuera-de-pista-1991750.html"
+    },
+    {
+      "id": "mexico-clima-neumaticos-2026",
+      "cat": "tecnica",
+      "date": "2026-10-30",
+      "title": "México: fin de semana seco y neumáticos blandos",
+      "summary": "Los pronósticos apuntan a clima seco; Pirelli asigna ocho juegos de blando por piloto.",
+      "body": [
+        "Los pronósticos consultados coinciden en un fin de semana seco. Para el viernes se habla de 20% de lluvia y, para la carrera del domingo, de unos 24 °C con sol.",
+        "Cada piloto tendrá dos juegos de duro, tres de medio y ocho de blando, según F1.com. Un medio indica que Pirelli llevó sus tres compuestos más blandos: C3, C4 y C5.",
+        "Con el clima estable, los equipos podrán concentrarse en el desgaste y el graining, y la altitud del Hermanos Rodríguez seguirá limitando el enfriamiento de frenos y motores.",
+        "Los pronósticos varían entre medios y pueden cambiar.",
+        "Lo que hay que observar: cuántos pilotos arriesgan por una sola parada el domingo."
+      ],
+      "source": "PlanetF1",
+      "url": "https://www.planetf1.com/news/f1-mexico-city-weather-2026-rain-risk"
+    },
+    {
       "id": "checo-show-run-cadillac-reforma-hoy",
       "cat": "pilotos",
       "date": "2026-10-28",

@@ -1,72 +1,85 @@
 {
-  "updated": "2026-10-30",
+  "updated": "2026-10-31",
   "hero": {
     "kicker": "Tema del día",
-    "title": "Checo renueva con Cadillac hasta 2029",
-    "summary": "A dos días de su Gran Premio 300 en casa, el mexicano amplía su contrato. Antonelli, por su parte, puede ser campeón el domingo con un noveno lugar.",
-    "article": "checo-renueva-cadillac-2029",
+    "title": "Leclerc manda en México; Checo, 18º",
+    "summary": "Ferrari domina la FP2 antes de la clasificación de hoy. Antonelli puede ser campeón mañana con un noveno lugar.",
+    "article": "leclerc-domina-viernes-mexico-fp2",
     "topics": [
-      "checo-show-run-reforma-realizado",
+      "checo-18-fp2-mexico-cadillac",
+      "colapinto-16-fp2-mexico-alpine",
       "antonelli-noveno-lugar-basta-mexico",
-      "colapinto-minie-fp1-mexico-alpine",
       "horarios-gp-mexico-2026"
     ]
   },
   "articles": [
     {
-      "id": "checo-renueva-cadillac-2029",
-      "cat": "pilotos",
-      "date": "2026-10-30",
-      "title": "Checo renueva con Cadillac hasta 2029",
-      "summary": "El equipo estadounidense amplió el contrato del mexicano días antes de su Gran Premio 300.",
+      "id": "leclerc-domina-viernes-mexico-fp2",
+      "cat": "carrera",
+      "date": "2026-10-31",
+      "title": "Leclerc manda el viernes en México",
+      "summary": "El monegasco fue el más rápido de la FP2, con Norris a 0,103 s y los Mercedes de Russell y Antonelli detrás.",
       "body": [
-        "Cadillac anunció el 28 de octubre la renovación de Sergio Pérez al menos hasta 2029, según lo publicado por Fox Sports México y otros medios.",
-        "El acuerdo amplía el contrato original, que cubría hasta 2027 de acuerdo con los reportes. Algunos medios lo describen como tres temporadas más.",
-        "El anuncio llegó en la semana en que Checo disputará su carrera número 300 en la F1, este domingo 1 de noviembre en el Autódromo Hermanos Rodríguez. No encontré el comunicado completo del equipo, solo reportes que lo citan.",
-        "Lo que hay que observar: qué ritmo muestra el Cadillac en la altura de la Ciudad de México y cómo responde Checo ante su público."
+        "Charles Leclerc (Ferrari) marcó el mejor tiempo de la segunda práctica libre en el Autódromo Hermanos Rodríguez, según Motorsport.com.",
+        "Lando Norris quedó segundo, a 0,103 s. Después aparecieron George Russell y Kimi Antonelli, ambos de Mercedes, el segundo de ellos aspirante al título este domingo.",
+        "Pierre Gasly (Alpine) fue octavo, según varios medios; los tiempos exactos difieren ligeramente entre fuentes, así que conviene revisar la tabla oficial.",
+        "Lo que hay que observar: si Ferrari mantiene el ritmo con gasolina baja en la clasificación de hoy y si Mercedes responde."
       ],
-      "source": "Fox Sports México",
-      "url": "https://www.foxsports.com.mx/2026/10/28/checo-perez-renueva-cadillac-hasta-2029-gp-mexico-300-grandes-premios-video/",
-      "img": "img/noticias/checo-19-sepang.jpg",
-      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
-      "imgAlt": "Sergio Pérez con el Cadillac"
+      "source": "Motorsport.com",
+      "url": "https://espanol.motorsport.com/f1/news/leclerc-lidera-viernes-mexico-fp2-resultados-colapinto-checo-perez/10869846/",
+      "img": "img/noticias/leclerc-austria.jpg",
+      "imgCredit": "Lukas Raich · CC BY-SA 4.0 · Wikimedia Commons",
+      "imgAlt": "Charles Leclerc con el Ferrari"
     },
     {
-      "id": "checo-show-run-reforma-realizado",
+      "id": "checo-18-fp2-mexico-cadillac",
       "cat": "pilotos",
-      "date": "2026-10-30",
-      "title": "Checo ya rodó por Reforma con el Cadillac",
-      "summary": "El primer show run de Cadillac en la capital se realizó el miércoles entre la Diana Cazadora y el Ángel.",
+      "date": "2026-10-31",
+      "title": "Checo cierra el viernes en casa en el puesto 18",
+      "summary": "El mexicano quedó a 1,579 s de Leclerc en la FP2, fuera del top 15.",
       "body": [
-        "El miércoles 28 de octubre Checo Pérez condujo el Cadillac por Paseo de la Reforma, como parte de la celebración de sus 300 Grandes Premios.",
-        "El recorrido fue entre la Glorieta de la Diana Cazadora y el Ángel de la Independencia, con ventana programada de 10:00 a 12:30, según Uno TV.",
-        "La jefa de Gobierno, Clara Brugada, participó en el corte de listón. Al final, el mexicano hizo derrapes y un par de vueltas, de acuerdo con la cobertura.",
-        "Fue su cuarto show run en México, según lo publicado.",
-        "Lo que hay que observar: el paso del festejo a la pista, con la FP1 este viernes a las 12:30 (centro de México)."
+        "Checo Pérez terminó 18º la FP2 con Cadillac, a 1,579 s del mejor tiempo de Leclerc, de acuerdo con Carburando y Motorsport.com.",
+        "Es una posición lejana a la que busca en su Gran Premio 300, aunque la práctica del viernes rara vez refleja el ritmo de clasificación.",
+        "Lo que hay que observar: si Cadillac mejora el balance en la FP3 y logra meter a Checo en la Q2 ante su público."
       ],
-      "source": "Uno TV",
-      "url": "https://www.unotv.com/deportes/checo-perez-corre-por-reforma-y-consiente-a-sus-fans-los-mejores-momentos-desde-cdmx/",
+      "source": "Motorsport.com",
+      "url": "https://espanol.motorsport.com/f1/news/leclerc-lidera-viernes-mexico-fp2-resultados-colapinto-checo-perez/10869846/",
       "img": "img/noticias/checo-19-sepang.jpg",
       "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
-      "imgAlt": "Sergio Pérez con el Cadillac"
+      "imgAlt": "Checo Pérez con el Cadillac"
     },
     {
-      "id": "colapinto-minie-fp1-mexico-alpine",
+      "id": "colapinto-16-fp2-mexico-alpine",
       "cat": "pilotos",
-      "date": "2026-10-30",
-      "title": "Minì debuta en la FP1 y Colapinto espera a la FP2",
-      "summary": "Alpine cede el auto de Franco al italiano en la primera práctica de México.",
+      "date": "2026-10-31",
+      "title": "Colapinto fue 16º en su primera práctica en México",
+      "summary": "Con 1:19.132, el argentino quedó a 1,305 s de Leclerc; Gasly fue octavo con el otro Alpine.",
       "body": [
-        "Alpine confirmó que Gabriele Minì conducirá el auto de Franco Colapinto en la FP1 del GP de México, su debut en una sesión de F1, según El Gráfico.",
-        "Colapinto llega tras abandonar en Austin por segunda carrera consecutiva, de acuerdo con esa misma nota.",
-        "Las fuentes consultadas no detallan el motivo del cambio; lo habitual es la regla que obliga a dar práctica a pilotos con poca experiencia, pero eso no está confirmado.",
-        "Lo que hay que observar: cuánto ritmo encuentra Franco en una sola sesión antes de la clasificación del sábado."
+        "Franco Colapinto no rodó en la FP1, cedida a Gabriele Minì (14º, 1:19.946), y su primer contacto con la pista fue la FP2.",
+        "Allí firmó 1:19.132 y terminó 16º, a 1,305 s del líder, según los reportes de Carburando y Cadena 3.",
+        "Su compañero Pierre Gasly fue octavo, lo que deja a Alpine con un margen de ritmo por explorar.",
+        "Lo que hay que observar: si Colapinto pasa a la Q2 hoy; el propio piloto habló de que hay espacio para mejorar."
       ],
-      "source": "El Gráfico",
-      "url": "https://elgrafico.com.ar/articulo/1124/103585/colapinto-se-perdera-la-fp1-en-mexico-y-espera-un-fin-de-semana-mas-sencillo-y-positivo",
+      "source": "Carburando",
+      "url": "https://www.carburando.com/formula-1/colapinto-fp2-gran-premio-de-mexico-formula-1-id200422",
       "img": "img/noticias/colapinto-13-sepang.jpg",
       "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
       "imgAlt": "Franco Colapinto con el Alpine"
+    },
+    {
+      "id": "horarios-gp-mexico-2026",
+      "cat": "carrera",
+      "date": "2026-10-31",
+      "title": "GP de México: clasificación hoy y carrera mañana",
+      "summary": "La clasificación es hoy a las 15:00 en el centro de México y la carrera, el domingo a las 14:00.",
+      "body": [
+        "Horarios desde UTC (centro de México / Colombia, Ecuador y Perú / Argentina).",
+        "Sábado 31: clasificación a las 15:00 / 16:00 / 18:00 (21:00 UTC).",
+        "Domingo 1 de noviembre: carrera a las 14:00 / 15:00 / 17:00 (20:00 UTC), a 71 vueltas del Autódromo Hermanos Rodríguez (4.304 km).",
+        "Lo que hay que observar: confirma los horarios en F1.com, porque pueden cambiar."
+      ],
+      "source": "Sport Flash",
+      "url": "https://www.sport-flash.com/sports/f1/mx/events/campeonato-mundial-de-formula-1-2026/gran-premio-de-mexico"
     },
     {
       "id": "antonelli-noveno-lugar-basta-mexico",
@@ -88,52 +101,22 @@
       "imgAlt": "Kimi Antonelli con el Mercedes"
     },
     {
-      "id": "fp1-mexico-diez-cambios-pilotos",
-      "cat": "equipos",
+      "id": "checo-renueva-cadillac-2029",
+      "cat": "pilotos",
       "date": "2026-10-30",
-      "title": "Una FP1 inédita: diez equipos cambian de piloto",
-      "summary": "Fornaroli sustituye a Norris en McLaren y Freddie Slater, de 18 años, debuta con Audi.",
+      "title": "Checo renueva con Cadillac hasta 2029",
+      "summary": "El equipo estadounidense amplió el contrato del mexicano días antes de su Gran Premio 300.",
       "body": [
-        "Según MDZ, diez de las once escuderías alinean a un piloto distinto en la primera práctica de México.",
-        "Entre los suplentes, Leonardo Fornaroli ocupa el McLaren de Lando Norris y Freddie Slater, de 18 años, estrena fin de semana de GP con Audi.",
-        "La FP1 es de 12:30 a 13:30 en el centro de México (13:30 en Colombia, Ecuador y Perú; 15:30 en Argentina).",
-        "Al ser una sesión con muchos novatos, sus tiempos dicen poco sobre el ritmo real de los titulares.",
-        "Lo que hay que observar: la FP2, a las 16:00 (centro de México), con los pilotos titulares ya en pista."
+        "Cadillac anunció el 28 de octubre la renovación de Sergio Pérez al menos hasta 2029, según lo publicado por Fox Sports México y otros medios.",
+        "El acuerdo amplía el contrato original, que cubría hasta 2027 de acuerdo con los reportes. Algunos medios lo describen como tres temporadas más.",
+        "El anuncio llegó en la semana en que Checo disputará su carrera número 300 en la F1, este domingo 1 de noviembre en el Autódromo Hermanos Rodríguez. No encontré el comunicado completo del equipo, solo reportes que lo citan.",
+        "Lo que hay que observar: qué ritmo muestra el Cadillac en la altura de la Ciudad de México y cómo responde Checo ante su público."
       ],
-      "source": "MDZ",
-      "url": "https://www.mdzol.com/deportes/2026/10/29/formula-1-en-mexico-una-fp1-inedita-con-diez-cambios-y-varias-figuras-fuera-de-pista-1991750.html"
-    },
-    {
-      "id": "mexico-clima-neumaticos-2026",
-      "cat": "tecnica",
-      "date": "2026-10-30",
-      "title": "México: fin de semana seco y neumáticos blandos",
-      "summary": "Los pronósticos apuntan a clima seco; Pirelli asigna ocho juegos de blando por piloto.",
-      "body": [
-        "Los pronósticos consultados coinciden en un fin de semana seco. Para el viernes se habla de 20% de lluvia y, para la carrera del domingo, de unos 24 °C con sol.",
-        "Cada piloto tendrá dos juegos de duro, tres de medio y ocho de blando, según F1.com. Un medio indica que Pirelli llevó sus tres compuestos más blandos: C3, C4 y C5.",
-        "Con el clima estable, los equipos podrán concentrarse en el desgaste y el graining, y la altitud del Hermanos Rodríguez seguirá limitando el enfriamiento de frenos y motores.",
-        "Los pronósticos varían entre medios y pueden cambiar.",
-        "Lo que hay que observar: cuántos pilotos arriesgan por una sola parada el domingo."
-      ],
-      "source": "PlanetF1",
-      "url": "https://www.planetf1.com/news/f1-mexico-city-weather-2026-rain-risk"
-    },
-    {
-      "id": "horarios-gp-mexico-2026",
-      "cat": "carrera",
-      "date": "2026-10-26",
-      "title": "GP de México: horarios en México, Colombia y Argentina",
-      "summary": "La F1 corre en la Ciudad de México del 30 de octubre al 1 de noviembre; la carrera es el domingo a las 14:00 en el centro de México.",
-      "body": [
-        "Horarios según lo publicado por Sport Flash, convertidos desde UTC (centro de México / Colombia, Ecuador y Perú / Argentina).",
-        "Viernes 30: práctica 1 a las 12:30 / 13:30 / 15:30 y práctica 2 a las 16:00 / 17:00 / 19:00.",
-        "Sábado 31: práctica 3 a las 11:30 / 12:30 / 14:30 y clasificación a las 15:00 / 16:00 / 18:00.",
-        "Domingo 1 de noviembre: carrera a las 14:00 / 15:00 / 17:00, a 71 vueltas del Autódromo Hermanos Rodríguez (4.304 km).",
-        "Lo que hay que observar: confirma los horarios en F1.com, porque pueden cambiar."
-      ],
-      "source": "Sport Flash",
-      "url": "https://www.sport-flash.com/sports/f1/mx/events/campeonato-mundial-de-formula-1-2026/gran-premio-de-mexico"
+      "source": "Fox Sports México",
+      "url": "https://www.foxsports.com.mx/2026/10/28/checo-perez-renueva-cadillac-hasta-2029-gp-mexico-300-grandes-premios-video/",
+      "img": "img/noticias/checo-19-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Sergio Pérez con el Cadillac"
     }
   ]
 }
