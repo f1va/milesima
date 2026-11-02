@@ -1,6 +1,93 @@
 {
   "articles": [
     {
+      "id": "leclerc-domina-viernes-mexico-fp2",
+      "cat": "carrera",
+      "date": "2026-10-31",
+      "title": "Leclerc manda el viernes en México",
+      "summary": "El monegasco fue el más rápido de la FP2, con Norris a 0,103 s y los Mercedes de Russell y Antonelli detrás.",
+      "body": [
+        "Charles Leclerc (Ferrari) marcó el mejor tiempo de la segunda práctica libre en el Autódromo Hermanos Rodríguez, según Motorsport.com.",
+        "Lando Norris quedó segundo, a 0,103 s. Después aparecieron George Russell y Kimi Antonelli, ambos de Mercedes, el segundo de ellos aspirante al título este domingo.",
+        "Pierre Gasly (Alpine) fue octavo, según varios medios; los tiempos exactos difieren ligeramente entre fuentes, así que conviene revisar la tabla oficial.",
+        "Lo que hay que observar: si Ferrari mantiene el ritmo con gasolina baja en la clasificación de hoy y si Mercedes responde."
+      ],
+      "source": "Motorsport.com",
+      "url": "https://espanol.motorsport.com/f1/news/leclerc-lidera-viernes-mexico-fp2-resultados-colapinto-checo-perez/10869846/",
+      "img": "img/noticias/leclerc-austria.jpg",
+      "imgCredit": "Lukas Raich · CC BY-SA 4.0 · Wikimedia Commons",
+      "imgAlt": "Charles Leclerc con el Ferrari"
+    },
+    {
+      "id": "checo-18-fp2-mexico-cadillac",
+      "cat": "pilotos",
+      "date": "2026-10-31",
+      "title": "Checo cierra el viernes en casa en el puesto 18",
+      "summary": "El mexicano quedó a 1,579 s de Leclerc en la FP2, fuera del top 15.",
+      "body": [
+        "Checo Pérez terminó 18º la FP2 con Cadillac, a 1,579 s del mejor tiempo de Leclerc, de acuerdo con Carburando y Motorsport.com.",
+        "Es una posición lejana a la que busca en su Gran Premio 300, aunque la práctica del viernes rara vez refleja el ritmo de clasificación.",
+        "Lo que hay que observar: si Cadillac mejora el balance en la FP3 y logra meter a Checo en la Q2 ante su público."
+      ],
+      "source": "Motorsport.com",
+      "url": "https://espanol.motorsport.com/f1/news/leclerc-lidera-viernes-mexico-fp2-resultados-colapinto-checo-perez/10869846/",
+      "img": "img/noticias/checo-19-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Checo Pérez con el Cadillac"
+    },
+    {
+      "id": "colapinto-16-fp2-mexico-alpine",
+      "cat": "pilotos",
+      "date": "2026-10-31",
+      "title": "Colapinto fue 16º en su primera práctica en México",
+      "summary": "Con 1:19.132, el argentino quedó a 1,305 s de Leclerc; Gasly fue octavo con el otro Alpine.",
+      "body": [
+        "Franco Colapinto no rodó en la FP1, cedida a Gabriele Minì (14º, 1:19.946), y su primer contacto con la pista fue la FP2.",
+        "Allí firmó 1:19.132 y terminó 16º, a 1,305 s del líder, según los reportes de Carburando y Cadena 3.",
+        "Su compañero Pierre Gasly fue octavo, lo que deja a Alpine con un margen de ritmo por explorar.",
+        "Lo que hay que observar: si Colapinto pasa a la Q2 hoy; el propio piloto habló de que hay espacio para mejorar."
+      ],
+      "source": "Carburando",
+      "url": "https://www.carburando.com/formula-1/colapinto-fp2-gran-premio-de-mexico-formula-1-id200422",
+      "img": "img/noticias/colapinto-13-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Franco Colapinto con el Alpine"
+    },
+    {
+      "id": "horarios-gp-mexico-2026",
+      "cat": "carrera",
+      "date": "2026-10-31",
+      "title": "GP de México: clasificación hoy y carrera mañana",
+      "summary": "La clasificación es hoy a las 15:00 en el centro de México y la carrera, el domingo a las 14:00.",
+      "body": [
+        "Horarios desde UTC (centro de México / Colombia, Ecuador y Perú / Argentina).",
+        "Sábado 31: clasificación a las 15:00 / 16:00 / 18:00 (21:00 UTC).",
+        "Domingo 1 de noviembre: carrera a las 14:00 / 15:00 / 17:00 (20:00 UTC), a 71 vueltas del Autódromo Hermanos Rodríguez (4.304 km).",
+        "Lo que hay que observar: confirma los horarios en F1.com, porque pueden cambiar."
+      ],
+      "source": "Sport Flash",
+      "url": "https://www.sport-flash.com/sports/f1/mx/events/campeonato-mundial-de-formula-1-2026/gran-premio-de-mexico"
+    },
+    {
+      "id": "antonelli-noveno-lugar-basta-mexico",
+      "cat": "carrera",
+      "date": "2026-10-28",
+      "title": "Antonelli necesita un noveno lugar para ser campeón",
+      "summary": "Con 365 puntos contra 242 de Russell, el italiano puede coronarse el domingo en el Hermanos Rodríguez.",
+      "body": [
+        "Kimi Antonelli llega a la Ciudad de México con 365 puntos; George Russell, su compañero en Mercedes, suma 242. Quedan cinco carreras, incluida la de México.",
+        "Según lo publicado, un noveno lugar el domingo 1 de noviembre le alcanza para ser campeón sin importar lo que hagan sus rivales. Russell y Hamilton solo conservan opciones teóricas.",
+        "De coronarse, tendría 20 años y 68 días, y sería el primer italiano campeón desde Alberto Ascari en 1953, de acuerdo con los reportes.",
+        "Mercedes también podría asegurar el título de constructores en México, aunque Ferrari puede retrasar esa celebración.",
+        "Lo que hay que observar: la clasificación del sábado y si Red Bull, que según la prensa llega con mejoras, se mete en la pelea por la pole."
+      ],
+      "source": "Sky Sports",
+      "url": "https://www.skysports.com/f1/news/13603683/kimi-antonelli-f1-title-permutations-how-mercedes-driver-can-win-2026-formula-1-drivers-championship-at-mexico-city-gp-on-sunday",
+      "img": "img/noticias/antonelli-ventaja-84.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Kimi Antonelli con el Mercedes"
+    },
+    {
       "id": "checo-show-run-reforma-realizado",
       "cat": "pilotos",
       "date": "2026-10-30",

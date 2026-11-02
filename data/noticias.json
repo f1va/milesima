@@ -1,104 +1,104 @@
 {
-  "updated": "2026-10-31",
+  "updated": "2026-11-02",
   "hero": {
     "kicker": "Tema del día",
-    "title": "Leclerc manda en México; Checo, 18º",
-    "summary": "Ferrari domina la FP2 antes de la clasificación de hoy. Antonelli puede ser campeón mañana con un noveno lugar.",
-    "article": "leclerc-domina-viernes-mexico-fp2",
+    "title": "Antonelli, campeón mundial a los 20 años",
+    "summary": "Un tercer lugar en México selló el título; Verstappen ganó, Checo fue 17º y Colapinto octavo.",
+    "article": "antonelli-campeon-mundial-mexico",
     "topics": [
-      "checo-18-fp2-mexico-cadillac",
-      "colapinto-16-fp2-mexico-alpine",
-      "antonelli-noveno-lugar-basta-mexico",
-      "horarios-gp-mexico-2026"
+      "verstappen-gana-mexico-bandera-roja",
+      "checo-17-gp-300-mexico",
+      "colapinto-octavo-mexico-sancion",
+      "horarios-gp-sao-paulo-2026"
     ]
   },
   "articles": [
     {
-      "id": "leclerc-domina-viernes-mexico-fp2",
+      "id": "antonelli-campeon-mundial-mexico",
       "cat": "carrera",
-      "date": "2026-10-31",
-      "title": "Leclerc manda el viernes en México",
-      "summary": "El monegasco fue el más rápido de la FP2, con Norris a 0,103 s y los Mercedes de Russell y Antonelli detrás.",
+      "date": "2026-11-02",
+      "title": "Antonelli, campeón del mundo a los 20 años",
+      "summary": "Un tercer lugar en el GP de México le bastó a Kimi Antonelli para asegurar el título de pilotos.",
       "body": [
-        "Charles Leclerc (Ferrari) marcó el mejor tiempo de la segunda práctica libre en el Autódromo Hermanos Rodríguez, según Motorsport.com.",
-        "Lando Norris quedó segundo, a 0,103 s. Después aparecieron George Russell y Kimi Antonelli, ambos de Mercedes, el segundo de ellos aspirante al título este domingo.",
-        "Pierre Gasly (Alpine) fue octavo, según varios medios; los tiempos exactos difieren ligeramente entre fuentes, así que conviene revisar la tabla oficial.",
-        "Lo que hay que observar: si Ferrari mantiene el ritmo con gasolina baja en la clasificación de hoy y si Mercedes responde."
+        "Kimi Antonelli se coronó campeón de la Fórmula 1 en el Gran Premio de México al terminar tercero, según lo publicado por El Tiempo y Motorsport.com. Tenía 20 años.",
+        "Le alcanzaba con un puesto entre los nueve primeros. Evitó los incidentes de una carrera con bandera roja y cruzó la meta detrás de Max Verstappen y Lewis Hamilton.",
+        "Los reportes lo describen como el campeón más joven de la historia de la categoría y el primer italiano en ganar el título desde Alberto Ascari en 1953.",
+        "Lo que hay que observar: si Mercedes cierra también el campeonato de constructores en las próximas carreras. No pude verificar su estado exacto tras México."
       ],
-      "source": "Motorsport.com",
-      "url": "https://espanol.motorsport.com/f1/news/leclerc-lidera-viernes-mexico-fp2-resultados-colapinto-checo-perez/10869846/",
-      "img": "img/noticias/leclerc-austria.jpg",
-      "imgCredit": "Lukas Raich · CC BY-SA 4.0 · Wikimedia Commons",
-      "imgAlt": "Charles Leclerc con el Ferrari"
-    },
-    {
-      "id": "checo-18-fp2-mexico-cadillac",
-      "cat": "pilotos",
-      "date": "2026-10-31",
-      "title": "Checo cierra el viernes en casa en el puesto 18",
-      "summary": "El mexicano quedó a 1,579 s de Leclerc en la FP2, fuera del top 15.",
-      "body": [
-        "Checo Pérez terminó 18º la FP2 con Cadillac, a 1,579 s del mejor tiempo de Leclerc, de acuerdo con Carburando y Motorsport.com.",
-        "Es una posición lejana a la que busca en su Gran Premio 300, aunque la práctica del viernes rara vez refleja el ritmo de clasificación.",
-        "Lo que hay que observar: si Cadillac mejora el balance en la FP3 y logra meter a Checo en la Q2 ante su público."
-      ],
-      "source": "Motorsport.com",
-      "url": "https://espanol.motorsport.com/f1/news/leclerc-lidera-viernes-mexico-fp2-resultados-colapinto-checo-perez/10869846/",
-      "img": "img/noticias/checo-19-sepang.jpg",
-      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
-      "imgAlt": "Checo Pérez con el Cadillac"
-    },
-    {
-      "id": "colapinto-16-fp2-mexico-alpine",
-      "cat": "pilotos",
-      "date": "2026-10-31",
-      "title": "Colapinto fue 16º en su primera práctica en México",
-      "summary": "Con 1:19.132, el argentino quedó a 1,305 s de Leclerc; Gasly fue octavo con el otro Alpine.",
-      "body": [
-        "Franco Colapinto no rodó en la FP1, cedida a Gabriele Minì (14º, 1:19.946), y su primer contacto con la pista fue la FP2.",
-        "Allí firmó 1:19.132 y terminó 16º, a 1,305 s del líder, según los reportes de Carburando y Cadena 3.",
-        "Su compañero Pierre Gasly fue octavo, lo que deja a Alpine con un margen de ritmo por explorar.",
-        "Lo que hay que observar: si Colapinto pasa a la Q2 hoy; el propio piloto habló de que hay espacio para mejorar."
-      ],
-      "source": "Carburando",
-      "url": "https://www.carburando.com/formula-1/colapinto-fp2-gran-premio-de-mexico-formula-1-id200422",
-      "img": "img/noticias/colapinto-13-sepang.jpg",
-      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
-      "imgAlt": "Franco Colapinto con el Alpine"
-    },
-    {
-      "id": "horarios-gp-mexico-2026",
-      "cat": "carrera",
-      "date": "2026-10-31",
-      "title": "GP de México: clasificación hoy y carrera mañana",
-      "summary": "La clasificación es hoy a las 15:00 en el centro de México y la carrera, el domingo a las 14:00.",
-      "body": [
-        "Horarios desde UTC (centro de México / Colombia, Ecuador y Perú / Argentina).",
-        "Sábado 31: clasificación a las 15:00 / 16:00 / 18:00 (21:00 UTC).",
-        "Domingo 1 de noviembre: carrera a las 14:00 / 15:00 / 17:00 (20:00 UTC), a 71 vueltas del Autódromo Hermanos Rodríguez (4.304 km).",
-        "Lo que hay que observar: confirma los horarios en F1.com, porque pueden cambiar."
-      ],
-      "source": "Sport Flash",
-      "url": "https://www.sport-flash.com/sports/f1/mx/events/campeonato-mundial-de-formula-1-2026/gran-premio-de-mexico"
-    },
-    {
-      "id": "antonelli-noveno-lugar-basta-mexico",
-      "cat": "carrera",
-      "date": "2026-10-28",
-      "title": "Antonelli necesita un noveno lugar para ser campeón",
-      "summary": "Con 365 puntos contra 242 de Russell, el italiano puede coronarse el domingo en el Hermanos Rodríguez.",
-      "body": [
-        "Kimi Antonelli llega a la Ciudad de México con 365 puntos; George Russell, su compañero en Mercedes, suma 242. Quedan cinco carreras, incluida la de México.",
-        "Según lo publicado, un noveno lugar el domingo 1 de noviembre le alcanza para ser campeón sin importar lo que hagan sus rivales. Russell y Hamilton solo conservan opciones teóricas.",
-        "De coronarse, tendría 20 años y 68 días, y sería el primer italiano campeón desde Alberto Ascari en 1953, de acuerdo con los reportes.",
-        "Mercedes también podría asegurar el título de constructores en México, aunque Ferrari puede retrasar esa celebración.",
-        "Lo que hay que observar: la clasificación del sábado y si Red Bull, que según la prensa llega con mejoras, se mete en la pelea por la pole."
-      ],
-      "source": "Sky Sports",
-      "url": "https://www.skysports.com/f1/news/13603683/kimi-antonelli-f1-title-permutations-how-mercedes-driver-can-win-2026-formula-1-drivers-championship-at-mexico-city-gp-on-sunday",
+      "source": "El Tiempo",
+      "url": "https://www.eltiempo.com/deportes/automovilismo/kimi-antonelli-gran-campeon-de-la-formula-1-en-el-gp-de-mexico-corono-su-espectacular-hazana-3597855",
       "img": "img/noticias/antonelli-ventaja-84.jpg",
       "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
-      "imgAlt": "Kimi Antonelli con el Mercedes"
+      "imgAlt": "Kimi Antonelli con Mercedes"
+    },
+    {
+      "id": "verstappen-gana-mexico-bandera-roja",
+      "cat": "carrera",
+      "date": "2026-11-02",
+      "title": "Verstappen gana en México tras una bandera roja",
+      "summary": "Max Verstappen superó a Hamilton por 0s799 en una carrera detenida unos 40 minutos.",
+      "body": [
+        "Max Verstappen ganó el Gran Premio de México con 0s799 de ventaja sobre Lewis Hamilton, de acuerdo con los reportes de medios que cubrieron la carrera.",
+        "La carrera tuvo una bandera roja de unos 40 minutos para reparar las barreras de seguridad del circuito, según lo publicado.",
+        "Antonelli completó el podio en tercer lugar y con ello aseguró el campeonato.",
+        "Lo que hay que observar: qué tan competitivo llega Verstappen a São Paulo tras este triunfo. No incluyo el resto de la clasificación porque no pude confirmarla."
+      ],
+      "source": "El Universal",
+      "url": "https://www.eluniversal.com.mx/deportes/max-verstappen-gana-el-gp-de-mexico-kimi-antonelli-es-campeon-del-mundo-en-la-f1/",
+      "img": "img/noticias/verstappen-gana-sepang.jpg",
+      "imgCredit": "Jen Ross · CC BY 2.0 · Wikimedia Commons",
+      "imgAlt": "Max Verstappen con el Red Bull"
+    },
+    {
+      "id": "checo-17-gp-300-mexico",
+      "cat": "pilotos",
+      "date": "2026-11-02",
+      "title": "Checo termina 17º en su Gran Premio 300",
+      "summary": "El mexicano cerró su carrera número 300 en la F1 fuera de los puntos en casa.",
+      "body": [
+        "Sergio Pérez acabó 17º en el Gran Premio de México, su carrera 300 en la Fórmula 1, según Motorsport.com.",
+        "Corrió con Cadillac, equipo con el que renovó hasta 2029 días antes, de acuerdo con lo publicado.",
+        "El resultado llega después de un viernes difícil, en el que había sido 18º en la FP2.",
+        "Lo que hay que observar: cómo evoluciona el Cadillac en las últimas carreras del año."
+      ],
+      "source": "Motorsport.com",
+      "url": "https://lat.motorsport.com/f1/news/antonelli-campeon-verstappen-gana-mexico-resultados-colapinto-checo-perez/10870713/",
+      "img": "img/noticias/checo-19-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Checo Pérez"
+    },
+    {
+      "id": "colapinto-octavo-mexico-sancion",
+      "cat": "pilotos",
+      "date": "2026-11-02",
+      "title": "Colapinto suma puntos en México y recibe una sanción",
+      "summary": "El argentino fue octavo con Alpine, aunque La Nación informa que fue sancionado.",
+      "body": [
+        "Franco Colapinto terminó octavo en el Gran Premio de México con Alpine, según Motorsport.com, y sumó puntos.",
+        "La Nación publicó que el piloto fue sancionado. No pude confirmar el motivo ni si la penalización cambió su posición final.",
+        "El viernes había sido 16º en la FP2, por lo que el avance en carrera fue claro.",
+        "Lo que hay que observar: el comunicado de los comisarios, para saber si el resultado oficial se mantiene."
+      ],
+      "source": "La Nación",
+      "url": "https://lanacion.com.ar/deportes/automovilismo/franco-colapinto-en-el-gran-premio-de-mexico-en-vivo-nid01112026",
+      "img": "img/noticias/colapinto-13-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Franco Colapinto con Alpine"
+    },
+    {
+      "id": "horarios-gp-sao-paulo-2026",
+      "cat": "carrera",
+      "date": "2026-11-02",
+      "title": "GP de São Paulo: horarios del 6 al 8 de noviembre",
+      "summary": "La carrera en Interlagos es el domingo 8 a las 11:00 en el centro de México.",
+      "body": [
+        "El fin de semana tiene formato tradicional en Interlagos. Los horarios locales (Brasilia, UTC-3) salen de la programación publicada por GPFans y Eurosport.",
+        "Viernes 6: FP1 a las 9:30 (México centro), 10:30 (Colombia/Ecuador/Perú) y 12:30 (Argentina); FP2 a las 13:00, 14:00 y 16:00.",
+        "Sábado 7: FP3 a las 8:30, 9:30 y 11:30; clasificación a las 12:00, 13:00 y 15:00.",
+        "Domingo 8: carrera a las 11:00 (México centro), 12:00 (Colombia/Ecuador/Perú) y 14:00 (Argentina). Los horarios pueden cambiar; confírmalos en F1.com."
+      ],
+      "source": "GPFans",
+      "url": "https://www.gpfans.com/es/f1-calendario/grande-premio-de-sao-paulo/"
     },
     {
       "id": "checo-renueva-cadillac-2029",
