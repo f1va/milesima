@@ -1,6 +1,78 @@
 {
   "articles": [
     {
+      "id": "verstappen-gana-mexico-bandera-roja",
+      "cat": "carrera",
+      "date": "2026-11-02",
+      "title": "Verstappen gana en México tras una bandera roja",
+      "summary": "Max Verstappen superó a Hamilton por 0s799 en una carrera detenida unos 40 minutos.",
+      "body": [
+        "Max Verstappen ganó el Gran Premio de México con 0s799 de ventaja sobre Lewis Hamilton, de acuerdo con los reportes de medios que cubrieron la carrera.",
+        "La carrera tuvo una bandera roja de unos 40 minutos para reparar las barreras de seguridad del circuito, según lo publicado.",
+        "Antonelli completó el podio en tercer lugar y con ello aseguró el campeonato.",
+        "Lo que hay que observar: qué tan competitivo llega Verstappen a São Paulo tras este triunfo. No incluyo el resto de la clasificación porque no pude confirmarla."
+      ],
+      "source": "El Universal",
+      "url": "https://www.eluniversal.com.mx/deportes/max-verstappen-gana-el-gp-de-mexico-kimi-antonelli-es-campeon-del-mundo-en-la-f1/",
+      "img": "img/noticias/verstappen-gana-sepang.jpg",
+      "imgCredit": "Jen Ross · CC BY 2.0 · Wikimedia Commons",
+      "imgAlt": "Max Verstappen con el Red Bull"
+    },
+    {
+      "id": "checo-17-gp-300-mexico",
+      "cat": "pilotos",
+      "date": "2026-11-02",
+      "title": "Checo termina 17º en su Gran Premio 300",
+      "summary": "El mexicano cerró su carrera número 300 en la F1 fuera de los puntos en casa.",
+      "body": [
+        "Sergio Pérez acabó 17º en el Gran Premio de México, su carrera 300 en la Fórmula 1, según Motorsport.com.",
+        "Corrió con Cadillac, equipo con el que renovó hasta 2029 días antes, de acuerdo con lo publicado.",
+        "El resultado llega después de un viernes difícil, en el que había sido 18º en la FP2.",
+        "Lo que hay que observar: cómo evoluciona el Cadillac en las últimas carreras del año."
+      ],
+      "source": "Motorsport.com",
+      "url": "https://lat.motorsport.com/f1/news/antonelli-campeon-verstappen-gana-mexico-resultados-colapinto-checo-perez/10870713/",
+      "img": "img/noticias/checo-19-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Checo Pérez"
+    },
+    {
+      "id": "colapinto-octavo-mexico-sancion",
+      "cat": "pilotos",
+      "date": "2026-11-02",
+      "title": "Colapinto suma puntos en México y recibe una sanción",
+      "summary": "El argentino fue octavo con Alpine, aunque La Nación informa que fue sancionado.",
+      "body": [
+        "Franco Colapinto terminó octavo en el Gran Premio de México con Alpine, según Motorsport.com, y sumó puntos.",
+        "La Nación publicó que el piloto fue sancionado. No pude confirmar el motivo ni si la penalización cambió su posición final.",
+        "El viernes había sido 16º en la FP2, por lo que el avance en carrera fue claro.",
+        "Lo que hay que observar: el comunicado de los comisarios, para saber si el resultado oficial se mantiene."
+      ],
+      "source": "La Nación",
+      "url": "https://lanacion.com.ar/deportes/automovilismo/franco-colapinto-en-el-gran-premio-de-mexico-en-vivo-nid01112026",
+      "img": "img/noticias/colapinto-13-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Franco Colapinto con Alpine"
+    },
+    {
+      "id": "checo-renueva-cadillac-2029",
+      "cat": "pilotos",
+      "date": "2026-10-30",
+      "title": "Checo renueva con Cadillac hasta 2029",
+      "summary": "El equipo estadounidense amplió el contrato del mexicano días antes de su Gran Premio 300.",
+      "body": [
+        "Cadillac anunció el 28 de octubre la renovación de Sergio Pérez al menos hasta 2029, según lo publicado por Fox Sports México y otros medios.",
+        "El acuerdo amplía el contrato original, que cubría hasta 2027 de acuerdo con los reportes. Algunos medios lo describen como tres temporadas más.",
+        "El anuncio llegó en la semana en que Checo disputará su carrera número 300 en la F1, este domingo 1 de noviembre en el Autódromo Hermanos Rodríguez. No encontré el comunicado completo del equipo, solo reportes que lo citan.",
+        "Lo que hay que observar: qué ritmo muestra el Cadillac en la altura de la Ciudad de México y cómo responde Checo ante su público."
+      ],
+      "source": "Fox Sports México",
+      "url": "https://www.foxsports.com.mx/2026/10/28/checo-perez-renueva-cadillac-hasta-2029-gp-mexico-300-grandes-premios-video/",
+      "img": "img/noticias/checo-19-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Sergio Pérez con el Cadillac"
+    },
+    {
       "id": "leclerc-domina-viernes-mexico-fp2",
       "cat": "carrera",
       "date": "2026-10-31",
