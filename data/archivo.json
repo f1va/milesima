@@ -1,6 +1,72 @@
 {
   "articles": [
     {
+      "id": "norris-fp1-interlagos-mclaren",
+      "cat": "carrera",
+      "date": "2026-11-07",
+      "title": "Norris abre el fin de semana de São Paulo arriba",
+      "summary": "Lando Norris marcó 1:11.717 en la FP1; Antonelli fue segundo a 82 milésimas.",
+      "body": [
+        "Lando Norris (McLaren) lideró la primera práctica libre en Interlagos con 1:11.717.",
+        "Kimi Antonelli (Mercedes) quedó a 0.082 s, Max Verstappen fue tercero y Lewis Hamilton cuarto, según la tabla de Motorsport Week.",
+        "Más atrás las diferencias crecieron: se reporta una brecha de casi dos segundos hacia el resto de la parrilla, aunque en una sesión inicial influyen mucho los programas de cada equipo.",
+        "Lo que hay que observar: si McLaren sostiene su ritmo en tandas largas, donde Mercedes parece fuerte."
+      ],
+      "source": "RacingNews365",
+      "url": "https://racingnews365.com/2026-f1-sao-paulo-grand-prix-brazil-free-practice-1-results"
+    },
+    {
+      "id": "ferrari-audi-viernes-interlagos",
+      "cat": "equipos",
+      "date": "2026-11-07",
+      "title": "Ferrari sufre y Audi pierde la FP2 en Interlagos",
+      "summary": "Hamilton y Leclerc fueron sexto y séptimo; Hülkenberg no completó vuelta, según un reporte.",
+      "body": [
+        "Ferrari tuvo dificultades en la FP2: Lewis Hamilton terminó sexto y Charles Leclerc séptimo, lejos del ritmo de Mercedes, McLaren y Red Bull.",
+        "Según un reporte publicado tras la sesión, Nico Hülkenberg no completó ni una vuelta con su Audi. No pude confirmar la causa.",
+        "Hamilton había sido cuarto en la FP1, así que Ferrari perdió terreno entre ambas prácticas.",
+        "Lo que hay que observar: el tiempo que Audi recupere para el sábado y si Ferrari ajusta el equilibrio del coche."
+      ],
+      "source": "Motorsport Week",
+      "url": "https://www.motorsportweek.com/2026/11/06/f1-2026-sao-paulo-grand-prix-fp2-results/",
+      "img": "img/noticias/hamilton-quali-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY-SA 4.0 · Wikimedia Commons",
+      "imgAlt": "Lewis Hamilton con el Ferrari"
+    },
+    {
+      "id": "antonelli-campeon-mundial-mexico",
+      "cat": "carrera",
+      "date": "2026-11-02",
+      "title": "Antonelli, campeón del mundo a los 20 años",
+      "summary": "Un tercer lugar en el GP de México le bastó a Kimi Antonelli para asegurar el título de pilotos.",
+      "body": [
+        "Kimi Antonelli se coronó campeón de la Fórmula 1 en el Gran Premio de México al terminar tercero, según lo publicado por El Tiempo y Motorsport.com. Tenía 20 años.",
+        "Le alcanzaba con un puesto entre los nueve primeros. Evitó los incidentes de una carrera con bandera roja y cruzó la meta detrás de Max Verstappen y Lewis Hamilton.",
+        "Los reportes lo describen como el campeón más joven de la historia de la categoría y el primer italiano en ganar el título desde Alberto Ascari en 1953.",
+        "Lo que hay que observar: si Mercedes cierra también el campeonato de constructores en las próximas carreras. No pude verificar su estado exacto tras México."
+      ],
+      "source": "El Tiempo",
+      "url": "https://www.eltiempo.com/deportes/automovilismo/kimi-antonelli-gran-campeon-de-la-formula-1-en-el-gp-de-mexico-corono-su-espectacular-hazana-3597855",
+      "img": "img/noticias/antonelli-ventaja-84.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Kimi Antonelli con Mercedes"
+    },
+    {
+      "id": "horarios-gp-sao-paulo-2026",
+      "cat": "carrera",
+      "date": "2026-11-07",
+      "title": "GP de São Paulo: horarios de clasificación y carrera",
+      "summary": "La carrera en Interlagos es el domingo 8 a las 11:00 en el centro de México.",
+      "body": [
+        "Quedan por disputarse FP3, clasificación y carrera. Los horarios locales (Brasilia, UTC-3) salen de la programación publicada por GPFans y Eurosport.",
+        "Sábado 7: FP3 a las 8:30 (México centro), 9:30 (Colombia/Ecuador/Perú) y 11:30 (Argentina); clasificación a las 12:00, 13:00 y 15:00.",
+        "Domingo 8: carrera a las 11:00 (México centro), 12:00 (Colombia/Ecuador/Perú) y 14:00 (Argentina).",
+        "Los horarios pueden cambiar; confírmalos en F1.com."
+      ],
+      "source": "GPFans",
+      "url": "https://www.gpfans.com/es/f1-calendario/grande-premio-de-sao-paulo/"
+    },
+    {
       "id": "verstappen-gana-mexico-bandera-roja",
       "cat": "carrera",
       "date": "2026-11-02",
