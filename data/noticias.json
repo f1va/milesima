@@ -1,136 +1,150 @@
 {
-  "updated": "2026-11-08",
+  "updated": "2026-11-10",
   "hero": {
     "kicker": "Tema del día",
-    "title": "Norris saca la pole bajo la lluvia en Interlagos",
-    "summary": "Norris marcó 1:27.470; Russell cae cinco puestos y Antonelli saldrá segundo. Checo, último; Alonso, noveno en pista.",
-    "article": "norris-pole-lluvia-interlagos",
+    "title": "Norris gana en Brasil; Mercedes, campeón",
+    "summary": "Norris ganó bajo la lluvia, Verstappen remontó al segundo lugar y Mercedes selló el título de constructores.",
+    "article": "norris-gana-brasil-mercedes-constructores",
     "topics": [
-      "russell-penalizacion-antonelli-segundo",
-      "checo-ultimo-clasificacion-interlagos",
-      "alonso-noveno-sainz-14-interlagos",
-      "horarios-carrera-sao-paulo-hoy"
+      "antonelli-lidera-mundial-390",
+      "verstappen-remonta-segundo-brasil",
+      "checo-18-brasil",
+      "mercedes-novena-corona-constructores"
     ]
   },
   "articles": [
     {
-      "id": "norris-pole-lluvia-interlagos",
+      "id": "norris-gana-brasil-mercedes-constructores",
       "cat": "carrera",
-      "date": "2026-11-08",
-      "title": "Norris saca la pole en Interlagos bajo la lluvia",
-      "summary": "Lando Norris marcó 1:27.470 y superó por 0.204 s a George Russell en una clasificación retrasada por el clima.",
+      "date": "2026-11-10",
+      "title": "Norris gana en Brasil y Mercedes se corona",
+      "summary": "Norris ganó la carrera de Interlagos bajo la lluvia y Mercedes aseguró el título de constructores con dos fechas por disputar.",
       "body": [
-        "Lando Norris (McLaren) se quedó con la pole del GP de São Paulo con un 1:27.470, según lo publicado por Motorsport.com y otros medios.",
-        "George Russell fue segundo en pista a 0.204 s y Kimi Antonelli, nuevo campeón del mundo, tercero. Después vinieron Charles Leclerc, Liam Lawson, Nico Hülkenberg, Isack Hadjar, Oliver Bearman, Fernando Alonso y Alex Albon.",
-        "La sesión se retrasó más de una hora por la lluvia, y eso mezcló el orden habitual.",
-        "Lo que hay que observar: la salida en pista mojada o con la pista secándose, y cuánto cambia la parrilla por las sanciones."
+        "Lando Norris (McLaren) ganó el GP de São Paulo en una carrera mojada y de mucho desorden. Según lo publicado, terminó 14.602 s por delante de Max Verstappen.",
+        "Verstappen remontó desde el fondo de la parrilla hasta el segundo lugar, e Isack Hadjar completó el podio para Red Bull.",
+        "Kimi Antonelli lideraba cuando hizo un trompo en la vuelta 19 y Norris tomó la punta. Antonelli terminó quinto y George Russell, cuarto: suficiente para que Mercedes sellara el campeonato de constructores.",
+        "Para Norris fue la tercera victoria de la temporada.",
+        "Lo que hay que observar: cómo responde Mercedes en las dos carreras restantes, ya sin presión por el título de equipos."
       ],
       "source": "Motorsport.com",
-      "url": "https://es.motorsport.com/f1/news/resumen-resultados-clasificacion-brasil-2026/10872659/"
+      "url": "https://es.motorsport.com/f1/news/resumen-carrera-brasil-interlagos-2026/10873020/"
     },
     {
-      "id": "russell-penalizacion-antonelli-segundo",
+      "id": "mercedes-novena-corona-constructores",
       "cat": "equipos",
-      "date": "2026-11-08",
-      "title": "Russell cae cinco puestos y Antonelli saldrá segundo",
-      "summary": "Mercedes cambió el motor de combustión del coche de Russell y la sanción adelanta a Antonelli en la parrilla.",
+      "date": "2026-11-10",
+      "title": "Mercedes suma su noveno título de constructores",
+      "summary": "Con 652 puntos, Mercedes es campeona de constructores con dos carreras por jugarse.",
       "body": [
-        "Russell cambió a su sexta unidad de combustión interna y recibió una sanción de cinco posiciones en la parrilla, según Crash.net y PlanetF1.",
-        "Con la penalización, Antonelli, tercero en pista, arrancará segundo junto a Norris, según lo publicado.",
-        "Russell dijo que Interlagos parecía un buen lugar para asumir el castigo, y recordó la remontada de Lewis Hamilton aquí en 2021.",
-        "Lo que hay que observar: la parrilla oficial definitiva y la remontada de Russell."
+        "Mercedes conquistó en São Paulo su noveno campeonato de constructores. Según Sky Sport Italia, acumula 652 puntos.",
+        "Ferrari es segunda con 510 y Red Bull tercera con 415. McLaren suma 398.",
+        "El título llegó con el cuarto puesto de Russell y el quinto de Antonelli en Interlagos.",
+        "Lo que hay que observar: la lucha por el subcampeonato entre Ferrari y Red Bull."
       ],
-      "source": "Crash.net",
-      "url": "https://www.crash.net/f1/news/1109405/1/george-russell-take-f1-grid-penalty-brazil-gp",
+      "source": "Sky Sport Italia",
+      "url": "https://sport.sky.it/formula-1/2026/11/08/classifica-f1-piloti-costruttori-2026-dopo-gp-brasile"
+    },
+    {
+      "id": "antonelli-lidera-mundial-390",
+      "cat": "pilotos",
+      "date": "2026-11-10",
+      "title": "Antonelli lidera el Mundial con 111 puntos de ventaja",
+      "summary": "Pese a un trompo en Brasil, Antonelli llega a 390 puntos y tiene a Verstappen a 111.",
+      "body": [
+        "Tras São Paulo, Kimi Antonelli encabeza el campeonato de pilotos con 390 puntos, según la tabla publicada por Band.",
+        "Max Verstappen es segundo con 279, George Russell tercero con 262, Lewis Hamilton cuarto con 261 y Charles Leclerc quinto con 251. Norris es sexto con 246.",
+        "Sky Italia informó de sanciones de 5 s posteriores a la carrera para Leclerc y Antonelli que podrían mover la tabla; la de Band no las refleja. Esa cifra no pude confirmarla en una fuente oficial.",
+        "Lo que hay que observar: la distancia con Verstappen es amplia; el título podría definirse pronto."
+      ],
+      "source": "Band",
+      "url": "https://www.band.com.br/esportes/velocidade/formula-1/classificacao-da-formula-1-apos-o-gp-de-sao-paulo",
       "img": "img/noticias/antonelli-ventaja-84.jpg",
       "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
-      "imgAlt": "Kimi Antonelli con Mercedes"
+      "imgAlt": "Kimi Antonelli en pista"
     },
     {
-      "id": "checo-ultimo-clasificacion-interlagos",
+      "id": "verstappen-remonta-segundo-brasil",
       "cat": "pilotos",
-      "date": "2026-11-08",
-      "title": "Checo saldrá desde el fondo en Interlagos",
-      "summary": "Según Publimetro, Checo Pérez quedó último en la clasificación mojada del GP de São Paulo.",
+      "date": "2026-11-10",
+      "title": "Verstappen remonta del fondo al segundo lugar",
+      "summary": "Verstappen partió desde atrás y cruzó segundo; Hadjar fue tercero.",
       "body": [
-        "Publimetro tituló que Norris fue pole y Checo quedó último en la clasificación del GP de Brasil.",
-        "Es el dato que pudimos verificar; no hallamos tiempos ni el motivo en las fuentes consultadas.",
-        "El viernes Checo había sido 20º en la FP2 con el Cadillac.",
-        "Lo que hay que observar: si la estrategia y una pista cambiante le permiten ganar posiciones desde atrás."
+        "Max Verstappen firmó una remontada en la lluvia de Interlagos: salió desde el fondo de la parrilla y terminó segundo.",
+        "Su compañero Isack Hadjar fue tercero, con lo que Red Bull colocó dos coches en el podio.",
+        "Verstappen es segundo del campeonato con 279 puntos, a 111 de Antonelli, según Band.",
+        "Lo que hay que observar: si Red Bull sostiene este ritmo en Las Vegas."
       ],
-      "source": "Publimetro",
-      "url": "https://www.publimetro.com.mx/deportes/2026/11/07/lando-norris-conquista-la-pole-en-el-gran-premio-de-brasil-bajo-la-lluvia/",
+      "source": "Informa BTL",
+      "url": "https://www.informabtl.com/norris-gana-el-gp-de-brasil-verstappen-remonta-del-fondo-al-2o/"
+    },
+    {
+      "id": "checo-18-brasil",
+      "cat": "pilotos",
+      "date": "2026-11-10",
+      "title": "Checo termina 18º en el GP de Brasil",
+      "summary": "Pérez, que salió último, terminó 18º en Interlagos.",
+      "body": [
+        "Sergio Pérez cruzó la meta en la posición 18 del GP de Brasil, según N+.",
+        "Había clasificado en el fondo de la parrilla, así que ganó posiciones, pero sin llegar a la zona de puntos.",
+        "Lo que hay que observar: si Cadillac mejora su ritmo en clasificación en Las Vegas."
+      ],
+      "source": "N+",
+      "url": "https://www.nmas.com.mx/deportes/como-quedo-checo-perez-gp-brasil-2026-hoy-resultados-carrera-f1/",
       "img": "img/noticias/checo-19-sepang.jpg",
       "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
-      "imgAlt": "Sergio Pérez con el Cadillac"
+      "imgAlt": "Checo Pérez"
     },
     {
-      "id": "alonso-noveno-sainz-14-interlagos",
+      "id": "colapinto-13-brasil",
       "cat": "pilotos",
-      "date": "2026-11-08",
-      "title": "Alonso es noveno y Sainz saldrá 14º en Brasil",
-      "summary": "Alonso clasificó noveno bajo la lluvia, mientras que Sainz arrancará decimocuarto.",
+      "date": "2026-11-10",
+      "title": "Colapinto termina 13º en Brasil",
+      "summary": "Franco Colapinto (Alpine) fue 13º en una carrera mojada y sin errores.",
       "body": [
-        "Fernando Alonso fue noveno en pista en la clasificación mojada de São Paulo, entre Bearman y Albon, según Motorsport.com.",
-        "Carlos Sainz saldrá 14º, según lo publicado.",
-        "Con la sanción a Russell, el puesto de Alonso podría mejorar una posición, pendiente de la parrilla oficial.",
-        "Lo que hay que observar: el ritmo de Alonso en carrera si llueve de nuevo."
+        "Franco Colapinto terminó 13º en Interlagos, por delante de Checo Pérez.",
+        "Según lo publicado, el piloto describió la salida como la peor de su año.",
+        "Aun así completó la carrera sin errores en pista húmeda.",
+        "Lo que hay que observar: cómo arranca Alpine el fin de semana de Las Vegas."
       ],
-      "source": "Motorsport.com",
-      "url": "https://es.motorsport.com/f1/news/resumen-resultados-clasificacion-brasil-2026/10872659/",
-      "img": "img/noticias/alonso-sainz-sepang.jpg",
-      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
-      "imgAlt": "Fernando Alonso con el Aston Martin"
-    },
-    {
-      "id": "horarios-carrera-sao-paulo-hoy",
-      "cat": "carrera",
-      "date": "2026-11-08",
-      "title": "GP de São Paulo: a qué hora es la carrera hoy",
-      "summary": "La carrera en Interlagos es hoy domingo 8 a las 11:00 en el centro de México.",
-      "body": [
-        "La carrera se disputa hoy, domingo 8 de noviembre, a las 17:00 UTC (14:00 en Brasilia).",
-        "Hora en el centro de México: 11:00. En Colombia, Ecuador y Perú: 12:00. En Argentina: 14:00.",
-        "Los horarios salen de la programación de GPFans; confírmalos en F1.com."
-      ],
-      "source": "GPFans",
-      "url": "https://www.gpfans.com/es/f1-calendario/grande-premio-de-sao-paulo/"
-    },
-    {
-      "id": "colapinto-11-checo-20-fp2-interlagos",
-      "cat": "pilotos",
-      "date": "2026-11-07",
-      "title": "Colapinto 11º y Checo 20º en la FP2 de Brasil",
-      "summary": "Según la cobertura en vivo de Motorsport.com, Franco Colapinto terminó 11º y Sergio Pérez 20º el viernes.",
-      "body": [
-        "Franco Colapinto (Alpine) fue 11º en la segunda práctica del GP de São Paulo, en lo que Motorsport.com describe como su carrera casi de local.",
-        "Sergio Pérez (Cadillac) quedó 20º en la misma sesión, según esa cobertura. No pude verificar sus tiempos exactos ni sus posiciones en la FP1.",
-        "Colapinto llega a Interlagos tras sumar puntos en México, donde terminó octavo y recibió una sanción.",
-        "Lo que hay que observar: si Alpine confirma el ritmo de Colapinto en la clasificación del sábado y si Cadillac encuentra mejoras para Checo."
-      ],
-      "source": "Motorsport.com",
-      "url": "https://espanol.motorsport.com/f1/live-text/f1-en-vivo-la-fp1-y-fp2-del-gran-premio-de-sao-paulo-de-f1-2026/1128242/",
+      "source": "Diario Jornada",
+      "url": "https://www.diariojornada.com.ar/426733/deportes/colapinto_13_gano_norris_y_mercedes_campeon_de_constructores",
       "img": "img/noticias/colapinto-13-sepang.jpg",
       "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
-      "imgAlt": "Franco Colapinto con el Alpine"
+      "imgAlt": "Franco Colapinto"
     },
     {
-      "id": "antonelli-lidera-fp2-interlagos",
-      "cat": "carrera",
-      "date": "2026-11-07",
-      "title": "Antonelli, el más rápido del viernes en Interlagos",
-      "summary": "El nuevo campeón marcó 1:10.763 en la FP2, con Norris y Verstappen a menos de tres décimas.",
+      "id": "alonso-12-sainz-19-brasil",
+      "cat": "pilotos",
+      "date": "2026-11-10",
+      "title": "Alonso 12º y Sainz 19º en São Paulo",
+      "summary": "Alonso cruzó 12º y Sainz, 19º con Williams, según Motorsport.com.",
       "body": [
-        "Kimi Antonelli, ya campeón del mundo, fue el más rápido de la segunda práctica del GP de São Paulo con 1:10.763, según lo publicado por Motorsport Week y otros medios.",
-        "Lando Norris quedó segundo a 0.253 s y Max Verstappen tercero a 0.259 s: los tres cabrían en menos de tres décimas.",
-        "En la FP1 había mandado Norris con 1:11.717, con Antonelli a 0.082 s, Verstappen tercero y Hamilton cuarto.",
-        "Lo que hay que observar: la clasificación del sábado. Los tiempos del viernes dependen del combustible y los neumáticos usados, y las fuentes difieren en algunos datos de Norris."
+        "Fernando Alonso terminó 12º en Interlagos, fuera de los puntos.",
+        "Carlos Sainz (Williams) cruzó la meta en el puesto 19.",
+        "Alonso había clasificado noveno en pista y Sainz salió 14º, por lo que ambos perdieron terreno en la carrera.",
+        "Lo que hay que observar: si recuperan posiciones en Las Vegas."
       ],
-      "source": "Motorsport Week",
-      "url": "https://www.motorsportweek.com/2026/11/06/f1-2026-sao-paulo-grand-prix-fp2-results/",
-      "img": "img/noticias/antonelli-ventaja-84.jpg",
+      "source": "Motorsport.com",
+      "url": "https://es.motorsport.com/f1/news/resumen-carrera-brasil-interlagos-2026/10873020/",
+      "img": "img/noticias/alonso-sainz-sepang.jpg",
       "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
-      "imgAlt": "Kimi Antonelli con Mercedes"
+      "imgAlt": "Alonso y Sainz"
+    },
+    {
+      "id": "horarios-gp-las-vegas",
+      "cat": "carrera",
+      "date": "2026-11-10",
+      "title": "GP de Las Vegas: a qué hora es la carrera",
+      "summary": "La carrera se corre el sábado 21 de noviembre a las 20:00 locales, es decir, 04:00 UTC del domingo.",
+      "body": [
+        "El GP de Las Vegas es el próximo, del 19 al 22 de noviembre. La carrera empieza a las 20:00 locales del sábado 21 (UTC−8), o 04:00 UTC del domingo 22.",
+        "Centro de México: sábado 21, 22:00.",
+        "Colombia, Ecuador y Perú: sábado 21, 23:00.",
+        "Argentina: domingo 22, 01:00.",
+        "Los horarios de práctica y clasificación varían entre fuentes; confírmalos en el calendario oficial."
+      ],
+      "source": "Formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/formula-1-heineken-las-vegas-grand-prix-2026.1qmWzcBwKK5hkTbYbhVC22"
     }
   ]
 }
