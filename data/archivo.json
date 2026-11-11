@@ -1,6 +1,106 @@
 {
   "articles": [
     {
+      "id": "mercedes-novena-corona-constructores",
+      "cat": "equipos",
+      "date": "2026-11-10",
+      "title": "Mercedes suma su noveno título de constructores",
+      "summary": "Con 652 puntos, Mercedes es campeona de constructores con dos carreras por jugarse.",
+      "body": [
+        "Mercedes conquistó en São Paulo su noveno campeonato de constructores. Según Sky Sport Italia, acumula 652 puntos.",
+        "Ferrari es segunda con 510 y Red Bull tercera con 415. McLaren suma 398.",
+        "El título llegó con el cuarto puesto de Russell y el quinto de Antonelli en Interlagos.",
+        "Lo que hay que observar: la lucha por el subcampeonato entre Ferrari y Red Bull."
+      ],
+      "source": "Sky Sport Italia",
+      "url": "https://sport.sky.it/formula-1/2026/11/08/classifica-f1-piloti-costruttori-2026-dopo-gp-brasile"
+    },
+    {
+      "id": "antonelli-lidera-mundial-390",
+      "cat": "pilotos",
+      "date": "2026-11-10",
+      "title": "Antonelli lidera el Mundial con 111 puntos de ventaja",
+      "summary": "Pese a un trompo en Brasil, Antonelli llega a 390 puntos y tiene a Verstappen a 111.",
+      "body": [
+        "Tras São Paulo, Kimi Antonelli encabeza el campeonato de pilotos con 390 puntos, según la tabla publicada por Band.",
+        "Max Verstappen es segundo con 279, George Russell tercero con 262, Lewis Hamilton cuarto con 261 y Charles Leclerc quinto con 251. Norris es sexto con 246.",
+        "Sky Italia informó de sanciones de 5 s posteriores a la carrera para Leclerc y Antonelli que podrían mover la tabla; la de Band no las refleja. Esa cifra no pude confirmarla en una fuente oficial.",
+        "Lo que hay que observar: la distancia con Verstappen es amplia; el título podría definirse pronto."
+      ],
+      "source": "Band",
+      "url": "https://www.band.com.br/esportes/velocidade/formula-1/classificacao-da-formula-1-apos-o-gp-de-sao-paulo",
+      "img": "img/noticias/antonelli-ventaja-84.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Kimi Antonelli en pista"
+    },
+    {
+      "id": "verstappen-remonta-segundo-brasil",
+      "cat": "pilotos",
+      "date": "2026-11-10",
+      "title": "Verstappen remonta del fondo al segundo lugar",
+      "summary": "Verstappen partió desde atrás y cruzó segundo; Hadjar fue tercero.",
+      "body": [
+        "Max Verstappen firmó una remontada en la lluvia de Interlagos: salió desde el fondo de la parrilla y terminó segundo.",
+        "Su compañero Isack Hadjar fue tercero, con lo que Red Bull colocó dos coches en el podio.",
+        "Verstappen es segundo del campeonato con 279 puntos, a 111 de Antonelli, según Band.",
+        "Lo que hay que observar: si Red Bull sostiene este ritmo en Las Vegas."
+      ],
+      "source": "Informa BTL",
+      "url": "https://www.informabtl.com/norris-gana-el-gp-de-brasil-verstappen-remonta-del-fondo-al-2o/"
+    },
+    {
+      "id": "colapinto-13-brasil",
+      "cat": "pilotos",
+      "date": "2026-11-10",
+      "title": "Colapinto termina 13º en Brasil",
+      "summary": "Franco Colapinto (Alpine) fue 13º en una carrera mojada y sin errores.",
+      "body": [
+        "Franco Colapinto terminó 13º en Interlagos, por delante de Checo Pérez.",
+        "Según lo publicado, el piloto describió la salida como la peor de su año.",
+        "Aun así completó la carrera sin errores en pista húmeda.",
+        "Lo que hay que observar: cómo arranca Alpine el fin de semana de Las Vegas."
+      ],
+      "source": "Diario Jornada",
+      "url": "https://www.diariojornada.com.ar/426733/deportes/colapinto_13_gano_norris_y_mercedes_campeon_de_constructores",
+      "img": "img/noticias/colapinto-13-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Franco Colapinto"
+    },
+    {
+      "id": "alonso-12-sainz-19-brasil",
+      "cat": "pilotos",
+      "date": "2026-11-10",
+      "title": "Alonso 12º y Sainz 19º en São Paulo",
+      "summary": "Alonso cruzó 12º y Sainz, 19º con Williams, según Motorsport.com.",
+      "body": [
+        "Fernando Alonso terminó 12º en Interlagos, fuera de los puntos.",
+        "Carlos Sainz (Williams) cruzó la meta en el puesto 19.",
+        "Alonso había clasificado noveno en pista y Sainz salió 14º, por lo que ambos perdieron terreno en la carrera.",
+        "Lo que hay que observar: si recuperan posiciones en Las Vegas."
+      ],
+      "source": "Motorsport.com",
+      "url": "https://es.motorsport.com/f1/news/resumen-carrera-brasil-interlagos-2026/10873020/",
+      "img": "img/noticias/alonso-sainz-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Alonso y Sainz"
+    },
+    {
+      "id": "horarios-gp-las-vegas",
+      "cat": "carrera",
+      "date": "2026-11-10",
+      "title": "GP de Las Vegas: a qué hora es la carrera",
+      "summary": "La carrera se corre el sábado 21 de noviembre a las 20:00 locales, es decir, 04:00 UTC del domingo.",
+      "body": [
+        "El GP de Las Vegas es el próximo, del 19 al 22 de noviembre. La carrera empieza a las 20:00 locales del sábado 21 (UTC−8), o 04:00 UTC del domingo 22.",
+        "Centro de México: sábado 21, 22:00.",
+        "Colombia, Ecuador y Perú: sábado 21, 23:00.",
+        "Argentina: domingo 22, 01:00.",
+        "Los horarios de práctica y clasificación varían entre fuentes; confírmalos en el calendario oficial."
+      ],
+      "source": "Formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/formula-1-heineken-las-vegas-grand-prix-2026.1qmWzcBwKK5hkTbYbhVC22"
+    },
+    {
       "id": "norris-pole-lluvia-interlagos",
       "cat": "carrera",
       "date": "2026-11-08",

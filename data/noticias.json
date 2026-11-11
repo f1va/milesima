@@ -1,18 +1,100 @@
 {
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "hero": {
     "kicker": "Tema del día",
-    "title": "Norris gana en Brasil; Mercedes, campeón",
-    "summary": "Norris ganó bajo la lluvia, Verstappen remontó al segundo lugar y Mercedes selló el título de constructores.",
-    "article": "norris-gana-brasil-mercedes-constructores",
+    "title": "F1 descarta Imola: final en Qatar y Abu Dabi",
+    "summary": "La F1 retiró el plan de respaldo de Imola y mantiene el cierre en Oriente Medio, según lo publicado.",
+    "article": "imola-descartado-final-oriente-medio",
     "topics": [
-      "antonelli-lidera-mundial-390",
-      "verstappen-remonta-segundo-brasil",
-      "checo-18-brasil",
-      "mercedes-novena-corona-constructores"
+      "haas-camara-2027-ocon-fuera",
+      "muere-alan-jones-campeon-1980",
+      "sanciones-brasil-leclerc-antonelli",
+      "horarios-gp-las-vegas-2026"
     ]
   },
   "articles": [
+    {
+      "id": "imola-descartado-final-oriente-medio",
+      "cat": "carrera",
+      "date": "2026-11-11",
+      "title": "F1 descarta Imola y mantiene Qatar y Abu Dabi",
+      "summary": "La F1 retiró a Imola como plan de respaldo: la temporada terminará en Qatar y Abu Dabi, según lo publicado.",
+      "body": [
+        "La F1 dio por terminada la preparación de Imola como sede alternativa para el cierre del campeonato 2026, según The Race.",
+        "La categoría considera que, por ahora, las carreras de Qatar y Abu Dabi pueden disputarse como estaba previsto.",
+        "Lo publicado indica que la F1 vigilará las evaluaciones de riesgo y que Las Vegas seguiría como opción de respaldo si hiciera falta cambiar el cierre.",
+        "Lo que hay que observar: cualquier cambio de última hora en el calendario de las últimas fechas."
+      ],
+      "source": "The Race",
+      "url": "https://www.the-race.com/formula-1/f1-stands-imola-down-what-it-means-for-2026-and-27-calendars/"
+    },
+    {
+      "id": "muere-alan-jones-campeon-1980",
+      "cat": "pilotos",
+      "date": "2026-11-11",
+      "title": "Muere Alan Jones, campeón de 1980, a los 80 años",
+      "summary": "El australiano, primer campeón de Williams, falleció el 5 de noviembre tras una breve enfermedad.",
+      "body": [
+        "Alan Jones, campeón mundial de F1 en 1980 con Williams, murió a los 80 años, según un comunicado de su familia.",
+        "Ganó 12 Grandes Premios y fue el primer campeón de la historia de Williams. Sigue siendo el último australiano en lograr el título.",
+        "En Argentina se le recuerda por su rivalidad con Carlos Reutemann, su compañero en Williams.",
+        "Stefano Domenicali y Williams le rindieron homenaje.",
+        "Lo que hay que observar: posibles homenajes en las próximas carreras."
+      ],
+      "source": "Motorsport.com",
+      "url": "https://es.motorsport.com/f1/news/fallece-alan-jones-edad/10871608/"
+    },
+    {
+      "id": "haas-camara-2027-ocon-fuera",
+      "cat": "equipos",
+      "date": "2026-11-11",
+      "title": "Haas: Câmara en 2027 y Ocon fuera",
+      "summary": "Haas confirmó la salida de Ocon al final de 2026 y a Rafael Câmara junto a Bearman en 2027.",
+      "body": [
+        "Haas anunció que Esteban Ocon dejará el equipo al terminar la temporada, según PlanetF1.",
+        "Su lugar lo ocupará Rafael Câmara, junior de Ferrari y aspirante al título de F2, que será compañero de Oliver Bearman en 2027.",
+        "Según lo publicado, Câmara firmó un contrato de varios años.",
+        "Ocon dijo que esto no es el final de su carrera en F1; su futuro sigue abierto.",
+        "Lo que hay que observar: dónde terminará Ocon y qué otros asientos quedan libres."
+      ],
+      "source": "PlanetF1",
+      "url": "https://www.planetf1.com/news/esteban-ocon-haas-f1-2027-replacement"
+    },
+    {
+      "id": "sanciones-brasil-leclerc-antonelli",
+      "cat": "carrera",
+      "date": "2026-11-11",
+      "title": "Sanciones en Brasil: Leclerc cae a octavo",
+      "summary": "Leclerc y Antonelli recibieron 5 s tras la carrera; solo Leclerc perdió posición.",
+      "body": [
+        "Los comisarios sancionaron con 5 segundos a Charles Leclerc por una maniobra con Liam Lawson. Con ello bajó del séptimo al octavo puesto y Lawson quedó séptimo.",
+        "Kimi Antonelli recibió otros 5 s por una salida peligrosa de boxes en su última parada, pero conservó el quinto lugar.",
+        "El resto del podio no cambió: Norris, Verstappen y Hadjar.",
+        "Una fuente en inglés menciona una tercera sanción de 5 s, a Oliver Bearman, que no pude confirmar.",
+        "Lo que hay que observar: el efecto de los puntos de Leclerc en la pelea por el subcampeonato de constructores."
+      ],
+      "source": "Excélsior",
+      "url": "https://www.excelsior.com.mx/deportes/antonelli-leclerc-sanciones-gp-brasil-f1",
+      "img": "img/noticias/antonelli-ventaja-84.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Kimi Antonelli en pista"
+    },
+    {
+      "id": "horarios-gp-las-vegas-2026",
+      "cat": "carrera",
+      "date": "2026-11-11",
+      "title": "GP de Las Vegas: horarios de la carrera",
+      "summary": "La carrera es el sábado 21 de noviembre, 20:00 locales: 04:00 UTC del domingo 22.",
+      "body": [
+        "El GP de Las Vegas se corre del 19 al 21 de noviembre. La carrera arranca a las 20:00 locales del sábado 21 (UTC−8), es decir, 04:00 UTC del domingo 22.",
+        "Centro de México: sábado 21, 22:00.",
+        "Colombia, Ecuador y Perú: sábado 21, 23:00.",
+        "Argentina: domingo 22, 01:00.",
+        "Los horarios de práctica y clasificación varían entre fuentes; confírmalos en el calendario oficial."
+      ],
+      "source": "Formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/formula-1-heineken-las-vegas-grand-prix-2026.1qmWzcBwKK5hkTbYbhVC22"
+    },
     {
       "id": "norris-gana-brasil-mercedes-constructores",
       "cat": "carrera",
@@ -30,54 +112,6 @@
       "url": "https://es.motorsport.com/f1/news/resumen-carrera-brasil-interlagos-2026/10873020/"
     },
     {
-      "id": "mercedes-novena-corona-constructores",
-      "cat": "equipos",
-      "date": "2026-11-10",
-      "title": "Mercedes suma su noveno título de constructores",
-      "summary": "Con 652 puntos, Mercedes es campeona de constructores con dos carreras por jugarse.",
-      "body": [
-        "Mercedes conquistó en São Paulo su noveno campeonato de constructores. Según Sky Sport Italia, acumula 652 puntos.",
-        "Ferrari es segunda con 510 y Red Bull tercera con 415. McLaren suma 398.",
-        "El título llegó con el cuarto puesto de Russell y el quinto de Antonelli en Interlagos.",
-        "Lo que hay que observar: la lucha por el subcampeonato entre Ferrari y Red Bull."
-      ],
-      "source": "Sky Sport Italia",
-      "url": "https://sport.sky.it/formula-1/2026/11/08/classifica-f1-piloti-costruttori-2026-dopo-gp-brasile"
-    },
-    {
-      "id": "antonelli-lidera-mundial-390",
-      "cat": "pilotos",
-      "date": "2026-11-10",
-      "title": "Antonelli lidera el Mundial con 111 puntos de ventaja",
-      "summary": "Pese a un trompo en Brasil, Antonelli llega a 390 puntos y tiene a Verstappen a 111.",
-      "body": [
-        "Tras São Paulo, Kimi Antonelli encabeza el campeonato de pilotos con 390 puntos, según la tabla publicada por Band.",
-        "Max Verstappen es segundo con 279, George Russell tercero con 262, Lewis Hamilton cuarto con 261 y Charles Leclerc quinto con 251. Norris es sexto con 246.",
-        "Sky Italia informó de sanciones de 5 s posteriores a la carrera para Leclerc y Antonelli que podrían mover la tabla; la de Band no las refleja. Esa cifra no pude confirmarla en una fuente oficial.",
-        "Lo que hay que observar: la distancia con Verstappen es amplia; el título podría definirse pronto."
-      ],
-      "source": "Band",
-      "url": "https://www.band.com.br/esportes/velocidade/formula-1/classificacao-da-formula-1-apos-o-gp-de-sao-paulo",
-      "img": "img/noticias/antonelli-ventaja-84.jpg",
-      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
-      "imgAlt": "Kimi Antonelli en pista"
-    },
-    {
-      "id": "verstappen-remonta-segundo-brasil",
-      "cat": "pilotos",
-      "date": "2026-11-10",
-      "title": "Verstappen remonta del fondo al segundo lugar",
-      "summary": "Verstappen partió desde atrás y cruzó segundo; Hadjar fue tercero.",
-      "body": [
-        "Max Verstappen firmó una remontada en la lluvia de Interlagos: salió desde el fondo de la parrilla y terminó segundo.",
-        "Su compañero Isack Hadjar fue tercero, con lo que Red Bull colocó dos coches en el podio.",
-        "Verstappen es segundo del campeonato con 279 puntos, a 111 de Antonelli, según Band.",
-        "Lo que hay que observar: si Red Bull sostiene este ritmo en Las Vegas."
-      ],
-      "source": "Informa BTL",
-      "url": "https://www.informabtl.com/norris-gana-el-gp-de-brasil-verstappen-remonta-del-fondo-al-2o/"
-    },
-    {
       "id": "checo-18-brasil",
       "cat": "pilotos",
       "date": "2026-11-10",
@@ -93,58 +127,6 @@
       "img": "img/noticias/checo-19-sepang.jpg",
       "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
       "imgAlt": "Checo Pérez"
-    },
-    {
-      "id": "colapinto-13-brasil",
-      "cat": "pilotos",
-      "date": "2026-11-10",
-      "title": "Colapinto termina 13º en Brasil",
-      "summary": "Franco Colapinto (Alpine) fue 13º en una carrera mojada y sin errores.",
-      "body": [
-        "Franco Colapinto terminó 13º en Interlagos, por delante de Checo Pérez.",
-        "Según lo publicado, el piloto describió la salida como la peor de su año.",
-        "Aun así completó la carrera sin errores en pista húmeda.",
-        "Lo que hay que observar: cómo arranca Alpine el fin de semana de Las Vegas."
-      ],
-      "source": "Diario Jornada",
-      "url": "https://www.diariojornada.com.ar/426733/deportes/colapinto_13_gano_norris_y_mercedes_campeon_de_constructores",
-      "img": "img/noticias/colapinto-13-sepang.jpg",
-      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
-      "imgAlt": "Franco Colapinto"
-    },
-    {
-      "id": "alonso-12-sainz-19-brasil",
-      "cat": "pilotos",
-      "date": "2026-11-10",
-      "title": "Alonso 12º y Sainz 19º en São Paulo",
-      "summary": "Alonso cruzó 12º y Sainz, 19º con Williams, según Motorsport.com.",
-      "body": [
-        "Fernando Alonso terminó 12º en Interlagos, fuera de los puntos.",
-        "Carlos Sainz (Williams) cruzó la meta en el puesto 19.",
-        "Alonso había clasificado noveno en pista y Sainz salió 14º, por lo que ambos perdieron terreno en la carrera.",
-        "Lo que hay que observar: si recuperan posiciones en Las Vegas."
-      ],
-      "source": "Motorsport.com",
-      "url": "https://es.motorsport.com/f1/news/resumen-carrera-brasil-interlagos-2026/10873020/",
-      "img": "img/noticias/alonso-sainz-sepang.jpg",
-      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
-      "imgAlt": "Alonso y Sainz"
-    },
-    {
-      "id": "horarios-gp-las-vegas",
-      "cat": "carrera",
-      "date": "2026-11-10",
-      "title": "GP de Las Vegas: a qué hora es la carrera",
-      "summary": "La carrera se corre el sábado 21 de noviembre a las 20:00 locales, es decir, 04:00 UTC del domingo.",
-      "body": [
-        "El GP de Las Vegas es el próximo, del 19 al 22 de noviembre. La carrera empieza a las 20:00 locales del sábado 21 (UTC−8), o 04:00 UTC del domingo 22.",
-        "Centro de México: sábado 21, 22:00.",
-        "Colombia, Ecuador y Perú: sábado 21, 23:00.",
-        "Argentina: domingo 22, 01:00.",
-        "Los horarios de práctica y clasificación varían entre fuentes; confírmalos en el calendario oficial."
-      ],
-      "source": "Formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/formula-1-heineken-las-vegas-grand-prix-2026.1qmWzcBwKK5hkTbYbhVC22"
     }
   ]
 }
