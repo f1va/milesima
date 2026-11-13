@@ -1,48 +1,81 @@
 {
-  "updated": "2026-11-11",
+  "updated": "2026-11-13",
   "hero": {
     "kicker": "Tema del día",
-    "title": "F1 descarta Imola: final en Qatar y Abu Dabi",
-    "summary": "La F1 retiró el plan de respaldo de Imola y mantiene el cierre en Oriente Medio, según lo publicado.",
-    "article": "imola-descartado-final-oriente-medio",
+    "title": "Honda investiga el abandono de Stroll",
+    "summary": "Honda revisará la falla del coche de Stroll antes de Las Vegas, mientras Aston Martin descarta romper con la marca.",
+    "article": "honda-investiga-stroll-antes-las-vegas",
     "topics": [
-      "haas-camara-2027-ocon-fuera",
-      "muere-alan-jones-campeon-1980",
-      "sanciones-brasil-leclerc-antonelli",
-      "horarios-gp-las-vegas-2026"
+      "aston-martin-honda-sigue-watanabe-se-retira",
+      "colapinto-vuelve-las-vegas-alpine",
+      "horarios-gp-las-vegas-2026",
+      "racing-bulls-2027-lawson-lindblad-rumor"
     ]
   },
   "articles": [
     {
-      "id": "imola-descartado-final-oriente-medio",
-      "cat": "carrera",
-      "date": "2026-11-11",
-      "title": "F1 descarta Imola y mantiene Qatar y Abu Dabi",
-      "summary": "La F1 retiró a Imola como plan de respaldo: la temporada terminará en Qatar y Abu Dabi, según lo publicado.",
+      "id": "honda-investiga-stroll-antes-las-vegas",
+      "cat": "tecnica",
+      "date": "2026-11-13",
+      "title": "Honda investiga la falla de Stroll antes de Las Vegas",
+      "summary": "Tras el 13º abandono de Stroll en la temporada, Honda promete una revisión antes del GP de Las Vegas.",
       "body": [
-        "La F1 dio por terminada la preparación de Imola como sede alternativa para el cierre del campeonato 2026, según The Race.",
-        "La categoría considera que, por ahora, las carreras de Qatar y Abu Dabi pueden disputarse como estaba previsto.",
-        "Lo publicado indica que la F1 vigilará las evaluaciones de riesgo y que Las Vegas seguiría como opción de respaldo si hiciera falta cambiar el cierre.",
-        "Lo que hay que observar: cualquier cambio de última hora en el calendario de las últimas fechas."
+        "Lance Stroll se retiró en São Paulo y sumó su abandono número 13 del año, según lo publicado por GPFans.",
+        "Shintaro Orihara, de Honda, dijo que ya saben qué falló en el coche, pero no cuál es la causa de fondo.",
+        "Por eso la marca japonesa hará una investigación a fondo antes de la siguiente carrera, la de Las Vegas.",
+        "Stroll ha dicho antes que a la unidad de potencia le faltan unos dos segundos por vuelta.",
+        "Lo que hay que observar: si Aston Martin llega a Las Vegas con una explicación concreta y sin nuevos abandonos."
       ],
-      "source": "The Race",
-      "url": "https://www.the-race.com/formula-1/f1-stands-imola-down-what-it-means-for-2026-and-27-calendars/"
+      "source": "GPFans",
+      "url": "https://www.gpfans.com/en/f1-news/1092765/f1-honda-aston-martin-fernando-alonso-investigation-lance-stroll-retirement/"
     },
     {
-      "id": "muere-alan-jones-campeon-1980",
-      "cat": "pilotos",
-      "date": "2026-11-11",
-      "title": "Muere Alan Jones, campeón de 1980, a los 80 años",
-      "summary": "El australiano, primer campeón de Williams, falleció el 5 de noviembre tras una breve enfermedad.",
+      "id": "aston-martin-honda-sigue-watanabe-se-retira",
+      "cat": "equipos",
+      "date": "2026-11-13",
+      "title": "Aston Martin sigue con Honda; Watanabe se retira",
+      "summary": "Aston Martin quiere frenar los rumores de ruptura y Honda anunció el retiro de su presidente a fin de año.",
       "body": [
-        "Alan Jones, campeón mundial de F1 en 1980 con Williams, murió a los 80 años, según un comunicado de su familia.",
-        "Ganó 12 Grandes Premios y fue el primer campeón de la historia de Williams. Sigue siendo el último australiano en lograr el título.",
-        "En Argentina se le recuerda por su rivalidad con Carlos Reutemann, su compañero en Williams.",
-        "Stefano Domenicali y Williams le rindieron homenaje.",
-        "Lo que hay que observar: posibles homenajes en las próximas carreras."
+        "Según GPFans, Aston Martin salió a desmentir que vaya a dejar su alianza de motores con Honda.",
+        "Honda Racing Corporation anunció además que su presidente y director general, Koji Watanabe, se retira al terminar 2026.",
+        "Stroll seguirá junto a Alonso en 2027, según lo publicado, y asegura que el equipo está bien posicionado a futuro.",
+        "Honda planea un rediseño en dos fases de su unidad de potencia para 2027, y podría aprovechar dos mejoras bajo el sistema de referencia ADUO de la FIA.",
+        "Lo que hay que observar: quién sustituye a Watanabe y cuánto mejora el motor en las primeras carreras de 2027."
       ],
-      "source": "Motorsport.com",
-      "url": "https://es.motorsport.com/f1/news/fallece-alan-jones-edad/10871608/"
+      "source": "GPFans",
+      "url": "https://www.gpfans.com/en/f1-news/1092086/aston-martin-honda-f1-partnership-exit-rumours-mike-krack/"
+    },
+    {
+      "id": "colapinto-vuelve-las-vegas-alpine",
+      "cat": "pilotos",
+      "date": "2026-11-13",
+      "title": "Colapinto vuelve en Las Vegas tras el descanso",
+      "summary": "Franco regresa a la pista con Alpine, 12º con 27 puntos, y quedan tres fechas.",
+      "body": [
+        "Franco Colapinto tuvo un fin de semana de descanso tras el GP de São Paulo y vuelve en Las Vegas, según Grande Prêmio.",
+        "Después correrá en Qatar y Abu Dabi, las dos últimas fechas del calendario.",
+        "Hoy el argentino es 12º del campeonato con 27 puntos, por detrás de su compañero Pierre Gasly.",
+        "Alpine es sexto en constructores con 69 puntos.",
+        "Lo que hay que observar: si Colapinto convierte el ritmo de Alpine en puntos en las tres carreras restantes."
+      ],
+      "source": "Grande Prêmio",
+      "url": "https://grandepremio.com/es/f1/colapinto-en-la-f1-2026-que-carreras-le-quedan-con-alpine/"
+    },
+    {
+      "id": "racing-bulls-2027-lawson-lindblad-rumor",
+      "cat": "equipos",
+      "date": "2026-11-13",
+      "title": "Racing Bulls: Lawson y Lindblad, favoritos para 2027",
+      "summary": "Hay versiones de que ambos seguirán, pero no vimos una confirmación oficial del equipo.",
+      "body": [
+        "Racing Bulls y Haas eran los únicos equipos sin pilotos definidos para 2027, según lo publicado.",
+        "Alan Permane, jefe del equipo, dijo que el anuncio llegaría 'en las próximas semanas'.",
+        "Ted Kravitz, de Sky, asegura que en el paddock se da por tomada la decisión de mantener a Liam Lawson y Arvid Lindblad.",
+        "Se mencionaba también al piloto de F2 Nikola Tsolov como tercera opción.",
+        "Lo que hay que observar: el comunicado oficial; hasta entonces, trátalo como rumor."
+      ],
+      "source": "F1 Oversteer",
+      "url": "https://www.f1oversteer.com/news/ted-kravitz-says-red-bull-have-finally-made-a-decision-on-liam-lawsons-racing-bulls-future/"
     },
     {
       "id": "haas-camara-2027-ocon-fuera",
@@ -61,25 +94,6 @@
       "url": "https://www.planetf1.com/news/esteban-ocon-haas-f1-2027-replacement"
     },
     {
-      "id": "sanciones-brasil-leclerc-antonelli",
-      "cat": "carrera",
-      "date": "2026-11-11",
-      "title": "Sanciones en Brasil: Leclerc cae a octavo",
-      "summary": "Leclerc y Antonelli recibieron 5 s tras la carrera; solo Leclerc perdió posición.",
-      "body": [
-        "Los comisarios sancionaron con 5 segundos a Charles Leclerc por una maniobra con Liam Lawson. Con ello bajó del séptimo al octavo puesto y Lawson quedó séptimo.",
-        "Kimi Antonelli recibió otros 5 s por una salida peligrosa de boxes en su última parada, pero conservó el quinto lugar.",
-        "El resto del podio no cambió: Norris, Verstappen y Hadjar.",
-        "Una fuente en inglés menciona una tercera sanción de 5 s, a Oliver Bearman, que no pude confirmar.",
-        "Lo que hay que observar: el efecto de los puntos de Leclerc en la pelea por el subcampeonato de constructores."
-      ],
-      "source": "Excélsior",
-      "url": "https://www.excelsior.com.mx/deportes/antonelli-leclerc-sanciones-gp-brasil-f1",
-      "img": "img/noticias/antonelli-ventaja-84.jpg",
-      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
-      "imgAlt": "Kimi Antonelli en pista"
-    },
-    {
       "id": "horarios-gp-las-vegas-2026",
       "cat": "carrera",
       "date": "2026-11-11",
@@ -94,39 +108,6 @@
       ],
       "source": "Formula1.com",
       "url": "https://www.formula1.com/en/latest/article/formula-1-heineken-las-vegas-grand-prix-2026.1qmWzcBwKK5hkTbYbhVC22"
-    },
-    {
-      "id": "norris-gana-brasil-mercedes-constructores",
-      "cat": "carrera",
-      "date": "2026-11-10",
-      "title": "Norris gana en Brasil y Mercedes se corona",
-      "summary": "Norris ganó la carrera de Interlagos bajo la lluvia y Mercedes aseguró el título de constructores con dos fechas por disputar.",
-      "body": [
-        "Lando Norris (McLaren) ganó el GP de São Paulo en una carrera mojada y de mucho desorden. Según lo publicado, terminó 14.602 s por delante de Max Verstappen.",
-        "Verstappen remontó desde el fondo de la parrilla hasta el segundo lugar, e Isack Hadjar completó el podio para Red Bull.",
-        "Kimi Antonelli lideraba cuando hizo un trompo en la vuelta 19 y Norris tomó la punta. Antonelli terminó quinto y George Russell, cuarto: suficiente para que Mercedes sellara el campeonato de constructores.",
-        "Para Norris fue la tercera victoria de la temporada.",
-        "Lo que hay que observar: cómo responde Mercedes en las dos carreras restantes, ya sin presión por el título de equipos."
-      ],
-      "source": "Motorsport.com",
-      "url": "https://es.motorsport.com/f1/news/resumen-carrera-brasil-interlagos-2026/10873020/"
-    },
-    {
-      "id": "checo-18-brasil",
-      "cat": "pilotos",
-      "date": "2026-11-10",
-      "title": "Checo termina 18º en el GP de Brasil",
-      "summary": "Pérez, que salió último, terminó 18º en Interlagos.",
-      "body": [
-        "Sergio Pérez cruzó la meta en la posición 18 del GP de Brasil, según N+.",
-        "Había clasificado en el fondo de la parrilla, así que ganó posiciones, pero sin llegar a la zona de puntos.",
-        "Lo que hay que observar: si Cadillac mejora su ritmo en clasificación en Las Vegas."
-      ],
-      "source": "N+",
-      "url": "https://www.nmas.com.mx/deportes/como-quedo-checo-perez-gp-brasil-2026-hoy-resultados-carrera-f1/",
-      "img": "img/noticias/checo-19-sepang.jpg",
-      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
-      "imgAlt": "Checo Pérez"
     }
   ]
 }

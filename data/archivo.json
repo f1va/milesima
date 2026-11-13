@@ -1,6 +1,89 @@
 {
   "articles": [
     {
+      "id": "imola-descartado-final-oriente-medio",
+      "cat": "carrera",
+      "date": "2026-11-11",
+      "title": "F1 descarta Imola y mantiene Qatar y Abu Dabi",
+      "summary": "La F1 retiró a Imola como plan de respaldo: la temporada terminará en Qatar y Abu Dabi, según lo publicado.",
+      "body": [
+        "La F1 dio por terminada la preparación de Imola como sede alternativa para el cierre del campeonato 2026, según The Race.",
+        "La categoría considera que, por ahora, las carreras de Qatar y Abu Dabi pueden disputarse como estaba previsto.",
+        "Lo publicado indica que la F1 vigilará las evaluaciones de riesgo y que Las Vegas seguiría como opción de respaldo si hiciera falta cambiar el cierre.",
+        "Lo que hay que observar: cualquier cambio de última hora en el calendario de las últimas fechas."
+      ],
+      "source": "The Race",
+      "url": "https://www.the-race.com/formula-1/f1-stands-imola-down-what-it-means-for-2026-and-27-calendars/"
+    },
+    {
+      "id": "muere-alan-jones-campeon-1980",
+      "cat": "pilotos",
+      "date": "2026-11-11",
+      "title": "Muere Alan Jones, campeón de 1980, a los 80 años",
+      "summary": "El australiano, primer campeón de Williams, falleció el 5 de noviembre tras una breve enfermedad.",
+      "body": [
+        "Alan Jones, campeón mundial de F1 en 1980 con Williams, murió a los 80 años, según un comunicado de su familia.",
+        "Ganó 12 Grandes Premios y fue el primer campeón de la historia de Williams. Sigue siendo el último australiano en lograr el título.",
+        "En Argentina se le recuerda por su rivalidad con Carlos Reutemann, su compañero en Williams.",
+        "Stefano Domenicali y Williams le rindieron homenaje.",
+        "Lo que hay que observar: posibles homenajes en las próximas carreras."
+      ],
+      "source": "Motorsport.com",
+      "url": "https://es.motorsport.com/f1/news/fallece-alan-jones-edad/10871608/"
+    },
+    {
+      "id": "sanciones-brasil-leclerc-antonelli",
+      "cat": "carrera",
+      "date": "2026-11-11",
+      "title": "Sanciones en Brasil: Leclerc cae a octavo",
+      "summary": "Leclerc y Antonelli recibieron 5 s tras la carrera; solo Leclerc perdió posición.",
+      "body": [
+        "Los comisarios sancionaron con 5 segundos a Charles Leclerc por una maniobra con Liam Lawson. Con ello bajó del séptimo al octavo puesto y Lawson quedó séptimo.",
+        "Kimi Antonelli recibió otros 5 s por una salida peligrosa de boxes en su última parada, pero conservó el quinto lugar.",
+        "El resto del podio no cambió: Norris, Verstappen y Hadjar.",
+        "Una fuente en inglés menciona una tercera sanción de 5 s, a Oliver Bearman, que no pude confirmar.",
+        "Lo que hay que observar: el efecto de los puntos de Leclerc en la pelea por el subcampeonato de constructores."
+      ],
+      "source": "Excélsior",
+      "url": "https://www.excelsior.com.mx/deportes/antonelli-leclerc-sanciones-gp-brasil-f1",
+      "img": "img/noticias/antonelli-ventaja-84.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Kimi Antonelli en pista"
+    },
+    {
+      "id": "norris-gana-brasil-mercedes-constructores",
+      "cat": "carrera",
+      "date": "2026-11-10",
+      "title": "Norris gana en Brasil y Mercedes se corona",
+      "summary": "Norris ganó la carrera de Interlagos bajo la lluvia y Mercedes aseguró el título de constructores con dos fechas por disputar.",
+      "body": [
+        "Lando Norris (McLaren) ganó el GP de São Paulo en una carrera mojada y de mucho desorden. Según lo publicado, terminó 14.602 s por delante de Max Verstappen.",
+        "Verstappen remontó desde el fondo de la parrilla hasta el segundo lugar, e Isack Hadjar completó el podio para Red Bull.",
+        "Kimi Antonelli lideraba cuando hizo un trompo en la vuelta 19 y Norris tomó la punta. Antonelli terminó quinto y George Russell, cuarto: suficiente para que Mercedes sellara el campeonato de constructores.",
+        "Para Norris fue la tercera victoria de la temporada.",
+        "Lo que hay que observar: cómo responde Mercedes en las dos carreras restantes, ya sin presión por el título de equipos."
+      ],
+      "source": "Motorsport.com",
+      "url": "https://es.motorsport.com/f1/news/resumen-carrera-brasil-interlagos-2026/10873020/"
+    },
+    {
+      "id": "checo-18-brasil",
+      "cat": "pilotos",
+      "date": "2026-11-10",
+      "title": "Checo termina 18º en el GP de Brasil",
+      "summary": "Pérez, que salió último, terminó 18º en Interlagos.",
+      "body": [
+        "Sergio Pérez cruzó la meta en la posición 18 del GP de Brasil, según N+.",
+        "Había clasificado en el fondo de la parrilla, así que ganó posiciones, pero sin llegar a la zona de puntos.",
+        "Lo que hay que observar: si Cadillac mejora su ritmo en clasificación en Las Vegas."
+      ],
+      "source": "N+",
+      "url": "https://www.nmas.com.mx/deportes/como-quedo-checo-perez-gp-brasil-2026-hoy-resultados-carrera-f1/",
+      "img": "img/noticias/checo-19-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Checo Pérez"
+    },
+    {
       "id": "mercedes-novena-corona-constructores",
       "cat": "equipos",
       "date": "2026-11-10",
