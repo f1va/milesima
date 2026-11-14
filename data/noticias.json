@@ -1,97 +1,80 @@
 {
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "hero": {
     "kicker": "Tema del día",
-    "title": "Honda investiga el abandono de Stroll",
-    "summary": "Honda revisará la falla del coche de Stroll antes de Las Vegas, mientras Aston Martin descarta romper con la marca.",
-    "article": "honda-investiga-stroll-antes-las-vegas",
+    "title": "Antonelli campeón, tres fechas por delante",
+    "summary": "Con el título decidido y Mercedes campeón de constructores, la F1 viaja a Las Vegas peleando por el subcampeonato.",
+    "article": "antonelli-campeon-mercedes-constructores-quedan-tres",
     "topics": [
-      "aston-martin-honda-sigue-watanabe-se-retira",
-      "colapinto-vuelve-las-vegas-alpine",
-      "horarios-gp-las-vegas-2026",
-      "racing-bulls-2027-lawson-lindblad-rumor"
+      "verstappen-segundo-norris-gana-sao-paulo",
+      "imola-descartada-cierre-2026-medio-oriente",
+      "audi-apelacion-tsunoda-monza-audiencia",
+      "horarios-gp-las-vegas-2026"
     ]
   },
   "articles": [
     {
-      "id": "honda-investiga-stroll-antes-las-vegas",
-      "cat": "tecnica",
-      "date": "2026-11-13",
-      "title": "Honda investiga la falla de Stroll antes de Las Vegas",
-      "summary": "Tras el 13º abandono de Stroll en la temporada, Honda promete una revisión antes del GP de Las Vegas.",
+      "id": "antonelli-campeon-mercedes-constructores-quedan-tres",
+      "cat": "carrera",
+      "date": "2026-11-14",
+      "title": "Antonelli ya es campeón y quedan tres fechas",
+      "summary": "Con 390 puntos y Mercedes campeón de constructores, lo que resta es la pelea por el segundo lugar.",
       "body": [
-        "Lance Stroll se retiró en São Paulo y sumó su abandono número 13 del año, según lo publicado por GPFans.",
-        "Shintaro Orihara, de Honda, dijo que ya saben qué falló en el coche, pero no cuál es la causa de fondo.",
-        "Por eso la marca japonesa hará una investigación a fondo antes de la siguiente carrera, la de Las Vegas.",
-        "Stroll ha dicho antes que a la unidad de potencia le faltan unos dos segundos por vuelta.",
-        "Lo que hay que observar: si Aston Martin llega a Las Vegas con una explicación concreta y sin nuevos abandonos."
+        "Kimi Antonelli aseguró el título de pilotos 2026 tras terminar tercero en el GP de Ciudad de México, según lo publicado por Crash.net y Grande Prêmio.",
+        "Después de São Paulo suma 390 puntos con tres carreras por disputarse: Las Vegas, Qatar y Abu Dabi.",
+        "Mercedes también ganó el campeonato de constructores en Interlagos, con tres rondas todavía por correr.",
+        "El interés de lo que queda se mueve hacia el subcampeonato y los puestos de cabeza de la tabla.",
+        "Lo que hay que observar: cuánto ritmo conserva Mercedes ahora que ya no tiene nada que defender."
       ],
-      "source": "GPFans",
-      "url": "https://www.gpfans.com/en/f1-news/1092765/f1-honda-aston-martin-fernando-alonso-investigation-lance-stroll-retirement/"
+      "source": "Crash.net",
+      "url": "https://www.crash.net/f1/news/1110014/1/new-f1-championship-standings-after-brazil-grand-prix"
     },
     {
-      "id": "aston-martin-honda-sigue-watanabe-se-retira",
-      "cat": "equipos",
-      "date": "2026-11-13",
-      "title": "Aston Martin sigue con Honda; Watanabe se retira",
-      "summary": "Aston Martin quiere frenar los rumores de ruptura y Honda anunció el retiro de su presidente a fin de año.",
-      "body": [
-        "Según GPFans, Aston Martin salió a desmentir que vaya a dejar su alianza de motores con Honda.",
-        "Honda Racing Corporation anunció además que su presidente y director general, Koji Watanabe, se retira al terminar 2026.",
-        "Stroll seguirá junto a Alonso en 2027, según lo publicado, y asegura que el equipo está bien posicionado a futuro.",
-        "Honda planea un rediseño en dos fases de su unidad de potencia para 2027, y podría aprovechar dos mejoras bajo el sistema de referencia ADUO de la FIA.",
-        "Lo que hay que observar: quién sustituye a Watanabe y cuánto mejora el motor en las primeras carreras de 2027."
-      ],
-      "source": "GPFans",
-      "url": "https://www.gpfans.com/en/f1-news/1092086/aston-martin-honda-f1-partnership-exit-rumours-mike-krack/"
-    },
-    {
-      "id": "colapinto-vuelve-las-vegas-alpine",
+      "id": "verstappen-segundo-norris-gana-sao-paulo",
       "cat": "pilotos",
-      "date": "2026-11-13",
-      "title": "Colapinto vuelve en Las Vegas tras el descanso",
-      "summary": "Franco regresa a la pista con Alpine, 12º con 27 puntos, y quedan tres fechas.",
+      "date": "2026-11-14",
+      "title": "Verstappen es segundo y Norris ganó en São Paulo",
+      "summary": "Max suma 279 puntos y tiene 17 de ventaja sobre el tercero; Norris, sexto con 246, ganó en Interlagos.",
       "body": [
-        "Franco Colapinto tuvo un fin de semana de descanso tras el GP de São Paulo y vuelve en Las Vegas, según Grande Prêmio.",
-        "Después correrá en Qatar y Abu Dabi, las dos últimas fechas del calendario.",
-        "Hoy el argentino es 12º del campeonato con 27 puntos, por detrás de su compañero Pierre Gasly.",
-        "Alpine es sexto en constructores con 69 puntos.",
-        "Lo que hay que observar: si Colapinto convierte el ritmo de Alpine en puntos en las tres carreras restantes."
+        "Max Verstappen es segundo del campeonato con 279 puntos, según las tablas publicadas tras el GP de São Paulo.",
+        "Su ventaja sobre el tercer lugar es de 17 puntos, la mayor brecha dentro de la lucha por el subcampeonato.",
+        "Según lo publicado, remontó desde el puesto 21 hasta el segundo lugar en esa carrera.",
+        "Lando Norris ganó en Interlagos, su tercera victoria del año, y es sexto con 246 puntos.",
+        "Lo que hay que observar: si Verstappen puede defender esos 17 puntos en las tres fechas finales."
       ],
       "source": "Grande Prêmio",
-      "url": "https://grandepremio.com/es/f1/colapinto-en-la-f1-2026-que-carreras-le-quedan-con-alpine/"
+      "url": "https://grandepremio.com/en/f1/2026-f1-standings-after-sao-paulo-gp-as-mercedes-clinches-title-and-verstappen-extends-lead-over-russell/"
     },
     {
-      "id": "racing-bulls-2027-lawson-lindblad-rumor",
-      "cat": "equipos",
-      "date": "2026-11-13",
-      "title": "Racing Bulls: Lawson y Lindblad, favoritos para 2027",
-      "summary": "Hay versiones de que ambos seguirán, pero no vimos una confirmación oficial del equipo.",
+      "id": "imola-descartada-cierre-2026-medio-oriente",
+      "cat": "carrera",
+      "date": "2026-11-14",
+      "title": "Imola queda fuera: la F1 cierra 2026 en Medio Oriente",
+      "summary": "Pasó el plazo para correr en Imola y el calendario sigue con Qatar y Abu Dabi.",
       "body": [
-        "Racing Bulls y Haas eran los únicos equipos sin pilotos definidos para 2027, según lo publicado.",
-        "Alan Permane, jefe del equipo, dijo que el anuncio llegaría 'en las próximas semanas'.",
-        "Ted Kravitz, de Sky, asegura que en el paddock se da por tomada la decisión de mantener a Liam Lawson y Arvid Lindblad.",
-        "Se mencionaba también al piloto de F2 Nikola Tsolov como tercera opción.",
-        "Lo que hay que observar: el comunicado oficial; hasta entonces, trátalo como rumor."
+        "Según Sky Sports, la F1 informó a los organizadores de Imola que el circuito italiano no será necesario al final de 2026.",
+        "Con eso se mantiene el plan de terminar la temporada en Medio Oriente.",
+        "Las fechas publicadas son Qatar del 27 al 29 de noviembre y Abu Dabi del 4 al 6 de diciembre.",
+        "Antes está Las Vegas, la próxima cita del calendario.",
+        "Lo que hay que observar: si el calendario sufre algún otro ajuste de aquí al cierre."
       ],
-      "source": "F1 Oversteer",
-      "url": "https://www.f1oversteer.com/news/ted-kravitz-says-red-bull-have-finally-made-a-decision-on-liam-lawsons-racing-bulls-future/"
+      "source": "Sky Sports",
+      "url": "https://www.skysports.com/f1/news/13610302/formula-1-proceeding-with-plans-to-finish-2026-season-in-middle-east-as-deadline-to-hold-race-at-imola-passes"
     },
     {
-      "id": "haas-camara-2027-ocon-fuera",
-      "cat": "equipos",
-      "date": "2026-11-11",
-      "title": "Haas: Câmara en 2027 y Ocon fuera",
-      "summary": "Haas confirmó la salida de Ocon al final de 2026 y a Rafael Câmara junto a Bearman en 2027.",
+      "id": "audi-apelacion-tsunoda-monza-audiencia",
+      "cat": "carrera",
+      "date": "2026-11-14",
+      "title": "Audi sigue su apelación por Tsunoda en Monza",
+      "summary": "El caso del 10º puesto de Tsunoda en Italia llegará a audiencia de la FIA; podría cambiar un punto.",
       "body": [
-        "Haas anunció que Esteban Ocon dejará el equipo al terminar la temporada, según PlanetF1.",
-        "Su lugar lo ocupará Rafael Câmara, junior de Ferrari y aspirante al título de F2, que será compañero de Oliver Bearman en 2027.",
-        "Según lo publicado, Câmara firmó un contrato de varios años.",
-        "Ocon dijo que esto no es el final de su carrera en F1; su futuro sigue abierto.",
-        "Lo que hay que observar: dónde terminará Ocon y qué otros asientos quedan libres."
+        "Audi apeló la decisión de los comisarios que dejó a Yuki Tsunoda en el décimo puesto del GP de Italia, tras la polémica de la relargada.",
+        "Si se sancionara a Tsunoda, Gabriel Bortoleto, que terminó 11º, ganaría un punto.",
+        "Según un titular de PlanetF1, la FIA ya fijó fecha para la audiencia; no pudimos verificar el día exacto.",
+        "Lo que hay que observar: la fecha de la audiencia y si el resultado se modifica de forma oficial."
       ],
       "source": "PlanetF1",
-      "url": "https://www.planetf1.com/news/esteban-ocon-haas-f1-2027-replacement"
+      "url": "https://www.planetf1.com/news/audi-appeal-italian-grand-prix-yuki-tsunoda-restart"
     },
     {
       "id": "horarios-gp-las-vegas-2026",
@@ -108,6 +91,22 @@
       ],
       "source": "Formula1.com",
       "url": "https://www.formula1.com/en/latest/article/formula-1-heineken-las-vegas-grand-prix-2026.1qmWzcBwKK5hkTbYbhVC22"
+    },
+    {
+      "id": "colapinto-vuelve-las-vegas-alpine",
+      "cat": "pilotos",
+      "date": "2026-11-13",
+      "title": "Colapinto vuelve en Las Vegas tras el descanso",
+      "summary": "Franco regresa a la pista con Alpine, 12º con 27 puntos, y quedan tres fechas.",
+      "body": [
+        "Franco Colapinto tuvo un fin de semana de descanso tras el GP de São Paulo y vuelve en Las Vegas, según Grande Prêmio.",
+        "Después correrá en Qatar y Abu Dabi, las dos últimas fechas del calendario.",
+        "Hoy el argentino es 12º del campeonato con 27 puntos, por detrás de su compañero Pierre Gasly.",
+        "Alpine es sexto en constructores con 69 puntos.",
+        "Lo que hay que observar: si Colapinto convierte el ritmo de Alpine en puntos en las tres carreras restantes."
+      ],
+      "source": "Grande Prêmio",
+      "url": "https://grandepremio.com/es/f1/colapinto-en-la-f1-2026-que-carreras-le-quedan-con-alpine/"
     }
   ]
 }

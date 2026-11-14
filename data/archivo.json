@@ -1,6 +1,70 @@
 {
   "articles": [
     {
+      "id": "honda-investiga-stroll-antes-las-vegas",
+      "cat": "tecnica",
+      "date": "2026-11-13",
+      "title": "Honda investiga la falla de Stroll antes de Las Vegas",
+      "summary": "Tras el 13º abandono de Stroll en la temporada, Honda promete una revisión antes del GP de Las Vegas.",
+      "body": [
+        "Lance Stroll se retiró en São Paulo y sumó su abandono número 13 del año, según lo publicado por GPFans.",
+        "Shintaro Orihara, de Honda, dijo que ya saben qué falló en el coche, pero no cuál es la causa de fondo.",
+        "Por eso la marca japonesa hará una investigación a fondo antes de la siguiente carrera, la de Las Vegas.",
+        "Stroll ha dicho antes que a la unidad de potencia le faltan unos dos segundos por vuelta.",
+        "Lo que hay que observar: si Aston Martin llega a Las Vegas con una explicación concreta y sin nuevos abandonos."
+      ],
+      "source": "GPFans",
+      "url": "https://www.gpfans.com/en/f1-news/1092765/f1-honda-aston-martin-fernando-alonso-investigation-lance-stroll-retirement/"
+    },
+    {
+      "id": "aston-martin-honda-sigue-watanabe-se-retira",
+      "cat": "equipos",
+      "date": "2026-11-13",
+      "title": "Aston Martin sigue con Honda; Watanabe se retira",
+      "summary": "Aston Martin quiere frenar los rumores de ruptura y Honda anunció el retiro de su presidente a fin de año.",
+      "body": [
+        "Según GPFans, Aston Martin salió a desmentir que vaya a dejar su alianza de motores con Honda.",
+        "Honda Racing Corporation anunció además que su presidente y director general, Koji Watanabe, se retira al terminar 2026.",
+        "Stroll seguirá junto a Alonso en 2027, según lo publicado, y asegura que el equipo está bien posicionado a futuro.",
+        "Honda planea un rediseño en dos fases de su unidad de potencia para 2027, y podría aprovechar dos mejoras bajo el sistema de referencia ADUO de la FIA.",
+        "Lo que hay que observar: quién sustituye a Watanabe y cuánto mejora el motor en las primeras carreras de 2027."
+      ],
+      "source": "GPFans",
+      "url": "https://www.gpfans.com/en/f1-news/1092086/aston-martin-honda-f1-partnership-exit-rumours-mike-krack/"
+    },
+    {
+      "id": "racing-bulls-2027-lawson-lindblad-rumor",
+      "cat": "equipos",
+      "date": "2026-11-13",
+      "title": "Racing Bulls: Lawson y Lindblad, favoritos para 2027",
+      "summary": "Hay versiones de que ambos seguirán, pero no vimos una confirmación oficial del equipo.",
+      "body": [
+        "Racing Bulls y Haas eran los únicos equipos sin pilotos definidos para 2027, según lo publicado.",
+        "Alan Permane, jefe del equipo, dijo que el anuncio llegaría 'en las próximas semanas'.",
+        "Ted Kravitz, de Sky, asegura que en el paddock se da por tomada la decisión de mantener a Liam Lawson y Arvid Lindblad.",
+        "Se mencionaba también al piloto de F2 Nikola Tsolov como tercera opción.",
+        "Lo que hay que observar: el comunicado oficial; hasta entonces, trátalo como rumor."
+      ],
+      "source": "F1 Oversteer",
+      "url": "https://www.f1oversteer.com/news/ted-kravitz-says-red-bull-have-finally-made-a-decision-on-liam-lawsons-racing-bulls-future/"
+    },
+    {
+      "id": "haas-camara-2027-ocon-fuera",
+      "cat": "equipos",
+      "date": "2026-11-11",
+      "title": "Haas: Câmara en 2027 y Ocon fuera",
+      "summary": "Haas confirmó la salida de Ocon al final de 2026 y a Rafael Câmara junto a Bearman en 2027.",
+      "body": [
+        "Haas anunció que Esteban Ocon dejará el equipo al terminar la temporada, según PlanetF1.",
+        "Su lugar lo ocupará Rafael Câmara, junior de Ferrari y aspirante al título de F2, que será compañero de Oliver Bearman en 2027.",
+        "Según lo publicado, Câmara firmó un contrato de varios años.",
+        "Ocon dijo que esto no es el final de su carrera en F1; su futuro sigue abierto.",
+        "Lo que hay que observar: dónde terminará Ocon y qué otros asientos quedan libres."
+      ],
+      "source": "PlanetF1",
+      "url": "https://www.planetf1.com/news/esteban-ocon-haas-f1-2027-replacement"
+    },
+    {
       "id": "imola-descartado-final-oriente-medio",
       "cat": "carrera",
       "date": "2026-11-11",
