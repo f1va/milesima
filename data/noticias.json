@@ -1,80 +1,110 @@
 {
-  "updated": "2026-11-14",
+  "updated": "2026-11-16",
   "hero": {
     "kicker": "Tema del día",
-    "title": "Antonelli campeón, tres fechas por delante",
-    "summary": "Con el título decidido y Mercedes campeón de constructores, la F1 viaja a Las Vegas peleando por el subcampeonato.",
-    "article": "antonelli-campeon-mercedes-constructores-quedan-tres",
+    "title": "Las Vegas, con los títulos ya decididos",
+    "summary": "Antonelli es campeón y Mercedes ganó el de constructores; la F1 llega a Las Vegas con tres fechas y batallas pendientes.",
+    "article": "las-vegas-titulos-definidos-batallas-pendientes",
     "topics": [
-      "verstappen-segundo-norris-gana-sao-paulo",
-      "imola-descartada-cierre-2026-medio-oriente",
-      "audi-apelacion-tsunoda-monza-audiencia",
+      "haas-camara-las-vegas-hirakawa-fp1",
+      "mclaren-mejoras-las-vegas-stella-2027",
+      "verstappen-las-vegas-factor-clave",
       "horarios-gp-las-vegas-2026"
     ]
   },
   "articles": [
     {
-      "id": "antonelli-campeon-mercedes-constructores-quedan-tres",
+      "id": "las-vegas-titulos-definidos-batallas-pendientes",
       "cat": "carrera",
-      "date": "2026-11-14",
-      "title": "Antonelli ya es campeón y quedan tres fechas",
-      "summary": "Con 390 puntos y Mercedes campeón de constructores, lo que resta es la pelea por el segundo lugar.",
+      "date": "2026-11-16",
+      "title": "Las Vegas llega con los títulos ya definidos",
+      "summary": "Antonelli es campeón y Mercedes ganó el título de constructores; la F1 llega a Las Vegas con la lucha por posiciones abiertas.",
       "body": [
-        "Kimi Antonelli aseguró el título de pilotos 2026 tras terminar tercero en el GP de Ciudad de México, según lo publicado por Crash.net y Grande Prêmio.",
-        "Después de São Paulo suma 390 puntos con tres carreras por disputarse: Las Vegas, Qatar y Abu Dabi.",
-        "Mercedes también ganó el campeonato de constructores en Interlagos, con tres rondas todavía por correr.",
-        "El interés de lo que queda se mueve hacia el subcampeonato y los puestos de cabeza de la tabla.",
-        "Lo que hay que observar: cuánto ritmo conserva Mercedes ahora que ya no tiene nada que defender."
+        "La F1 aterriza en Las Vegas con los dos campeonatos ya decididos: Kimi Antonelli es campeón de pilotos y Mercedes ganó el de constructores en Brasil.",
+        "Según Read Motorsport, lo que queda en juego son las batallas por la tabla. Faltan tres carreras: Las Vegas, Qatar y Abu Dabi.",
+        "La carrera es el sábado 21 de noviembre por la noche, hora local, en el circuito urbano de la Strip.",
+        "Lo que hay que observar: quién saca más provecho de una pista fría y atípica, donde los pronósticos suelen fallar."
+      ],
+      "source": "Read Motorsport",
+      "url": "https://readmotorsport.com/2026/11/16/f1-las-vegas-gp-2026-titles-settled-battles-remain/"
+    },
+    {
+      "id": "haas-camara-las-vegas-hirakawa-fp1",
+      "cat": "equipos",
+      "date": "2026-11-16",
+      "title": "Haas confirma a Câmara en Las Vegas y a Hirakawa en FP1",
+      "summary": "Rafael Câmara sigue en el equipo tras su debut en Brasil; Ryo Hirakawa manejará el auto de Bearman en la primera práctica.",
+      "body": [
+        "Haas confirmó dos cambios para el GP de Las Vegas, según Crash.net y RacingNews365.",
+        "Rafael Câmara continúa en el equipo después de su debut en Brasil. Ocupa el lugar de Esteban Ocon, a quien Haas dejó fuera tras el GP de Ciudad de México.",
+        "Ryo Hirakawa tomará el auto de Oliver Bearman en la FP1, una práctica en la que el equipo prueba a su piloto reserva.",
+        "Lo que hay que observar: cómo rinde Câmara en una pista urbana nueva para él y con poco tiempo de preparación."
       ],
       "source": "Crash.net",
-      "url": "https://www.crash.net/f1/news/1110014/1/new-f1-championship-standings-after-brazil-grand-prix"
+      "url": "https://www.crash.net/f1/news/1110122/1/haas-confirms-driver-plans-f1-vegas-gp-two-changes"
     },
     {
-      "id": "verstappen-segundo-norris-gana-sao-paulo",
+      "id": "mclaren-mejoras-las-vegas-stella-2027",
+      "cat": "equipos",
+      "date": "2026-11-16",
+      "title": "McLaren lleva más mejoras a Las Vegas pensando en 2027",
+      "summary": "Andrea Stella dijo que las piezas nuevas complementan las de Brasil y sirven de base para el auto del próximo año.",
+      "body": [
+        "McLaren llevará nuevas piezas a Las Vegas, según Racer, a solo tres carreras del final del campeonato.",
+        "Andrea Stella explicó que esas mejoras complementan las estrenadas en Brasil, donde Lando Norris ganó con parte de ellas.",
+        "El equipo las presenta como los cimientos del auto de 2027 y de un regreso a la lucha por los títulos.",
+        "Las Vegas no ha sido terreno favorable para McLaren: el año pasado terminó sexto y séptimo.",
+        "Lo que hay que observar: si las piezas se traducen en ritmo en una pista fría, con pocas vueltas de práctica."
+      ],
+      "source": "Racer",
+      "url": "https://racer.com/2026/11/11/more-new-mclaren-developments-for-las-vegas-gp-as-team-pushes-to-keep-momentum-building"
+    },
+    {
+      "id": "verstappen-las-vegas-factor-clave",
       "cat": "pilotos",
-      "date": "2026-11-14",
-      "title": "Verstappen es segundo y Norris ganó en São Paulo",
-      "summary": "Max suma 279 puntos y tiene 17 de ventaja sobre el tercero; Norris, sexto con 246, ganó en Interlagos.",
+      "date": "2026-11-16",
+      "title": "Verstappen: Las Vegas es \"difícil de entender\" para todos",
+      "summary": "Max llega con tres victorias en las últimas cinco fechas y avisa que la pista exige leer bien el comportamiento del auto.",
       "body": [
-        "Max Verstappen es segundo del campeonato con 279 puntos, según las tablas publicadas tras el GP de São Paulo.",
-        "Su ventaja sobre el tercer lugar es de 17 puntos, la mayor brecha dentro de la lucha por el subcampeonato.",
-        "Según lo publicado, remontó desde el puesto 21 hasta el segundo lugar en esa carrera.",
-        "Lando Norris ganó en Interlagos, su tercera victoria del año, y es sexto con 246 puntos.",
-        "Lo que hay que observar: si Verstappen puede defender esos 17 puntos en las tres fechas finales."
+        "Max Verstappen suma tres victorias en las últimas cinco carreras, según lo publicado por RacingNews365.",
+        "Aun así, el piloto de Red Bull dijo que Las Vegas es muy distinta y difícil de entender para todos los equipos.",
+        "El holandés es segundo del campeonato, por detrás de Antonelli, y busca asegurar ese puesto en las tres fechas que quedan.",
+        "Lo que hay que observar: si Red Bull logra que el RB22 trabaje bien con temperaturas bajas."
       ],
-      "source": "Grande Prêmio",
-      "url": "https://grandepremio.com/en/f1/2026-f1-standings-after-sao-paulo-gp-as-mercedes-clinches-title-and-verstappen-extends-lead-over-russell/"
+      "source": "RacingNews365",
+      "url": "https://racingnews365.com/max-verstappen-pinpoints-key-factor-to-overcome-looming-f1-problem"
     },
     {
-      "id": "imola-descartada-cierre-2026-medio-oriente",
-      "cat": "carrera",
-      "date": "2026-11-14",
-      "title": "Imola queda fuera: la F1 cierra 2026 en Medio Oriente",
-      "summary": "Pasó el plazo para correr en Imola y el calendario sigue con Qatar y Abu Dabi.",
+      "id": "las-vegas-frio-neumaticos-pirelli",
+      "cat": "tecnica",
+      "date": "2026-11-16",
+      "title": "El frío será el reto de neumáticos en Las Vegas",
+      "summary": "Pirelli prevé entre 10 y 15 °C, lo que complica llevar las gomas a su ventana de temperatura.",
       "body": [
-        "Según Sky Sports, la F1 informó a los organizadores de Imola que el circuito italiano no será necesario al final de 2026.",
-        "Con eso se mantiene el plan de terminar la temporada en Medio Oriente.",
-        "Las fechas publicadas son Qatar del 27 al 29 de noviembre y Abu Dabi del 4 al 6 de diciembre.",
-        "Antes está Las Vegas, la próxima cita del calendario.",
-        "Lo que hay que observar: si el calendario sufre algún otro ajuste de aquí al cierre."
+        "Según un análisis previo al GP, se esperan temperaturas del aire de entre 10 y 15 °C en Las Vegas.",
+        "Con ese frío, calentar los neumáticos será la dificultad principal, sobre todo en vueltas de salida y tras safety cars.",
+        "La carrera es nocturna y la pista tiene rectas largas, lo que enfría aún más las gomas entre curvas lentas.",
+        "Lo que hay que observar: qué equipos logran la vuelta de clasificación con las gomas en su punto exacto.",
+        "Dato tomado de un blog de previa; confírmalo con el pronóstico oficial del fin de semana."
       ],
-      "source": "Sky Sports",
-      "url": "https://www.skysports.com/f1/news/13610302/formula-1-proceeding-with-plans-to-finish-2026-season-in-middle-east-as-deadline-to-hold-race-at-imola-passes"
+      "source": "F1 Live Pulse",
+      "url": "https://blog.f1livepulse.com/las-vegas-gp-2026-pirelli-cold-tyre-strategy"
     },
     {
-      "id": "audi-apelacion-tsunoda-monza-audiencia",
+      "id": "comision-f1-tope-costos-williams-lunes",
       "cat": "carrera",
-      "date": "2026-11-14",
-      "title": "Audi sigue su apelación por Tsunoda en Monza",
-      "summary": "El caso del 10º puesto de Tsunoda en Italia llegará a audiencia de la FIA; podría cambiar un punto.",
+      "date": "2026-11-16",
+      "title": "La Comisión de F1 discute hoy la reforma al tope de costos",
+      "summary": "Williams propone un mecanismo de ajuste para 2027; en octubre se informaba que le faltaban apoyos.",
       "body": [
-        "Audi apeló la decisión de los comisarios que dejó a Yuki Tsunoda en el décimo puesto del GP de Italia, tras la polémica de la relargada.",
-        "Si se sancionara a Tsunoda, Gabriel Bortoleto, que terminó 11º, ganaría un punto.",
-        "Según un titular de PlanetF1, la FIA ya fijó fecha para la audiencia; no pudimos verificar el día exacto.",
-        "Lo que hay que observar: la fecha de la audiencia y si el resultado se modifica de forma oficial."
+        "La Comisión de F1 se reúne este lunes 16 de noviembre y entre los temas está la reforma al tope de costos, según medios especializados.",
+        "James Vowles, jefe de Williams, quiere un mecanismo para que los equipos rezagados puedan acercarse, y que esté listo para 2027. No pide eliminar el tope.",
+        "The Race informó el 9 de octubre que varios rivales rechazaban la idea y que Williams parecía no tener los votos necesarios.",
+        "No encontré el resultado de la reunión al redactar esta nota, así que el desenlace sigue sin confirmarse.",
+        "Lo que hay que observar: la postura de Racing Bulls y de Red Bull, que pueden inclinar la votación."
       ],
-      "source": "PlanetF1",
-      "url": "https://www.planetf1.com/news/audi-appeal-italian-grand-prix-yuki-tsunoda-restart"
+      "source": "The Race",
+      "url": "https://www.the-race.com/formula-1/rivals-reject-williams-proposal-for-f1-cost-cap-reform/"
     },
     {
       "id": "horarios-gp-las-vegas-2026",

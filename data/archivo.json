@@ -1,6 +1,69 @@
 {
   "articles": [
     {
+      "id": "antonelli-campeon-mercedes-constructores-quedan-tres",
+      "cat": "carrera",
+      "date": "2026-11-14",
+      "title": "Antonelli ya es campeón y quedan tres fechas",
+      "summary": "Con 390 puntos y Mercedes campeón de constructores, lo que resta es la pelea por el segundo lugar.",
+      "body": [
+        "Kimi Antonelli aseguró el título de pilotos 2026 tras terminar tercero en el GP de Ciudad de México, según lo publicado por Crash.net y Grande Prêmio.",
+        "Después de São Paulo suma 390 puntos con tres carreras por disputarse: Las Vegas, Qatar y Abu Dabi.",
+        "Mercedes también ganó el campeonato de constructores en Interlagos, con tres rondas todavía por correr.",
+        "El interés de lo que queda se mueve hacia el subcampeonato y los puestos de cabeza de la tabla.",
+        "Lo que hay que observar: cuánto ritmo conserva Mercedes ahora que ya no tiene nada que defender."
+      ],
+      "source": "Crash.net",
+      "url": "https://www.crash.net/f1/news/1110014/1/new-f1-championship-standings-after-brazil-grand-prix"
+    },
+    {
+      "id": "verstappen-segundo-norris-gana-sao-paulo",
+      "cat": "pilotos",
+      "date": "2026-11-14",
+      "title": "Verstappen es segundo y Norris ganó en São Paulo",
+      "summary": "Max suma 279 puntos y tiene 17 de ventaja sobre el tercero; Norris, sexto con 246, ganó en Interlagos.",
+      "body": [
+        "Max Verstappen es segundo del campeonato con 279 puntos, según las tablas publicadas tras el GP de São Paulo.",
+        "Su ventaja sobre el tercer lugar es de 17 puntos, la mayor brecha dentro de la lucha por el subcampeonato.",
+        "Según lo publicado, remontó desde el puesto 21 hasta el segundo lugar en esa carrera.",
+        "Lando Norris ganó en Interlagos, su tercera victoria del año, y es sexto con 246 puntos.",
+        "Lo que hay que observar: si Verstappen puede defender esos 17 puntos en las tres fechas finales."
+      ],
+      "source": "Grande Prêmio",
+      "url": "https://grandepremio.com/en/f1/2026-f1-standings-after-sao-paulo-gp-as-mercedes-clinches-title-and-verstappen-extends-lead-over-russell/"
+    },
+    {
+      "id": "imola-descartada-cierre-2026-medio-oriente",
+      "cat": "carrera",
+      "date": "2026-11-14",
+      "title": "Imola queda fuera: la F1 cierra 2026 en Medio Oriente",
+      "summary": "Pasó el plazo para correr en Imola y el calendario sigue con Qatar y Abu Dabi.",
+      "body": [
+        "Según Sky Sports, la F1 informó a los organizadores de Imola que el circuito italiano no será necesario al final de 2026.",
+        "Con eso se mantiene el plan de terminar la temporada en Medio Oriente.",
+        "Las fechas publicadas son Qatar del 27 al 29 de noviembre y Abu Dabi del 4 al 6 de diciembre.",
+        "Antes está Las Vegas, la próxima cita del calendario.",
+        "Lo que hay que observar: si el calendario sufre algún otro ajuste de aquí al cierre."
+      ],
+      "source": "Sky Sports",
+      "url": "https://www.skysports.com/f1/news/13610302/formula-1-proceeding-with-plans-to-finish-2026-season-in-middle-east-as-deadline-to-hold-race-at-imola-passes"
+    },
+    {
+      "id": "audi-apelacion-tsunoda-monza-audiencia",
+      "cat": "carrera",
+      "date": "2026-11-14",
+      "title": "Audi sigue su apelación por Tsunoda en Monza",
+      "summary": "El caso del 10º puesto de Tsunoda en Italia llegará a audiencia de la FIA; podría cambiar un punto.",
+      "body": [
+        "Audi apeló la decisión de los comisarios que dejó a Yuki Tsunoda en el décimo puesto del GP de Italia, tras la polémica de la relargada.",
+        "Si se sancionara a Tsunoda, Gabriel Bortoleto, que terminó 11º, ganaría un punto.",
+        "Según un titular de PlanetF1, la FIA ya fijó fecha para la audiencia; no pudimos verificar el día exacto.",
+        "Lo que hay que observar: la fecha de la audiencia y si el resultado se modifica de forma oficial."
+      ],
+      "source": "PlanetF1",
+      "url": "https://www.planetf1.com/news/audi-appeal-italian-grand-prix-yuki-tsunoda-restart"
+    },
+    {
       "id": "honda-investiga-stroll-antes-las-vegas",
       "cat": "tecnica",
       "date": "2026-11-13",
