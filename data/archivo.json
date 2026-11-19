@@ -1,6 +1,68 @@
 {
   "articles": [
     {
+      "id": "ferrari-look-especial-las-vegas",
+      "cat": "equipos",
+      "date": "2026-11-17",
+      "title": "Ferrari presenta un look especial para Las Vegas",
+      "summary": "Hamilton y Leclerc estrenarán una imagen distinta en el GP, según Crash.net.",
+      "body": [
+        "Ferrari reveló una imagen especial para el GP de Las Vegas, según Crash.net.",
+        "Lewis Hamilton y Charles Leclerc la lucirán durante el fin de semana, con un mono negro para la carrera, de acuerdo con lo publicado.",
+        "Aston Martin y Williams también llevarán libreas especiales en esta cita, según los reportes.",
+        "Lo que hay que observar: si el atractivo visual va acompañado de ritmo real en una pista fría y de poco agarre."
+      ],
+      "source": "Crash.net",
+      "url": "https://www.crash.net/f1/news/1110145/1/ferrari-reveals-special-las-vegas-gp-look-lewis-hamilton-and-charles-leclerc"
+    },
+    {
+      "id": "las-vegas-trofeo-neon-libreas",
+      "cat": "carrera",
+      "date": "2026-11-17",
+      "title": "Las Vegas presenta su trofeo inspirado en el neón",
+      "summary": "El GP estrena un trofeo con estética de neón y varios equipos llegan con libreas especiales.",
+      "body": [
+        "Los organizadores del GP de Las Vegas presentaron un trofeo de inspiración neón, según un resumen de la previa en medios especializados.",
+        "El circuito urbano mide 6,2 km y tiene 17 curvas, según ese mismo resumen.",
+        "La carrera es nocturna: sábado 21 de noviembre a las 20:00 hora local.",
+        "Lo que hay que observar: la fecha abre el tramo final del campeonato, con Qatar y Abu Dabi por delante."
+      ],
+      "source": "Crash.net",
+      "url": "https://www.crash.net/f1/news/1110116/1/what-time-next-f1-race-las-vegas-gp-dates-and-full-schedule"
+    },
+    {
+      "id": "tope-costos-williams-votos-previos",
+      "cat": "equipos",
+      "date": "2026-11-17",
+      "title": "Tope de costos: Williams busca apoyos para su plan",
+      "summary": "La propuesta de Vowles necesita seis de once equipos; los reportes previos mostraban solo cuatro.",
+      "body": [
+        "James Vowles, jefe de Williams, impulsa un mecanismo para que los equipos rezagados se acerquen dentro del tope de costos.",
+        "Para aprobarlo para 2027 se requieren seis de los once equipos; para 2028, cuatro votos bastarían, según The Race.",
+        "Reportes de octubre indicaban que Vowles tenía solo cuatro apoyos confirmados, y Racing Bulls era el equipo clave indeciso.",
+        "No encontré publicado el resultado de la reunión de la Comisión de F1 de este lunes; este dato no está verificado.",
+        "Lo que hay que observar: si algún rival cambia de postura antes de la votación formal."
+      ],
+      "source": "The Race",
+      "url": "https://www.the-race.com/formula-1/rivals-reject-williams-proposal-for-f1-cost-cap-reform/"
+    },
+    {
+      "id": "colapinto-vuelve-las-vegas-alpine",
+      "cat": "pilotos",
+      "date": "2026-11-13",
+      "title": "Colapinto vuelve en Las Vegas tras el descanso",
+      "summary": "Franco regresa a la pista con Alpine, 12º con 27 puntos, y quedan tres fechas.",
+      "body": [
+        "Franco Colapinto tuvo un fin de semana de descanso tras el GP de São Paulo y vuelve en Las Vegas, según Grande Prêmio.",
+        "Después correrá en Qatar y Abu Dabi, las dos últimas fechas del calendario.",
+        "Hoy el argentino es 12º del campeonato con 27 puntos, por detrás de su compañero Pierre Gasly.",
+        "Alpine es sexto en constructores con 69 puntos.",
+        "Lo que hay que observar: si Colapinto convierte el ritmo de Alpine en puntos en las tres carreras restantes."
+      ],
+      "source": "Grande Prêmio",
+      "url": "https://grandepremio.com/es/f1/colapinto-en-la-f1-2026-que-carreras-le-quedan-con-alpine/"
+    },
+    {
       "id": "las-vegas-titulos-definidos-batallas-pendientes",
       "cat": "carrera",
       "date": "2026-11-16",

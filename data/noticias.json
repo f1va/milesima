@@ -1,18 +1,93 @@
 {
-  "updated": "2026-11-17",
+  "updated": "2026-11-19",
   "hero": {
     "kicker": "Tema del día",
-    "title": "Hamilton se pierde la FP1 en Las Vegas",
-    "summary": "Beganovic lo reemplazará en la primera práctica de Ferrari; Hamilton volverá para clasificación y carrera.",
-    "article": "hamilton-se-pierde-fp1-las-vegas-beganovic",
+    "title": "Las Vegas arranca con Antonelli ya campeón",
+    "summary": "Comienza el triple cierre de temporada con frío extremo y la duda entre Red Bull y Mercedes.",
+    "article": "las-vegas-abre-final-antonelli-campeon",
     "topics": [
-      "ferrari-look-especial-las-vegas",
-      "tope-costos-williams-votos-previos",
-      "horarios-gp-las-vegas-2026",
-      "colapinto-vuelve-las-vegas-alpine"
+      "frio-las-vegas-red-bull-mercedes",
+      "cadillac-checo-bottas-imagen-las-vegas",
+      "hamilton-se-pierde-fp1-las-vegas-beganovic",
+      "horarios-gp-las-vegas-2026"
     ]
   },
   "articles": [
+    {
+      "id": "las-vegas-abre-final-antonelli-campeon",
+      "cat": "carrera",
+      "date": "2026-11-19",
+      "title": "Las Vegas abre el cierre de temporada con Antonelli ya campeón",
+      "summary": "El GP de Las Vegas (19-21 de noviembre) inicia el último triple fin de semana del año, con el título de pilotos ya decidido.",
+      "body": [
+        "El GP de Las Vegas se disputa del 19 al 21 de noviembre y es la primera de las tres carreras con las que termina el campeonato. La carrera es el sábado 21 por la noche, hora local.",
+        "Según lo publicado, Kimi Antonelli, de Mercedes, ya aseguró el título de pilotos de 2026. Lo que queda en juego es el subcampeonato y el tercer lugar, además de la lucha entre equipos.",
+        "El trazado urbano de 3.8 millas combina rectas muy largas con 17 curvas. El frío es protagonista: Antonelli habló de temperaturas cercanas a los 4 °C, algo que complica llevar los neumáticos a su ventana de trabajo.",
+        "Lo que hay que observar: cómo responde cada coche al frío y si Red Bull, señalado por varios medios como favorito, aprovecha las rectas."
+      ],
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/2026-f1-las-vegas-grand-prix-142000612.html"
+    },
+    {
+      "id": "cadillac-checo-bottas-imagen-las-vegas",
+      "cat": "equipos",
+      "date": "2026-11-19",
+      "title": "Cadillac estrenará imagen para Checo y Bottas en Las Vegas",
+      "summary": "Los coches de Pérez y Bottas llevarán una decoración distinta este fin de semana, según ClaroSports.",
+      "body": [
+        "Cadillac cambiará la imagen de los monoplazas de Sergio Pérez y Valtteri Bottas para el GP de Las Vegas, según informó ClaroSports el 17 de noviembre.",
+        "Se trata de la última carrera de la temporada en territorio estadounidense, un escenario clave para una marca de origen norteamericano.",
+        "Las fuentes consultadas no detallan colores ni patrocinios del diseño, así que conviene esperar la presentación oficial del equipo.",
+        "Lo que hay que observar: si la nueva decoración llega acompañada de mejoras en pista para Pérez en un circuito de rectas largas."
+      ],
+      "source": "ClaroSports",
+      "url": "https://www.clarosports.com/motor/formula-1/checo-perez-estrenara-nueva-imagen-en-su-cadillac-para-el-gp-de-las-vegas/"
+    },
+    {
+      "id": "racing-bulls-lawson-lindblad-2027",
+      "cat": "equipos",
+      "date": "2026-11-19",
+      "title": "Racing Bulls mantiene a Lawson y Lindblad para 2027",
+      "summary": "El equipo confirmó el 12 de noviembre que su alineación no cambiará el próximo año.",
+      "body": [
+        "Racing Bulls anunció que Liam Lawson y Arvid Lindblad seguirán como pilotos en 2027, sin cambios respecto a esta temporada.",
+        "Según lo publicado, el equipo dejó fuera de los asientos a Nikola Tsolov, aspirante de Fórmula 2.",
+        "Con ambos contratos resueltos, los dos pilotos llegan a Las Vegas sin la presión de asegurar su futuro.",
+        "Lo que hay que observar: si esa tranquilidad se nota en la pelea por los puntos en las tres carreras finales."
+      ],
+      "source": "Formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/lawson-and-lindblad-to-remain-at-racing-bulls-for-2027-as-team-confirm-unchanged-line-up.1vwKafZKAx8zw2Tb4B8fPx"
+    },
+    {
+      "id": "frio-las-vegas-red-bull-mercedes",
+      "cat": "tecnica",
+      "date": "2026-11-19",
+      "title": "Frío y rectas: ¿Red Bull o Mercedes en Las Vegas?",
+      "summary": "Los análisis previos apuntan a Red Bull por las rectas, mientras Mercedes confía en el frío.",
+      "body": [
+        "Varias previas señalan a Red Bull como favorito en Las Vegas, porque el RB22 se adaptaría mejor a un trazado de rectas largas.",
+        "Mercedes, en cambio, ha rendido bien en este circuito en condiciones frías, que reducen el agarre pero ayudan a calentar menos los neumáticos.",
+        "Según lo publicado, Max Verstappen comparó el trazado con Monza, donde ir a rebufo es muy útil. Ganó aquí en 2023 y 2025.",
+        "Lo que hay que observar: graining en las primeras vueltas de cada sesión y cuánto pesa el rebufo en la clasificación."
+      ],
+      "source": "F1 Oversteer",
+      "url": "https://www.f1oversteer.com/news/max-verstappens-painful-simulator-realisation-is-just-what-mercedes-want-to-hear-in-las-vegas/"
+    },
+    {
+      "id": "las-vegas-calendario-hasta-2037",
+      "cat": "carrera",
+      "date": "2026-11-19",
+      "title": "Las Vegas seguirá en el calendario hasta 2037",
+      "summary": "El anuncio del 4 de junio extiende la presencia de la carrera por más de una década.",
+      "body": [
+        "El GP de Las Vegas permanecerá en el calendario de la Fórmula 1 hasta 2037, según se anunció el 4 de junio de 2026.",
+        "La carrera se consolidó como uno de los eventos más vistosos del año, con espectáculo nocturno sobre la Strip.",
+        "Este año habrá además una fiesta posterior en la Sphere con los Backstreet Boys, según los organizadores.",
+        "Lo que hay que observar: cómo evoluciona el trazado y el ambiente del evento ahora que tiene futuro asegurado."
+      ],
+      "source": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Las_Vegas_Grand_Prix"
+    },
     {
       "id": "hamilton-se-pierde-fp1-las-vegas-beganovic",
       "cat": "pilotos",
@@ -30,52 +105,6 @@
       "url": "https://www.planetf1.com/news/lewis-hamilton-ferrari-las-vegas-grand-prix-2026-fp1"
     },
     {
-      "id": "ferrari-look-especial-las-vegas",
-      "cat": "equipos",
-      "date": "2026-11-17",
-      "title": "Ferrari presenta un look especial para Las Vegas",
-      "summary": "Hamilton y Leclerc estrenarán una imagen distinta en el GP, según Crash.net.",
-      "body": [
-        "Ferrari reveló una imagen especial para el GP de Las Vegas, según Crash.net.",
-        "Lewis Hamilton y Charles Leclerc la lucirán durante el fin de semana, con un mono negro para la carrera, de acuerdo con lo publicado.",
-        "Aston Martin y Williams también llevarán libreas especiales en esta cita, según los reportes.",
-        "Lo que hay que observar: si el atractivo visual va acompañado de ritmo real en una pista fría y de poco agarre."
-      ],
-      "source": "Crash.net",
-      "url": "https://www.crash.net/f1/news/1110145/1/ferrari-reveals-special-las-vegas-gp-look-lewis-hamilton-and-charles-leclerc"
-    },
-    {
-      "id": "las-vegas-trofeo-neon-libreas",
-      "cat": "carrera",
-      "date": "2026-11-17",
-      "title": "Las Vegas presenta su trofeo inspirado en el neón",
-      "summary": "El GP estrena un trofeo con estética de neón y varios equipos llegan con libreas especiales.",
-      "body": [
-        "Los organizadores del GP de Las Vegas presentaron un trofeo de inspiración neón, según un resumen de la previa en medios especializados.",
-        "El circuito urbano mide 6,2 km y tiene 17 curvas, según ese mismo resumen.",
-        "La carrera es nocturna: sábado 21 de noviembre a las 20:00 hora local.",
-        "Lo que hay que observar: la fecha abre el tramo final del campeonato, con Qatar y Abu Dabi por delante."
-      ],
-      "source": "Crash.net",
-      "url": "https://www.crash.net/f1/news/1110116/1/what-time-next-f1-race-las-vegas-gp-dates-and-full-schedule"
-    },
-    {
-      "id": "tope-costos-williams-votos-previos",
-      "cat": "equipos",
-      "date": "2026-11-17",
-      "title": "Tope de costos: Williams busca apoyos para su plan",
-      "summary": "La propuesta de Vowles necesita seis de once equipos; los reportes previos mostraban solo cuatro.",
-      "body": [
-        "James Vowles, jefe de Williams, impulsa un mecanismo para que los equipos rezagados se acerquen dentro del tope de costos.",
-        "Para aprobarlo para 2027 se requieren seis de los once equipos; para 2028, cuatro votos bastarían, según The Race.",
-        "Reportes de octubre indicaban que Vowles tenía solo cuatro apoyos confirmados, y Racing Bulls era el equipo clave indeciso.",
-        "No encontré publicado el resultado de la reunión de la Comisión de F1 de este lunes; este dato no está verificado.",
-        "Lo que hay que observar: si algún rival cambia de postura antes de la votación formal."
-      ],
-      "source": "The Race",
-      "url": "https://www.the-race.com/formula-1/rivals-reject-williams-proposal-for-f1-cost-cap-reform/"
-    },
-    {
       "id": "horarios-gp-las-vegas-2026",
       "cat": "carrera",
       "date": "2026-11-11",
@@ -90,22 +119,6 @@
       ],
       "source": "Formula1.com",
       "url": "https://www.formula1.com/en/latest/article/formula-1-heineken-las-vegas-grand-prix-2026.1qmWzcBwKK5hkTbYbhVC22"
-    },
-    {
-      "id": "colapinto-vuelve-las-vegas-alpine",
-      "cat": "pilotos",
-      "date": "2026-11-13",
-      "title": "Colapinto vuelve en Las Vegas tras el descanso",
-      "summary": "Franco regresa a la pista con Alpine, 12º con 27 puntos, y quedan tres fechas.",
-      "body": [
-        "Franco Colapinto tuvo un fin de semana de descanso tras el GP de São Paulo y vuelve en Las Vegas, según Grande Prêmio.",
-        "Después correrá en Qatar y Abu Dabi, las dos últimas fechas del calendario.",
-        "Hoy el argentino es 12º del campeonato con 27 puntos, por detrás de su compañero Pierre Gasly.",
-        "Alpine es sexto en constructores con 69 puntos.",
-        "Lo que hay que observar: si Colapinto convierte el ritmo de Alpine en puntos en las tres carreras restantes."
-      ],
-      "source": "Grande Prêmio",
-      "url": "https://grandepremio.com/es/f1/colapinto-en-la-f1-2026-que-carreras-le-quedan-con-alpine/"
     }
   ]
 }
