@@ -1,6 +1,98 @@
 {
   "articles": [
     {
+      "id": "las-vegas-abre-final-antonelli-campeon",
+      "cat": "carrera",
+      "date": "2026-11-19",
+      "title": "Las Vegas abre el cierre de temporada con Antonelli ya campeón",
+      "summary": "El GP de Las Vegas (19-21 de noviembre) inicia el último triple fin de semana del año, con el título de pilotos ya decidido.",
+      "body": [
+        "El GP de Las Vegas se disputa del 19 al 21 de noviembre y es la primera de las tres carreras con las que termina el campeonato. La carrera es el sábado 21 por la noche, hora local.",
+        "Según lo publicado, Kimi Antonelli, de Mercedes, ya aseguró el título de pilotos de 2026. Lo que queda en juego es el subcampeonato y el tercer lugar, además de la lucha entre equipos.",
+        "El trazado urbano de 3.8 millas combina rectas muy largas con 17 curvas. El frío es protagonista: Antonelli habló de temperaturas cercanas a los 4 °C, algo que complica llevar los neumáticos a su ventana de trabajo.",
+        "Lo que hay que observar: cómo responde cada coche al frío y si Red Bull, señalado por varios medios como favorito, aprovecha las rectas."
+      ],
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/2026-f1-las-vegas-grand-prix-142000612.html"
+    },
+    {
+      "id": "racing-bulls-lawson-lindblad-2027",
+      "cat": "equipos",
+      "date": "2026-11-19",
+      "title": "Racing Bulls mantiene a Lawson y Lindblad para 2027",
+      "summary": "El equipo confirmó el 12 de noviembre que su alineación no cambiará el próximo año.",
+      "body": [
+        "Racing Bulls anunció que Liam Lawson y Arvid Lindblad seguirán como pilotos en 2027, sin cambios respecto a esta temporada.",
+        "Según lo publicado, el equipo dejó fuera de los asientos a Nikola Tsolov, aspirante de Fórmula 2.",
+        "Con ambos contratos resueltos, los dos pilotos llegan a Las Vegas sin la presión de asegurar su futuro.",
+        "Lo que hay que observar: si esa tranquilidad se nota en la pelea por los puntos en las tres carreras finales."
+      ],
+      "source": "Formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/lawson-and-lindblad-to-remain-at-racing-bulls-for-2027-as-team-confirm-unchanged-line-up.1vwKafZKAx8zw2Tb4B8fPx"
+    },
+    {
+      "id": "frio-las-vegas-red-bull-mercedes",
+      "cat": "tecnica",
+      "date": "2026-11-19",
+      "title": "Frío y rectas: ¿Red Bull o Mercedes en Las Vegas?",
+      "summary": "Los análisis previos apuntan a Red Bull por las rectas, mientras Mercedes confía en el frío.",
+      "body": [
+        "Varias previas señalan a Red Bull como favorito en Las Vegas, porque el RB22 se adaptaría mejor a un trazado de rectas largas.",
+        "Mercedes, en cambio, ha rendido bien en este circuito en condiciones frías, que reducen el agarre pero ayudan a calentar menos los neumáticos.",
+        "Según lo publicado, Max Verstappen comparó el trazado con Monza, donde ir a rebufo es muy útil. Ganó aquí en 2023 y 2025.",
+        "Lo que hay que observar: graining en las primeras vueltas de cada sesión y cuánto pesa el rebufo en la clasificación."
+      ],
+      "source": "F1 Oversteer",
+      "url": "https://www.f1oversteer.com/news/max-verstappens-painful-simulator-realisation-is-just-what-mercedes-want-to-hear-in-las-vegas/"
+    },
+    {
+      "id": "las-vegas-calendario-hasta-2037",
+      "cat": "carrera",
+      "date": "2026-11-19",
+      "title": "Las Vegas seguirá en el calendario hasta 2037",
+      "summary": "El anuncio del 4 de junio extiende la presencia de la carrera por más de una década.",
+      "body": [
+        "El GP de Las Vegas permanecerá en el calendario de la Fórmula 1 hasta 2037, según se anunció el 4 de junio de 2026.",
+        "La carrera se consolidó como uno de los eventos más vistosos del año, con espectáculo nocturno sobre la Strip.",
+        "Este año habrá además una fiesta posterior en la Sphere con los Backstreet Boys, según los organizadores.",
+        "Lo que hay que observar: cómo evoluciona el trazado y el ambiente del evento ahora que tiene futuro asegurado."
+      ],
+      "source": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Las_Vegas_Grand_Prix"
+    },
+    {
+      "id": "hamilton-se-pierde-fp1-las-vegas-beganovic",
+      "cat": "pilotos",
+      "date": "2026-11-17",
+      "title": "Hamilton no correrá la FP1 en Las Vegas",
+      "summary": "Ferrari cederá el coche de Hamilton a Dino Beganovic en la primera práctica, según lo publicado.",
+      "body": [
+        "Lewis Hamilton no estará en la primera práctica libre del GP de Las Vegas. Según Planet F1 y GPblog, Dino Beganovic ocupará su Ferrari en esa sesión.",
+        "Beganovic es piloto júnior de la escudería y tendrá otra oportunidad de rodar en un fin de semana oficial.",
+        "Hamilton volverá al coche para el resto del fin de semana: la clasificación y la carrera, que se corre el sábado 21 a las 20:00 locales.",
+        "Las fuentes consultadas no detallan aquí el motivo técnico o reglamentario del cambio, así que conviene esperar el comunicado del equipo.",
+        "Lo que hay que observar: cuánto tiempo de pista pierde Hamilton en un circuito donde la adaptación al frío y al bajo agarre pesa mucho."
+      ],
+      "source": "Planet F1",
+      "url": "https://www.planetf1.com/news/lewis-hamilton-ferrari-las-vegas-grand-prix-2026-fp1"
+    },
+    {
+      "id": "horarios-gp-las-vegas-2026",
+      "cat": "carrera",
+      "date": "2026-11-11",
+      "title": "GP de Las Vegas: horarios de la carrera",
+      "summary": "La carrera es el sábado 21 de noviembre, 20:00 locales: 04:00 UTC del domingo 22.",
+      "body": [
+        "El GP de Las Vegas se corre del 19 al 21 de noviembre. La carrera arranca a las 20:00 locales del sábado 21 (UTC−8), es decir, 04:00 UTC del domingo 22.",
+        "Centro de México: sábado 21, 22:00.",
+        "Colombia, Ecuador y Perú: sábado 21, 23:00.",
+        "Argentina: domingo 22, 01:00.",
+        "Los horarios de práctica y clasificación varían entre fuentes; confírmalos en el calendario oficial."
+      ],
+      "source": "Formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/formula-1-heineken-las-vegas-grand-prix-2026.1qmWzcBwKK5hkTbYbhVC22"
+    },
+    {
       "id": "ferrari-look-especial-las-vegas",
       "cat": "equipos",
       "date": "2026-11-17",
