@@ -1,6 +1,113 @@
 {
   "articles": [
     {
+      "id": "russell-lidera-fp2-mojada-las-vegas",
+      "cat": "carrera",
+      "date": "2026-11-20",
+      "title": "Russell manda en una FP2 mojada en Las Vegas",
+      "summary": "Tras una FP1 sin vueltas cronometradas, Mercedes se impuso por 0.071 s sobre Gasly.",
+      "body": [
+        "La primera práctica del GP de Las Vegas pasó sin un solo tiempo registrado: la lluvia dejó la pista muy resbaladiza, según lo publicado.",
+        "En la FP2, también con pista mojada, George Russell (Mercedes) firmó 1:47.272 al final de la hora de trabajo y quedó 0.071 s por delante de Pierre Gasly (Alpine).",
+        "Charles Leclerc (Ferrari) fue tercero, según el reporte de Formula1.com.",
+        "Con tan pocos datos en seco, los equipos llegan a la clasificación con mucha incertidumbre sobre ritmo y neumáticos.",
+        "Lo que hay que observar: si la clasificación del viernes por la noche es seca y qué tan rápido aprenden los equipos con el asfalto frío."
+      ],
+      "source": "Formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/fp2-russell-beats-gasly-and-leclerc-to-top-spot-in-wet-las-vegas-gp-practice.62NwXdkf1krQs0esgViJtc"
+    },
+    {
+      "id": "checo-p14-fp2-las-vegas-cadillac",
+      "cat": "pilotos",
+      "date": "2026-11-20",
+      "title": "Checo fue 14.º en la FP2 de Las Vegas",
+      "summary": "El mexicano quedó a 3.159 s de Russell en una sesión mojada, según las tablas de tiempos.",
+      "body": [
+        "Sergio Pérez (Cadillac) terminó 14.º en la FP2 con 1:50.431 o 1:50.432, según la fuente, a +3.159 s del mejor tiempo.",
+        "La diferencia es amplia, pero la sesión fue con pista mojada y sin referencias previas, porque la FP1 no tuvo tiempos.",
+        "Max Verstappen fue 13.º (1:50.141) y Kimi Antonelli, ya campeón, octavo (1:49.043), por lo que Checo estuvo cerca de ellos en una sesión poco representativa.",
+        "Lo que hay que observar: el ritmo de Cadillac en la clasificación, ya con la nueva decoración que presentó el equipo."
+      ],
+      "source": "Motorsport Week",
+      "url": "https://www.motorsportweek.com/2026/11/20/f1-2026-las-vegas-grand-prix-fp2-results/"
+    },
+    {
+      "id": "horarios-clasificacion-carrera-las-vegas",
+      "cat": "carrera",
+      "date": "2026-11-20",
+      "title": "Horarios de clasificación y carrera en Las Vegas",
+      "summary": "Clasificación y carrera caen en la noche local; en Latinoamérica son sábado y domingo.",
+      "body": [
+        "Clasificación: viernes 20 a las 20:00 locales (UTC−8), es decir, sábado 21 a las 04:00 UTC.",
+        "Centro de México: viernes 20, 22:00. Colombia, Ecuador y Perú: viernes 20, 23:00. Argentina: sábado 21, 01:00.",
+        "Carrera: sábado 21 a las 20:00 locales, domingo 22 a las 04:00 UTC.",
+        "Centro de México: sábado 21, 22:00. Colombia, Ecuador y Perú: sábado 21, 23:00. Argentina: domingo 22, 01:00.",
+        "Confirma los horarios en el calendario oficial por si hubiera cambios."
+      ],
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-las-vegas-gp-2026-start-time-schedule-and-how-to-watch/10874866/"
+    },
+    {
+      "id": "antonelli-verstappen-lluvia-desdibuja-previas-vegas",
+      "cat": "tecnica",
+      "date": "2026-11-20",
+      "title": "La lluvia desdibuja a los favoritos en Las Vegas",
+      "summary": "Verstappen y Antonelli, señalados en las previas, quedaron 13.º y 8.º en la FP2.",
+      "body": [
+        "Las previas dividían la quiniela: unos señalaban a Verstappen por las rectas del RB22 y otros a Antonelli por lo bien que le va a Mercedes en esta pista.",
+        "En la FP2 mojada, Antonelli fue octavo (+1.771 s) y Verstappen 13.º (+2.869 s), según Motorsport Week.",
+        "Con la FP1 sin tiempos y la FP2 en mojado, nadie midió aún el ritmo real en seco ni el desgaste.",
+        "Lo que hay que observar: la clasificación será el primer dato real; conviene tomar las predicciones anteriores solo como eso."
+      ],
+      "source": "Motorsport Week",
+      "url": "https://www.motorsportweek.com/2026/11/20/f1-2026-las-vegas-grand-prix-fp2-results/"
+    },
+    {
+      "id": "gasly-alpine-segundo-fp2-las-vegas",
+      "cat": "equipos",
+      "date": "2026-11-20",
+      "title": "Gasly sorprende con Alpine en la FP2",
+      "summary": "El francés quedó segundo, a 0.071 s de Russell, en la sesión mojada.",
+      "body": [
+        "Pierre Gasly fue segundo en la FP2 de Las Vegas, a solo 0.071 s de Russell, según Formula1.com.",
+        "Es un buen punto de partida para Alpine, aunque con pista mojada las diferencias de coche pesan menos que la confianza del piloto.",
+        "No pude verificar la posición de Franco Colapinto en esa sesión.",
+        "Lo que hay que observar: si Alpine confirma ese ritmo cuando la pista esté seca."
+      ],
+      "source": "Formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/fp2-russell-beats-gasly-and-leclerc-to-top-spot-in-wet-las-vegas-gp-practice.62NwXdkf1krQs0esgViJtc"
+    },
+    {
+      "id": "palmowski-pole-f1-academy-las-vegas",
+      "cat": "pilotos",
+      "date": "2026-11-20",
+      "title": "Palmowski logra la pole de F1 Academy en Las Vegas",
+      "summary": "Marcó 2:09.915 y sacó 1.578 s de ventaja en la carrera principal.",
+      "body": [
+        "Alisha Palmowski, de Red Bull Racing, consiguió la pole de la carrera principal de F1 Academy en Las Vegas.",
+        "Su tiempo fue 2:09.915, con 1.578 s de margen sobre la segunda posición, según Formula1.com.",
+        "Mathilda Paatz, respaldada por Aston Martin, saldrá desde la pole en la carrera de parrilla invertida.",
+        "Lo que hay que observar: si Palmowski convierte la pole en victoria."
+      ],
+      "source": "Formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/f1-academy-palmowski-makes-history-as-she-secures-her-final-pole-position-around-las-vegas.1n8CvOtY14APLOTC3pzBrL"
+    },
+    {
+      "id": "cadillac-checo-bottas-imagen-las-vegas",
+      "cat": "equipos",
+      "date": "2026-11-19",
+      "title": "Cadillac estrenará imagen para Checo y Bottas en Las Vegas",
+      "summary": "Los coches de Pérez y Bottas llevarán una decoración distinta este fin de semana, según ClaroSports.",
+      "body": [
+        "Cadillac cambiará la imagen de los monoplazas de Sergio Pérez y Valtteri Bottas para el GP de Las Vegas, según informó ClaroSports el 17 de noviembre.",
+        "Se trata de la última carrera de la temporada en territorio estadounidense, un escenario clave para una marca de origen norteamericano.",
+        "Las fuentes consultadas no detallan colores ni patrocinios del diseño, así que conviene esperar la presentación oficial del equipo.",
+        "Lo que hay que observar: si la nueva decoración llega acompañada de mejoras en pista para Pérez en un circuito de rectas largas."
+      ],
+      "source": "ClaroSports",
+      "url": "https://www.clarosports.com/motor/formula-1/checo-perez-estrenara-nueva-imagen-en-su-cadillac-para-el-gp-de-las-vegas/"
+    },
+    {
       "id": "las-vegas-abre-final-antonelli-campeon",
       "cat": "carrera",
       "date": "2026-11-19",
