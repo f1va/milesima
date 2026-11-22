@@ -1,6 +1,126 @@
 {
   "articles": [
     {
+      "id": "verstappen-hereda-pole-las-vegas",
+      "cat": "carrera",
+      "date": "2026-11-21",
+      "title": "Verstappen hereda la pole en Las Vegas",
+      "summary": "Antonelli fue el más rápido (1:33.893), pero una sanción de cinco lugares lo manda al sexto puesto.",
+      "body": [
+        "Kimi Antonelli (Mercedes) marcó 1:33.893 y fue el más veloz de la clasificación; Max Verstappen quedó a 0.258 s, según lo publicado.",
+        "Mercedes montó el sexto motor de combustión de la temporada en el coche de Antonelli. Eso implica cinco lugares de castigo, así que saldrá sexto.",
+        "Con el ajuste, Verstappen (Red Bull) parte desde la pole y George Russell lo acompaña en primera fila. Lando Norris sería tercero e Isack Hadjar cuarto.",
+        "Piastri fue séptimo en pista, pero tiene 10 lugares de sanción y saldría 17.º. La parrilla es provisional mientras se revisa un posible incidente de Lindblad.",
+        "Lo que hay que observar: la arrancada entre Verstappen y Russell, que llegan con tensión desde la FP3, y qué tan rápido remonta Antonelli."
+      ],
+      "source": "Formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/antonelli-quickest-in-las-vegas-gp-qualifying-as-verstappen-inherits-pole-position.6R7udh8iYMHunSOGI6zStK"
+    },
+    {
+      "id": "checo-sale-18-las-vegas-cadillac",
+      "cat": "pilotos",
+      "date": "2026-11-21",
+      "title": "Checo saldrá 18.º en Las Vegas tras caer en Q1",
+      "summary": "Pérez marcó 1:37.383 y Cadillac quedó eliminado de inmediato; Bottas fue 21.º.",
+      "body": [
+        "Sergio Pérez (Cadillac) fue eliminado en la Q1 con un 1:37.383 y ocupó el puesto 18 de la clasificación, según las crónicas.",
+        "Valtteri Bottas terminó 21.º, de modo que los dos Cadillac se quedaron en la primera ronda.",
+        "En la FP3 Checo había sido 19.º, así que el resultado confirma que el ritmo no mejoró con el cambio de condiciones.",
+        "El orden final de salida puede variar por las sanciones de otros pilotos, por lo que su casilla definitiva se confirma con la parrilla oficial.",
+        "Lo que hay que observar: la estrategia. Con pista larga y rectas muy rápidas, salir atrás permite arriesgar con neumáticos y con el momento de las paradas."
+      ],
+      "source": "ClaroSports",
+      "url": "https://www.clarosports.com/motor/formula-1/verstappen-se-queda-con-la-pole-position-en-las-vegas-por-sancion-a-antonelli-checo-perez-saldra-en-la-posicion-18/",
+      "img": "img/noticias/checo-19-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Sergio Pérez con el Cadillac"
+    },
+    {
+      "id": "colapinto-largara-noveno-las-vegas",
+      "cat": "pilotos",
+      "date": "2026-11-21",
+      "title": "Colapinto largará noveno en Las Vegas",
+      "summary": "Franco llegó a la Q3, fue décimo en pista y sube un puesto por la sanción de Piastri; Gasly saldrá octavo.",
+      "body": [
+        "Franco Colapinto (Alpine) superó la Q1 y la Q2 y terminó décimo en la Q3, según los medios argentinos.",
+        "Por la sanción de 10 lugares a Oscar Piastri, que fue séptimo, Colapinto sube a la novena posición. Pierre Gasly saldrá octavo con el otro Alpine.",
+        "Es una continuidad de lo visto en la FP3, donde Franco fue quinto, y deja a Alpine con los dos coches en zona de puntos.",
+        "La parrilla es provisional: los comisarios revisan una posible liberación insegura de Lindblad, que podría mover el orden.",
+        "Lo que hay que observar: la salida y el desgaste de neumáticos en una carrera de 50 vueltas, donde el ritmo en recta pesa mucho."
+      ],
+      "source": "Cadena 3",
+      "url": "https://www.cadena3.com/noticia/las-vegas-2026/colapinto-tuvo-una-buena-clasificacion-y-largara-noveno-en-el-gp-de-las-vegas_615350",
+      "img": "img/noticias/colapinto-13-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Franco Colapinto con el Alpine"
+    },
+    {
+      "id": "verstappen-russell-fp3-aviso-las-vegas",
+      "cat": "pilotos",
+      "date": "2026-11-21",
+      "title": "Verstappen y Russell chocan en la FP3 de Las Vegas",
+      "summary": "Los comisarios solo dieron un aviso a Verstappen, pero la tensión sigue para la carrera.",
+      "body": [
+        "Max Verstappen y George Russell se tocaron ruedas en la curva 14 durante la FP3, en un adelantamiento a un piloto que iniciaba su vuelta.",
+        "Según la decisión de los comisarios, Verstappen cambió de trayectoria de forma impredecible al frenar. La sanción fue un aviso, sin castigo en parrilla.",
+        "Russell dijo que no hay nada en el reglamento que impida pasar a un piloto en vuelta de salida; Verstappen restó importancia: \"no pasó nada\".",
+        "Mañana saldrán uno junto al otro, en la primera fila.",
+        "Lo que hay que observar: el primer frenado de la curva 1, donde un contacto podría definir la carrera."
+      ],
+      "source": "PlanetF1",
+      "url": "https://www.planetf1.com/news/max-verstappen-fia-george-russell-las-vegas-grand-prix-2026-fp3",
+      "img": "img/noticias/verstappen-fp2-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY-SA 4.0 · Wikimedia Commons",
+      "imgAlt": "Max Verstappen con el Red Bull"
+    },
+    {
+      "id": "penalizaciones-parrilla-las-vegas-cinco",
+      "cat": "tecnica",
+      "date": "2026-11-21",
+      "title": "Cinco sanciones reordenan la parrilla de Las Vegas",
+      "summary": "Antonelli, Piastri, Sainz, Stroll y Bearman cargan castigos, según Crash.net y otros medios.",
+      "body": [
+        "Cinco pilotos tienen sanciones de parrilla en Las Vegas, relacionadas con cambios de componentes del motor.",
+        "Antonelli pierde cinco lugares; Piastri, Carlos Sainz y Lance Stroll, diez cada uno; y Oliver Bearman, 35, lo que lo manda al fondo.",
+        "Para Sainz esto complica una carrera que ya partía desde media tabla. Los medios no coinciden en su casilla exacta, así que conviene esperar la parrilla oficial.",
+        "Los castigos benefician a quienes están arriba: Norris sube al tercer lugar, y Gasly y Colapinto ganan una posición cada uno.",
+        "Lo que hay que observar: cuántos de los sancionados logran remontar en una pista donde se puede adelantar con facilidad."
+      ],
+      "source": "Crash.net",
+      "url": "https://www.crash.net/f1/news/1110516/1/f1-2026-las-vegas-grand-prix-starting-grid-after-five-engine-penalties"
+    },
+    {
+      "id": "ferrari-clasificacion-mala-las-vegas",
+      "cat": "equipos",
+      "date": "2026-11-21",
+      "title": "Ferrari tiene una clasificación floja en Las Vegas",
+      "summary": "Leclerc saldría décimo o undécimo y Hamilton justo detrás, según la fuente consultada.",
+      "body": [
+        "Crash.net calificó de pobre la clasificación de Ferrari: Charles Leclerc saldrá en el 10.º lugar, por delante de Lewis Hamilton.",
+        "Otros medios dan posiciones algo distintas (11.º y 12.º), por lo que el orden exacto depende de la parrilla oficial.",
+        "En la FP2 mojada Leclerc había sido tercero, así que el cambio de ritmo sorprende.",
+        "Lo que hay que observar: si Ferrari recupera con la estrategia, ya que sus dos coches arrancan dentro del grupo de puntos."
+      ],
+      "source": "Crash.net",
+      "url": "https://www.crash.net/f1/news/1110516/1/f1-2026-las-vegas-grand-prix-starting-grid-after-five-engine-penalties"
+    },
+    {
+      "id": "horarios-carrera-las-vegas-2026",
+      "cat": "carrera",
+      "date": "2026-11-21",
+      "title": "Horarios de la carrera de Las Vegas",
+      "summary": "Arranca el sábado 21 a las 20:00 locales; en Latinoamérica es de noche.",
+      "body": [
+        "La carrera es el sábado 21 a las 20:00 locales (UTC−8), que equivale al domingo 22 a las 04:00 UTC.",
+        "Centro de México: sábado 21, 22:00.",
+        "Colombia, Ecuador y Perú: sábado 21, 23:00.",
+        "Argentina: domingo 22, 01:00.",
+        "Confirma los horarios en el calendario oficial por si hubiera cambios."
+      ],
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-las-vegas-gp-2026-start-time-schedule-and-how-to-watch/10874866/"
+    },
+    {
       "id": "russell-lidera-fp2-mojada-las-vegas",
       "cat": "carrera",
       "date": "2026-11-20",
