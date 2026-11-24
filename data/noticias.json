@@ -1,112 +1,68 @@
 {
-  "updated": "2026-11-22",
+  "updated": "2026-11-24",
   "hero": {
     "kicker": "Tema del día",
-    "title": "Verstappen gana en Las Vegas",
-    "summary": "Venció a Norris por 0.639 s; Colapinto fue sexto, Sainz octavo, Alonso y Checo abandonaron.",
-    "article": "verstappen-gana-las-vegas-norris-piastri",
+    "title": "Checo sale castigado en Qatar",
+    "summary": "Cinco puestos de sanción por el choque con Câmara; Colapinto llega como sexto en Las Vegas.",
+    "article": "checo-sancion-cinco-puestos-qatar",
     "topics": [
-      "colapinto-sexto-las-vegas-alpine",
-      "checo-perez-abandona-las-vegas-camara",
-      "sainz-octavo-alonso-abandona-las-vegas",
-      "horarios-gp-qatar-2026"
+      "cadillac-sin-puntos-quedan-qatar-abu-dabi",
+      "colapinto-llega-a-qatar-tras-sexto-las-vegas",
+      "horarios-gp-qatar-2026",
+      "antonelli-campeon-lidera-98-puntos"
     ]
   },
   "articles": [
     {
-      "id": "verstappen-gana-las-vegas-norris-piastri",
-      "cat": "carrera",
-      "date": "2026-11-22",
-      "title": "Verstappen gana en Las Vegas tras una última vuelta caótica",
-      "summary": "Max Verstappen ganó desde la pole por 0.639 s sobre Norris; Piastri fue tercero y Antonelli, cuarto.",
-      "body": [
-        "Max Verstappen ganó el GP de Las Vegas saliendo desde la pole que heredó tras la sanción a Antonelli. Terminó las 50 vueltas en 1:27:39.624 y le sacó 0.639 s a Lando Norris, según lo publicado por Formula1.com.",
-        "Oscar Piastri completó el podio para McLaren. Kimi Antonelli cruzó cuarto, después de perder rendimiento en la última vuelta, y Pierre Gasly fue quinto para Alpine.",
-        "Las crónicas coinciden en que Russell chocó cuando intentaba pasar a su compañero de Mercedes, lo que alteró el final. Antonelli arrastró el problema hasta la meta y dejó pasar a los dos McLaren.",
-        "Para Verstappen es su cuarta victoria del año. Quedan dos fechas, Qatar y Abu Dhabi.",
-        "Lo que hay que observar: cómo responde Mercedes tras perder un podio que parecía suyo."
-      ],
-      "source": "Formula1.com",
-      "url": "https://www.formula1.com/en/latest/article/verstappen-wins-exhilarating-las-vegas-grand-prix-from-norris-and-piastri.2eeBWqekZdir9mdDVK9YVX",
-      "img": "img/noticias/verstappen-fp2-sepang.jpg",
-      "imgCredit": "Liauzh · CC BY-SA 4.0 · Wikimedia Commons",
-      "imgAlt": "Max Verstappen con el Red Bull"
-    },
-    {
-      "id": "colapinto-sexto-las-vegas-alpine",
+      "id": "checo-sancion-cinco-puestos-qatar",
       "cat": "pilotos",
-      "date": "2026-11-22",
-      "title": "Colapinto termina sexto en Las Vegas e iguala su mejor resultado",
-      "summary": "El argentino sumó ocho puntos y Alpine puntuó doble, con Gasly quinto.",
+      "date": "2026-11-24",
+      "title": "Checo Pérez saldrá con cinco puestos de castigo en Qatar",
+      "summary": "Los comisarios lo responsabilizaron del choque con Rafael Câmara en Las Vegas.",
       "body": [
-        "Franco Colapinto terminó sexto en Las Vegas, con Alpine, e igualó su mejor resultado en la F1. Largó noveno.",
-        "Según Infobae y otros medios argentinos, cruzó la meta séptimo y subió un lugar cuando Leclerc recibió 10 segundos de sanción por el choque con Hamilton.",
-        "Con Gasly quinto, Alpine tuvo a sus dos autos en los puntos. Los medios señalan que Colapinto cortó una racha de seis carreras sin sumar.",
-        "Hay versiones distintas sobre cómo influyó un coche de seguridad en su carrera; conviene revisar la cronología oficial.",
-        "Lo que hay que observar: si Alpine mantiene este ritmo en Qatar."
+        "Los comisarios de la FIA sancionaron a Checo Pérez con cinco posiciones en la parrilla del GP de Qatar, según lo publicado por medios mexicanos.",
+        "El castigo llega por el choque con Rafael Câmara en Las Vegas, carrera en la que el mexicano abandonó con Cadillac.",
+        "Qatar se corre del 27 al 29 de noviembre en Lusail. La penalización se aplicará sobre la posición con la que termine la clasificación.",
+        "Lo que hay que observar: cuánto limita el castigo sus opciones de puntuar en una de las dos fechas que quedan."
       ],
-      "source": "Infobae",
-      "url": "https://www.infobae.com/deportes/2026/11/22/radiografia-de-la-carrera-de-colapinto-en-el-gp-de-las-vegas-de-f1-gran-largada-sobrepasos-y-otra-vez-en-los-puntos/",
-      "img": "img/noticias/colapinto-13-sepang.jpg",
-      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
-      "imgAlt": "Franco Colapinto con el Alpine"
-    },
-    {
-      "id": "checo-perez-abandona-las-vegas-camara",
-      "cat": "pilotos",
-      "date": "2026-11-22",
-      "title": "Checo no ve la meta en Las Vegas tras tocar a Câmara",
-      "summary": "Pérez se retiró después de un incidente con Rafael Câmara; las fuentes no coinciden en el detalle.",
-      "body": [
-        "Checo Pérez salió 18.º en Las Vegas y no terminó la carrera con Cadillac.",
-        "Según lo publicado, giró a Rafael Câmara en un incidente que lo dejó fuera. Otros reportes mencionan un accidente en la vuelta 19 que provocó un coche de seguridad.",
-        "Una tabla de resultados lo marca como DNS, un dato que no cuadra con el relato de la carrera, así que el estatus oficial queda sin confirmar.",
-        "Es otro fin de semana difícil para Cadillac, que ya arrastraba fallas y abandonos en 2026.",
-        "Lo que hay que observar: si la FIA revisa el incidente y si hay sanción para Qatar."
-      ],
-      "source": "Sky Sports",
-      "url": "https://www.skysports.com/f1/news/13615083/las-vegas-gp-max-verstappen-wins-wild-race-as-ferraris-lewis-hamilton-and-charles-leclerc-collide-again",
+      "source": "ABC Noticias",
+      "url": "https://abcnoticias.mx/deportes/2026/11/22/checo-perez-recibe-sancion-de-cinco-puestos-para-el-gran-premio-de-qatar-296256.html",
       "img": "img/noticias/checo-19-sepang.jpg",
       "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
-      "imgAlt": "Sergio Pérez con el Cadillac"
+      "imgAlt": "Checo Pérez"
     },
     {
-      "id": "hamilton-leclerc-chocan-las-vegas",
+      "id": "cadillac-sin-puntos-quedan-qatar-abu-dabi",
       "cat": "equipos",
-      "date": "2026-11-22",
-      "title": "Hamilton y Leclerc vuelven a chocar en Las Vegas",
-      "summary": "Leclerc recibió 10 s por girar a Hamilton; terminaron 10.º y 7.º.",
+      "date": "2026-11-24",
+      "title": "Cadillac sigue sin puntos y le quedan dos carreras",
+      "summary": "Qatar y Abu Dabi son las últimas opciones de estrenarse en su primera temporada.",
       "body": [
-        "Los dos Ferrari volvieron a tocarse en Las Vegas. Leclerc giró a Lewis Hamilton y recibió 10 segundos de sanción.",
-        "Hamilton ya tenía otros 10 segundos por ir fuera de pista y ganar ventaja. Terminó séptimo; Leclerc, décimo.",
-        "Es la segunda vez que los pilotos de Ferrari chocan entre sí, según Sky Sports.",
-        "La sanción de Leclerc subió a Colapinto al sexto puesto.",
-        "Lo que hay que observar: cómo maneja Ferrari el trato entre sus pilotos en las dos fechas finales."
+        "Según 365scores, Cadillac todavía no suma puntos en su temporada de debut.",
+        "Checo Pérez buscará sumar en Qatar y en Abu Dabi, las dos fechas que restan del calendario.",
+        "La sanción de cinco puestos en la parrilla de Qatar complica el primer objetivo.",
+        "Lo que hay que observar: si el ritmo de carrera alcanza para aprovechar abandonos de rivales."
       ],
-      "source": "Sky Sports",
-      "url": "https://www.skysports.com/f1/news/13615083/las-vegas-gp-max-verstappen-wins-wild-race-as-ferraris-lewis-hamilton-and-charles-leclerc-collide-again",
-      "img": "img/noticias/leclerc-austria.jpg",
-      "imgCredit": "Lukas Raich · CC BY-SA 4.0 · Wikimedia Commons",
-      "imgAlt": "Charles Leclerc con el Ferrari"
+      "source": "365scores",
+      "url": "https://www.365scores.com/es/news/f1-colapinto-checo-perez-qatar-cronogram/"
     },
     {
-      "id": "sainz-octavo-alonso-abandona-las-vegas",
+      "id": "colapinto-llega-a-qatar-tras-sexto-las-vegas",
       "cat": "pilotos",
-      "date": "2026-11-22",
-      "title": "Sainz remonta al octavo puesto y Alonso abandona",
-      "summary": "Carlos Sainz salió 20.º y sumó cuatro puntos para Williams; Alonso se retiró con problemas de motor.",
+      "date": "2026-11-24",
+      "title": "Colapinto llega a Qatar tras igualar su mejor resultado",
+      "summary": "El argentino fue sexto en Las Vegas y Alpine buscará mantener el ritmo en Lusail.",
       "body": [
-        "Carlos Sainz salió desde la vigésima plaza y terminó octavo con Williams. Las crónicas lo consideran su mejor resultado del año.",
-        "Sumó cuatro puntos, con lo que llegó a 11 en el campeonato, según una tabla publicada.",
-        "Fernando Alonso se detuvo con Aston Martin a falta de una vuelta, por una falla en la unidad de potencia. No sumó puntos.",
-        "Las crónicas difieren en si fue clasificado 19.º o último.",
-        "Lo que hay que observar: si Williams sostiene esta mejora en Qatar."
+        "Franco Colapinto vuelve a pista este fin de semana en el GP de Qatar tras terminar sexto en Las Vegas, con lo que igualó su mejor resultado en la Fórmula 1, según Infobae.",
+        "Alpine sumó una buena cantidad de puntos en esa carrera, de acuerdo con la misma fuente.",
+        "La actividad comienza el viernes 27 de noviembre. Los horarios en tu país están en nuestra nota de horarios.",
+        "Lo que hay que observar: si Alpine confirma en Lusail el ritmo que mostró en Las Vegas."
       ],
-      "source": "Mundiario",
-      "url": "https://www.mundiario.com/deportes/formula-1/sainz-rescata-williams-vegas-alonso-vuelve-sufrir-aston-martin/20261122065747454309.html",
-      "img": "img/noticias/sainz-austria.jpg",
-      "imgCredit": "Lukas Raich · CC BY-SA 4.0 · Wikimedia Commons",
-      "imgAlt": "Carlos Sainz con el Williams"
+      "source": "Infobae",
+      "url": "https://www.infobae.com/deportes/2026/11/24/franco-colapinto-saldra-a-pista-este-fin-de-semana-en-el-gran-premio-de-qatar-de-formula-1-todo-lo-que-hay-que-saber/",
+      "img": "img/noticias/colapinto-13-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Franco Colapinto"
     },
     {
       "id": "antonelli-campeon-lidera-98-puntos",
