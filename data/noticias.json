@@ -1,86 +1,94 @@
 {
-  "updated": "2026-11-26",
+  "updated": "2026-11-28",
   "hero": {
     "kicker": "Tema del día",
-    "title": "Colapinto advierte: Lusail castiga errores",
-    "summary": "Tras igualar su mejor resultado en Las Vegas, el argentino llega a Qatar con Alpine en alza; Checo sale con cinco puestos de castigo.",
-    "article": "colapinto-advierte-lusail-castiga-errores",
+    "title": "Antonelli y Mercedes dominan el viernes en Qatar",
+    "summary": "Antonelli lideró las dos prácticas; Colapinto fue 15.º en la FP2 y Checo 21.º en la FP1.",
+    "article": "antonelli-domina-viernes-qatar",
     "topics": [
-      "checo-explica-choque-camara-sancion",
-      "alpine-llega-a-qatar-con-18-puntos-de-vegas",
-      "checo-circuito-qatar-complica-cadillac",
+      "colapinto-15-fp2-qatar-frenos-alpine",
+      "checo-21-fp1-qatar-cadillac",
+      "hamilton-para-en-pista-fp2-qatar",
       "horarios-gp-qatar-2026"
     ]
   },
   "articles": [
     {
-      "id": "colapinto-advierte-lusail-castiga-errores",
-      "cat": "pilotos",
-      "date": "2026-11-26",
-      "title": "Colapinto advierte: Lusail castiga los errores",
-      "summary": "Tras su sexto lugar en Las Vegas, el argentino busca puntuar otra vez en Qatar.",
+      "id": "antonelli-domina-viernes-qatar",
+      "cat": "carrera",
+      "date": "2026-11-28",
+      "title": "Antonelli manda en Lusail y Mercedes domina el viernes",
+      "summary": "Kimi Antonelli fue el más rápido en las dos prácticas de Qatar, con Russell segundo en ambas.",
       "body": [
-        "Franco Colapinto llega a Qatar tras igualar su mejor resultado en la F1: fue sexto en Las Vegas, según Infobae y otros medios argentinos.",
-        "Antes del fin de semana advirtió que Lusail es un circuito donde cualquier salida de pista se paga caro. Según lo publicado, hay grava en varias zonas y poco margen de error.",
-        "También dijo que espera una carrera más convencional que la de Las Vegas, donde el rebufo fue extremo.",
-        "La actividad empieza el viernes 27 de noviembre. Los horarios por país están en nuestra nota de horarios.",
-        "Lo que hay que observar: si Alpine confirma desde la práctica 1 el ritmo que mostró en Las Vegas."
+        "Kimi Antonelli cerró el viernes en Qatar con el mejor tiempo de las dos prácticas libres, según los reportes de la jornada.",
+        "En la práctica 1 marcó 1:23.217 y George Russell quedó a 0.507 s. Isack Hadjar (Red Bull) fue tercero, a 0.661 s.",
+        "En la práctica 2 Antonelli mejoró a 1:23.077 con neumático medio. Russell fue segundo a 0.127 s, y Lando Norris y Oscar Piastri fueron tercero y cuarto, separados por solo 0.027 s.",
+        "Max Verstappen fue quinto, seguido de Hadjar. Charles Leclerc y Lewis Hamilton, séptimo y octavo, quedaron a más de un segundo del líder.",
+        "La sesión tuvo dos banderas rojas y se alargó 13 minutos. Según los reportes, ni Antonelli ni Russell completaron una vuelta limpia con blandos.",
+        "Lo que hay que observar: si Mercedes mantiene esa ventaja cuando todos usen neumático blando en la clasificación."
       ],
-      "source": "Infobae",
-      "url": "https://www.infobae.com/deportes/2026/11/24/tras-su-mejor-actuacion-en-formula-1-franco-colapinto-adelanto-cual-es-el-gran-riesgo-que-afrontara-en-el-gran-premio-de-qatar/",
+      "source": "Formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/fp2-antonelli-tops-extended-second-practice-from-russell-and-norris-in-qatar.6jAa2kcIAVqOPHW30oipfm",
+      "img": "img/noticias/antonelli-ventaja-84.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Kimi Antonelli celebrando"
+    },
+    {
+      "id": "colapinto-15-fp2-qatar-frenos-alpine",
+      "cat": "pilotos",
+      "date": "2026-11-28",
+      "title": "Colapinto termina 15.º en la FP2 de Qatar",
+      "summary": "Una jornada complicada para Alpine, con problemas de frenos y un trompo de Gasly.",
+      "body": [
+        "Franco Colapinto fue 12.º en la práctica 1 de Qatar, a 2.192 s de Antonelli, y 15.º en la práctica 2.",
+        "En la segunda sesión su mejor vuelta fue 1:25.733, a 2.656 s del líder. Medios argentinos la describieron como una jornada difícil para Alpine.",
+        "Según lo publicado, el equipo tuvo inconvenientes con los frenos. Pierre Gasly además se salió en la grava de la curva 14 y no pudo seguir, lo que provocó una de las banderas rojas.",
+        "Las interrupciones limitaron el trabajo de ritmo en ambas prácticas, por lo que es difícil sacar conclusiones.",
+        "Lo que hay que observar: la práctica 3 del sábado (11:30 en Argentina) para ver si Alpine corrige los frenos antes de la clasificación."
+      ],
+      "source": "Canal Showsport",
+      "url": "https://canalshowsport.com.ar/colapinto-finalizo-15-en-la-segunda-practica-libre-del-gran-premio-de-qatar/",
       "img": "img/noticias/colapinto-13-sepang.jpg",
       "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
       "imgAlt": "Franco Colapinto"
     },
     {
-      "id": "checo-explica-choque-camara-sancion",
+      "id": "checo-21-fp1-qatar-cadillac",
       "cat": "pilotos",
-      "date": "2026-11-26",
-      "title": "Checo cuenta cómo fue el choque con Câmara",
-      "summary": "Según Excélsior, la sanción de cinco puestos sustituye a los 10 segundos que no pudo cumplir.",
+      "date": "2026-11-28",
+      "title": "Checo arranca Qatar 21.º en la práctica 1",
+      "summary": "El mexicano quedó a 3.469 s de Antonelli, según la tabla de F1i; solo Bottas fue más lento.",
       "body": [
-        "Los comisarios consideraron a Checo Pérez responsable del choque con Rafael Câmara en la vuelta 18 de Las Vegas, según Excélsior.",
-        "Como Checo abandonó, la penalización de 10 segundos se convirtió en cinco puestos de castigo en la parrilla de Qatar.",
-        "El mexicano contó que Câmara se disculpó después y le dijo que no lo había visto.",
-        "El castigo se aplica sin importar en qué lugar clasifique.",
-        "Lo que hay que observar: cuánto limita la sanción sus opciones en la carrera del domingo."
+        "Checo Pérez terminó la práctica 1 del GP de Qatar en el lugar 21, según la tabla publicada por F1i.",
+        "Su diferencia con Antonelli fue de 3.469 s. Solo su compañero Valtteri Bottas quedó por detrás.",
+        "Es el primer fin de semana en que Checo debe cumplir cinco puestos de castigo en parrilla por el choque con Câmara en Las Vegas.",
+        "No pude confirmar su resultado de la práctica 2, así que no lo incluyo.",
+        "Lo que hay que observar: el ritmo de Cadillac en tandas largas, más que la vuelta rápida, dado el castigo."
       ],
-      "source": "Excélsior",
-      "url": "https://www.excelsior.com.mx/deportes/checo-perez-sancionado-para-qatar-y-explica-accidente-con-camara-vegas",
+      "source": "F1i",
+      "url": "https://f1i.com/news/578921-qatar-grand-prix-free-practice-1-results-4.html",
       "img": "img/noticias/checo-19-sepang.jpg",
       "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
       "imgAlt": "Checo Pérez"
     },
     {
-      "id": "alpine-llega-a-qatar-con-18-puntos-de-vegas",
+      "id": "hamilton-para-en-pista-fp2-qatar",
       "cat": "equipos",
-      "date": "2026-11-26",
-      "title": "Alpine llega a Qatar con su mejor fin de semana del año",
-      "summary": "Gasly fue quinto y Colapinto sexto en Las Vegas, para 18 puntos en total.",
+      "date": "2026-11-28",
+      "title": "Hamilton se detiene en pista en la FP2 de Qatar",
+      "summary": "El piloto de Ferrari reportó un problema de motor; terminó octavo, a más de un segundo de Antonelli.",
       "body": [
-        "Alpine viene de su mejor fin de semana de 2026: Pierre Gasly terminó quinto y Franco Colapinto sexto en Las Vegas, según lo publicado por medios argentinos.",
-        "Entre los dos sumaron 18 puntos en una sola carrera.",
-        "Colapinto dijo que el equipo quiere mantener el impulso en Lusail.",
-        "Se espera calor en Qatar, lo que pondrá a prueba la refrigeración y la fiabilidad de las unidades de potencia.",
-        "Lo que hay que observar: si el ritmo de Las Vegas se repite en un trazado de curvas rápidas."
+        "Lewis Hamilton detuvo su Ferrari en pista hacia el final de la práctica 2 en Qatar, según los reportes de la sesión.",
+        "Por radio habló de un problema con el motor. Su mejor tiempo lo dejó octavo, a más de un segundo de Antonelli.",
+        "Charles Leclerc fue séptimo, también a más de un segundo del líder.",
+        "Ferrari no había detallado la causa en lo que pude consultar, así que queda pendiente saber si habrá cambio de componentes.",
+        "Lo que hay que observar: si Ferrari tiene que cambiar elementos del motor y eso trae castigo en parrilla."
       ],
-      "source": "Grande Premio",
-      "url": "https://grandepremio.com/es/f1/franco-colapinto-alpine-previa-gp-qatar-f1-2026/"
-    },
-    {
-      "id": "checo-circuito-qatar-complica-cadillac",
-      "cat": "equipos",
-      "date": "2026-11-26",
-      "title": "Checo advierte que Lusail complica a Cadillac",
-      "summary": "El mexicano habló del trazado antes de su carrera en Qatar con castigo.",
-      "body": [
-        "Checo Pérez explicó por qué el circuito de Qatar es difícil para Cadillac, según ABC Noticias. No pude leer el texto completo, así que no incluyo más declaraciones.",
-        "Otros medios apuntan a que las curvas rápidas de Lusail pueden dejar al descubierto las debilidades del coche.",
-        "Cadillac sigue sin puntos en su temporada de debut y quedan dos carreras: Qatar y Abu Dabi.",
-        "Lo que hay que observar: el ritmo de carrera frente al pelotón medio, más que la posición de salida."
-      ],
-      "source": "ABC Noticias",
-      "url": "https://abcnoticias.mx/deportes/2026/11/24/checo-perez-explica-por-que-el-circuito-de-qatar-complica-a-cadillac-296493.html"
+      "source": "TSN",
+      "url": "https://www.tsn.ca/motorsports/formula-1/article/antonelli-quickest-again-in-fp2-at-qatar-gp-hamilton-stops-on-track-n1-50603962/",
+      "img": "img/noticias/hamilton-quali-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY-SA 4.0 · Wikimedia Commons",
+      "imgAlt": "Lewis Hamilton con el Ferrari"
     },
     {
       "id": "antonelli-campeon-lidera-98-puntos",
@@ -103,13 +111,13 @@
     {
       "id": "horarios-gp-qatar-2026",
       "cat": "carrera",
-      "date": "2026-11-22",
+      "date": "2026-11-28",
       "title": "Horarios del GP de Qatar: sesiones y carrera",
-      "summary": "La carrera es el domingo 29 de noviembre a las 16:00 UTC; abajo, tu hora local.",
+      "summary": "Hoy sábado hay práctica 3 y clasificación; la carrera es mañana a las 16:00 UTC.",
       "body": [
         "El GP de Qatar se corre del 27 al 29 de noviembre en Lusail. Las fuentes consultadas no lo listan con sprint; confirma en el programa oficial.",
-        "Viernes 27 (UTC 13:30 y 17:00): práctica 1 a las 7:30 en centro de México, 8:30 en Colombia/Ecuador/Perú y 10:30 en Argentina; práctica 2 a las 11:00, 12:00 y 14:00.",
-        "Sábado 28: práctica 3 (14:30 UTC) a las 8:30, 9:30 y 11:30; clasificación (18:00 UTC) a las 12:00, 13:00 y 15:00.",
+        "Hoy sábado 28: práctica 3 (14:30 UTC) a las 8:30 en centro de México, 9:30 en Colombia/Ecuador/Perú y 11:30 en Argentina.",
+        "Clasificación (18:00 UTC): 12:00 en centro de México, 13:00 en Colombia/Ecuador/Perú y 15:00 en Argentina.",
         "Domingo 29: carrera (16:00 UTC) a las 10:00 en centro de México, 11:00 en Colombia/Ecuador/Perú y 13:00 en Argentina.",
         "Los horarios están sujetos a cambios."
       ],

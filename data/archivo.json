@@ -1,6 +1,75 @@
 {
   "articles": [
     {
+      "id": "colapinto-advierte-lusail-castiga-errores",
+      "cat": "pilotos",
+      "date": "2026-11-26",
+      "title": "Colapinto advierte: Lusail castiga los errores",
+      "summary": "Tras su sexto lugar en Las Vegas, el argentino busca puntuar otra vez en Qatar.",
+      "body": [
+        "Franco Colapinto llega a Qatar tras igualar su mejor resultado en la F1: fue sexto en Las Vegas, según Infobae y otros medios argentinos.",
+        "Antes del fin de semana advirtió que Lusail es un circuito donde cualquier salida de pista se paga caro. Según lo publicado, hay grava en varias zonas y poco margen de error.",
+        "También dijo que espera una carrera más convencional que la de Las Vegas, donde el rebufo fue extremo.",
+        "La actividad empieza el viernes 27 de noviembre. Los horarios por país están en nuestra nota de horarios.",
+        "Lo que hay que observar: si Alpine confirma desde la práctica 1 el ritmo que mostró en Las Vegas."
+      ],
+      "source": "Infobae",
+      "url": "https://www.infobae.com/deportes/2026/11/24/tras-su-mejor-actuacion-en-formula-1-franco-colapinto-adelanto-cual-es-el-gran-riesgo-que-afrontara-en-el-gran-premio-de-qatar/",
+      "img": "img/noticias/colapinto-13-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Franco Colapinto"
+    },
+    {
+      "id": "checo-explica-choque-camara-sancion",
+      "cat": "pilotos",
+      "date": "2026-11-26",
+      "title": "Checo cuenta cómo fue el choque con Câmara",
+      "summary": "Según Excélsior, la sanción de cinco puestos sustituye a los 10 segundos que no pudo cumplir.",
+      "body": [
+        "Los comisarios consideraron a Checo Pérez responsable del choque con Rafael Câmara en la vuelta 18 de Las Vegas, según Excélsior.",
+        "Como Checo abandonó, la penalización de 10 segundos se convirtió en cinco puestos de castigo en la parrilla de Qatar.",
+        "El mexicano contó que Câmara se disculpó después y le dijo que no lo había visto.",
+        "El castigo se aplica sin importar en qué lugar clasifique.",
+        "Lo que hay que observar: cuánto limita la sanción sus opciones en la carrera del domingo."
+      ],
+      "source": "Excélsior",
+      "url": "https://www.excelsior.com.mx/deportes/checo-perez-sancionado-para-qatar-y-explica-accidente-con-camara-vegas",
+      "img": "img/noticias/checo-19-sepang.jpg",
+      "imgCredit": "Liauzh · CC BY 4.0 · Wikimedia Commons",
+      "imgAlt": "Checo Pérez"
+    },
+    {
+      "id": "alpine-llega-a-qatar-con-18-puntos-de-vegas",
+      "cat": "equipos",
+      "date": "2026-11-26",
+      "title": "Alpine llega a Qatar con su mejor fin de semana del año",
+      "summary": "Gasly fue quinto y Colapinto sexto en Las Vegas, para 18 puntos en total.",
+      "body": [
+        "Alpine viene de su mejor fin de semana de 2026: Pierre Gasly terminó quinto y Franco Colapinto sexto en Las Vegas, según lo publicado por medios argentinos.",
+        "Entre los dos sumaron 18 puntos en una sola carrera.",
+        "Colapinto dijo que el equipo quiere mantener el impulso en Lusail.",
+        "Se espera calor en Qatar, lo que pondrá a prueba la refrigeración y la fiabilidad de las unidades de potencia.",
+        "Lo que hay que observar: si el ritmo de Las Vegas se repite en un trazado de curvas rápidas."
+      ],
+      "source": "Grande Premio",
+      "url": "https://grandepremio.com/es/f1/franco-colapinto-alpine-previa-gp-qatar-f1-2026/"
+    },
+    {
+      "id": "checo-circuito-qatar-complica-cadillac",
+      "cat": "equipos",
+      "date": "2026-11-26",
+      "title": "Checo advierte que Lusail complica a Cadillac",
+      "summary": "El mexicano habló del trazado antes de su carrera en Qatar con castigo.",
+      "body": [
+        "Checo Pérez explicó por qué el circuito de Qatar es difícil para Cadillac, según ABC Noticias. No pude leer el texto completo, así que no incluyo más declaraciones.",
+        "Otros medios apuntan a que las curvas rápidas de Lusail pueden dejar al descubierto las debilidades del coche.",
+        "Cadillac sigue sin puntos en su temporada de debut y quedan dos carreras: Qatar y Abu Dabi.",
+        "Lo que hay que observar: el ritmo de carrera frente al pelotón medio, más que la posición de salida."
+      ],
+      "source": "ABC Noticias",
+      "url": "https://abcnoticias.mx/deportes/2026/11/24/checo-perez-explica-por-que-el-circuito-de-qatar-complica-a-cadillac-296493.html"
+    },
+    {
       "id": "checo-sancion-cinco-puestos-qatar",
       "cat": "pilotos",
       "date": "2026-11-24",
